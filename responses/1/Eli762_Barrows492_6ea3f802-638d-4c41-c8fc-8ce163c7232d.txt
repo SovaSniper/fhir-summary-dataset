@@ -1,0 +1,42 @@
+**Patient Summary for Barrows492 Eli762**
+
+**Demographics:** 
+- Name: Barrows492 Eli762
+- Gender: Male
+- Date of Birth: September 10, 2005
+- Address: 382 Williamson Heights, West Caln, PA, 00000
+
+**Medical History:**
+- The patient has a history of otitis media in September 2014, and acute viral pharyngitis in September 2017.
+- In August 2018, he was diagnosed with chronic sinusitis, and later with a fracture of the forearm in January 2019. 
+- The patient experienced viral sinusitis in September 2019 and a wrist sprain in January 2020.
+- His most recent diagnosis includes generalized anxiety disorder, with scores of 3 on GAD-7 and 2 on PHQ.Teen in October 2021.
+
+**Vital Signs and Measurements:**
+- Height has increased from 143 cm at birth to 185.9 cm in October 2022.
+- Weight has increased from 30.9 kg at birth to 79 kg in October 2022.
+- BMI has increased from 15.12 kg/m2 to 22.84 kg/m2.
+- Blood pressure ranges from 68/110 mm[Hg] to 72/125 mm[Hg].
+- Heart rate ranges from 65 to 85 beats/min.
+- Respiratory rate ranges from 12 to 14 breaths/min.
+
+**Lab Results (Selected):**
+- Leukocytes: 8.94 - 9.49 10*3/uL
+- Erythrocytes: 4.28 - 4.99 10*6/uL
+- Hemoglobin: 13.34 - 14.34 g/dL
+- Hematocrit: 44.33 - 46.04%
+- Platelets: 167.81 - 261.88 10*3/uL
+
+**Immunization History:**
+- Influenza vaccines administered annually since 2014.
+- HPV, quadrivalent vaccine administered in 2016 and 2017.
+- Meningococcal MCV4P vaccine administered in 2021.
+- COVID-19 vaccine received in May and June 2021.
+
+**Current Situation:**
+- The patient presents with generalized anxiety disorder, with a GAD-7 score of 3 and PHQ.Teen score of 2 in October 2022.
+
+**Recommendations:**
+1. **Medication Review:** A thorough review of the patient's current medications and their effectiveness in managing anxiety is advised.
+2. **Continued Mental Health Support:** Given the ongoing anxiety concerns, it is recommended that the patient continues to receive support from a mental health professional.
+3. **Regular Follow-up:** Scheduled follow-up appointments to monitor

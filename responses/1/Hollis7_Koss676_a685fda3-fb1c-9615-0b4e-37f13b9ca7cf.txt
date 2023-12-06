@@ -1,0 +1,63 @@
+Patient ID: a685fda3-fb1c-9615-0b4e-37f13b9ca7cf
+Name: Koss676 Hollis7
+Gender: Male
+Date of Birth: March 1, 2016
+Address: 347 Balistreri Bypass, Suite 3, DeWitt Charter, MI 00000
+
+**Medical History Summary:**
+
+Patient Koss676 Hollis7 is a male born on March 1, 2016. Over the course of his medical history, he has undergone regular check-ups and immunizations. His vital statistics, growth, and overall health have been consistently monitored.
+
+**Treatment Course:**
+
+- **2016-03-01:** At the age of 52.2 cm and 3.8 kg, the patient reported a pain severity score of 3. Immunizations were completed for Hepatitis B (adolescent or pediatric).
+
+- **2016-04-05:** Patient's height increased to 56.2 cm, and weight to 4.7 kg, with a pain severity score of 0.
+
+- **2016-06-07:** The patient continued to grow, measuring 61.6 cm in height and 6.1 kg in weight. Various immunizations were administered, including Hib, rotavirus, IPV, DTaP, and Pneumococcal conjugate PCV 13.
+
+- **2016-08-09:** The patient's growth continued, reaching a height of 65.7 cm and a weight of 7.3 kg. Immunizations for Hib, rotavirus, IPV, DTaP, and Pneumococcal conjugate PCV 13 were completed.
+
+- **2016-11-08:** At this stage, the patient measured 70.5 cm in height and 8.7 kg in weight. Immunizations included IPV, Influenza, seasonal (injectable, preservative-free), DTaP, Pneumococcal conjugate PCV 13, and Hepatitis B (adolescent or pediatric).
+
+- **2017-02-07:** Patient Koss676 Hollis7 continued to grow, reaching a height of 77.8 cm and a weight of 10.6 kg. Immunizations included Hib (PRP-OMP), varicella, MMR, Pneumococcal conjugate PCV 13, and Hepatitis A (ped/adol, 2 doses).
+
+- **2017-05-09:** The patient's height reached 80.9 cm, and weight 11.2 kg, with a pain severity score of 4. Immunizations were completed for DTaP.
+
+- **2017-08-08:** At this stage, the patient measured 86.2 cm in height and 12.2 kg in weight, with a pain severity score of 1. Immunizations included Influenza, seasonal (injectable, preservative-free).
+
+- **2018-02-06:** Patient's height increased to 90 cm, weight to 13 kg, with a BMI of 16 kg/m2. Immunizations included Hepatitis A (ped/adol, 2 doses).
+
+- **2018-08-07:** The patient's height was 94 cm, weight 14 kg, and BMI 15.9 kg/m2. Immunizations included Influenza, seasonal (injectable, preservative-free).
+
+- **2019-02-05:** Patient's height reached 97.7 cm, weight 15.6 kg, and BMI 16.38 kg/m2. Immunizations included Hepatitis A (ped/adol, 2 doses).
+
+- **2019-08-06:** At this stage, the patient measured 101.2 cm in height, weight 17.2 kg, and BMI 16.75 kg/m2. Immunizations included Influenza, seasonal (injectable, preservative-free).
+
+- **2020-02-04:** Patient's height increased to 107.8 cm, weight to 19.8 kg, and BMI 17.01 kg/m2. Immunizations included varicella.
+
+- **2021-02-09:** The patient received immunizations for IPV, Influenza, seasonal (injectable, preservative-free), DTaP, and MMR.
+
+- **2022-02-15:** Patient's height reached 120.6 cm, weight 28 kg, and BMI 19.24 kg/m2. Immunizations included Influenza, seasonal (injectable, preservative-free).
+
+- **2023-02-21:** Most recently, at the age of 7, the patient measured 114.2 cm in height and weighed 22.3 kg, with a BMI of 17.08 kg/m2. Blood pressure readings have fluctuated, but remain within acceptable limits.
+
+**Relevant Clinical Information:**
+
+The patient has shown normal growth patterns and has completed a series of recommended immunizations. Blood pressure measurements have remained stable, with no concerning trends. Hematological values, including leukocytes, erythrocytes, and platelets, have been within normal ranges.
+
+**Advice and Course of Action:**
+
+1. Continue regular check-ups and immunizations as per the recommended schedule to ensure the patient's ongoing protection against preventable diseases.
+
+2. Monitor the patient's pain severity and address any reported pain promptly to ensure their comfort and well-being.
+
+3. Maintain a healthy lifestyle, including a balanced diet and regular physical activity, to support the patient's growth and development.
+
+4. Continue to monitor blood pressure, ensuring it remains within normal ranges.
+
+5. Educate the patient and their family on the importance of vaccinations and preventive healthcare measures.
+
+6. Schedule a medication review to ensure the patient's current medications, if any, are appropriate for their age and condition.
+
+Overall, patient Koss676 Hollis7 has a positive medical history with consistent growth and immunization compliance. The focus should remain on preventive care and monitoring to support the patient's healthy development and well-being.

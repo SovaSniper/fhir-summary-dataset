@@ -1,0 +1,40 @@
+Patient Name: Kristofer887 Senger904
+Gender: Male
+Date of Birth: November 17, 2000
+Address: 313 Hahn Green, Suite 21, Keene, MI, 00000
+
+Medical History Summary:
+
+Mr. Kristofer887 Senger904 is a 22-year-old male with a history of generalized anxiety disorder (GAD) since 2013. He has been consistently monitored with GAD-7 and PHQ-9 scores, which have indicated mild anxiety symptoms. He received seasonal influenza and HPV vaccinations in December 2013. Additionally, he received the SARS-COV-2 (COVID-19) vaccine in May and June 2021. Notably, he reported intimate partner abuse and has shown an increasing trend in the HARK questionnaire score since January 2022.
+
+Physical Measurements:
+
+- Height: Ranging from 156.2 cm to 176.7 cm over the years.
+- Weight: Fluctuating from 56.1 kg to 93.1 kg, with a BMI percentile consistently above the 88th percentile for age and sex.
+- Blood Pressure: Within normal range, with systolic readings ranging from 78 to 86 mm[Hg] and diastolic readings ranging from 118 to 128 mm[Hg].
+- Heart Rate: Stable, averaging around 80 beats per minute.
+- Respiratory Rate: Consistent at 12-16 breaths per minute.
+
+Notable Observations:
+
+- Mr. Senger904's anxiety symptoms have remained stable, with GAD-7 scores ranging from 2 to 4, and PHQ-9 scores indicating mild depressive symptoms.
+- He reported experiencing pain, with the highest recorded score being 4 on a 0-10 numeric rating scale.
+- He has been consistently non-smoking.
+
+Recommendations:
+
+1. **Anxiety Management**: Continue monitoring anxiety symptoms using GAD-7 and PHQ-9 scores. Consider counseling or therapy options to address underlying factors contributing to anxiety.
+
+2. **Abuse and Mental Health Support**: Given the reported intimate partner abuse, it is crucial to provide resources for counseling and support. Encourage open communication about this issue and offer appropriate referrals.
+
+3. **Pain Management**: Evaluate the source of pain and consider appropriate interventions or referrals to a pain specialist for further assessment.
+
+4. **Healthy Lifestyle**: Encourage regular exercise, balanced nutrition, and stress-reduction techniques to support overall well-being.
+
+5. **Vaccination Schedule**: Ensure up-to-date vaccinations, including seasonal influenza and recommended boosters.
+
+6. **Continued Monitoring**: Schedule regular follow-ups to track progress, monitor vital signs, and reassess medication regimens.
+
+7. **Screening for Substance Abuse**: Given the patient's history of abuse, it is recommended to conduct regular screenings for substance abuse using validated tools.
+
+Please note that this summary is based on available data up until September 2021. For any updates or recent changes in the patient's condition, further assessment is advised.

@@ -1,0 +1,47 @@
+Patient Summary for Strosin214 Berry486 (DOB: 1981-12-15)
+
+Patient Information:
+- Name: Strosin214 Berry486
+- Gender: Male
+- Date of Birth: December 15, 1981
+- Address: 719 Willms Terrace, Escanaba, MI 49829
+
+Medical History:
+- The patient's medical history dates back to December 15, 1981, with no significant medical conditions noted at that time.
+
+Diagnosis and Treatment Course:
+- Throughout the years, the patient has had multiple check-ups and evaluations. Notable findings include:
+  - In 2010, the patient was diagnosed with obesity (BMI >30) and started part-time employment.
+  - In 2016, the patient was diagnosed with generalized anxiety disorder, and a low-risk alcohol consumption pattern was reported.
+  - In 2018, the patient was diagnosed with sleep apnea and essential hypertension. Additionally, full-time employment was noted.
+  - In 2019, the patient continued to experience generalized anxiety disorder.
+  - In 2020, the patient reported limited social contact, stress, and persistent generalized anxiety disorder.
+
+Current Clinical Status:
+- As of November 8, 2022, the patient's vital signs and laboratory values are as follows:
+  - Height: 173.5 cm
+  - Weight: 84 kg
+  - BMI: 27.9 kg/m²
+  - Blood Pressure: 102/134 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 14 breaths/min
+  - Cholesterol: 182.74 mg/dL
+  - Triglycerides: 112.81 mg/dL
+  - LDL Cholesterol: 106.21 mg/dL
+  - HDL Cholesterol: 53.97 mg/dL
+
+Current Medications and Immunizations:
+- The patient's current medications, if any, are not provided in the available data.
+- Immunizations completed include:
+  - Influenza, seasonal, injectable, preservative-free (last received on November 8, 2022).
+  - Hepatitis A, adult (last received on November 8, 2022).
+
+Clinical Recommendations and Course of Action:
+1. Continue monitoring and management of anxiety and stress-related symptoms. Consider referral to a mental health specialist for further evaluation and treatment options.
+2. Continue monitoring and management of essential hypertension. Encourage lifestyle modifications such as dietary changes and regular exercise, in addition to any prescribed medications.
+3. Continue monitoring weight and BMI. Offer guidance on maintaining a healthy weight through diet and exercise.
+4. Continue annual influenza vaccinations and other recommended immunizations per current guidelines.
+5. Review medications, if any, to ensure they are up to date and appropriate for the patient's conditions.
+6. Encourage regular follow-up appointments to track progress and address any emerging health concerns.
+
+This summary provides an overview of the patient's medical history, diagnoses, treatment course, current clinical status, and recommendations for ongoing care. It is essential to engage with the patient to address their specific needs and concerns comprehensively.

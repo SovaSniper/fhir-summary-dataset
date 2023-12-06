@@ -1,0 +1,31 @@
+Patient Summary for Johnathan Hermiston
+
+Patient ID: 3a5f881f-81ed-ba65-f050-7a3679f0860f
+Name: Johnathan Hermiston
+Gender: Male
+Date of Birth: February 14, 2009
+Address: 899 Botsford Brook, Lexington, KY 40509
+
+Medical History:
+- The patient's medical history spans from birth to the present. Noteworthy events include:
+   - Fracture of clavicle (November 16, 2015)
+   - Acute bronchitis (March 30, 2016)
+   - Rotator cuff tendon injury (February 23, 2019)
+   - Viral sinusitis (May 1, 2022)
+
+Treatment Course:
+- The patient has received a series of immunizations, including influenza, IPV, DTaP, MMR, Tdap, HPV, meningococcal, and COVID-19 vaccines.
+
+Clinical Information:
+- The patient's vital signs and growth parameters have been consistently within age-appropriate ranges.
+- The most recent measurements (as of March 18, 2023) indicate a height of 167.8 cm, weight of 74.8 kg, BMI of 26.58 kg/m2, blood pressure of 83/108 mm[Hg], heart rate of 98 bpm, and respiratory rate of 15 breaths/min.
+- Pain severity has been reported between 1 and 4 on a scale of 0-10 (March 18, 2023).
+- The patient's most recent PHQ-9 score was 2 (March 18, 2023).
+
+Advice and Course of Action:
+- The patient is due for a medication review.
+- Given the patient's recent episodes of viral sinusitis and acute bronchitis, consider evaluating respiratory health regularly.
+- Continue monitoring growth parameters, pain severity, and vital signs at regular intervals.
+- Schedule regular follow-up appointments to assess overall well-being and address any concerns.
+
+Please note that this summary provides a comprehensive overview of the patient's medical history up to the current date. Additional evaluations and tests may be required based on the patient's ongoing health status and any new developments.

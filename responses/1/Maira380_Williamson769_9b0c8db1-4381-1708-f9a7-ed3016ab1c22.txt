@@ -1,0 +1,40 @@
+Patient Summary for Maira380 Williamson769:
+
+Patient Information:
+- Name: Maira380 Williamson769
+- Gender: Female
+- Date of Birth: November 28, 2014
+- Address: 995 Nolan Vale, Columbus, OH 43119
+
+Medical History:
+Maira380 Williamson769 is a female child born on November 28, 2014, with a medical history dating back to her infancy. Throughout her early childhood, she has been regularly monitored for various parameters, including height, weight, head circumference, blood pressure, heart rate, respiratory rate, and several blood-related metrics.
+
+Initial Diagnosis and Early Growth:
+At the time of her first medical evaluation, Maira380 was 47.5 cm in height and weighed 3.5 kg. Her weight-for-length percentile was 90.175%, indicating normal growth. She reported a pain severity score of 3 out of 10. Immunization records show completion of the Hep B, adolescent or pediatric vaccine.
+
+Subsequent Assessments:
+Over the years, Maira380's growth and vital signs have continued to be monitored. Her height, weight, and head circumference have consistently increased, with her most recent measurements at 116.9 cm, 27.6 kg, and 20.21 kg/m², respectively. Pain severity scores have generally remained low, with the latest score reported as 0 out of 10. Blood pressure, heart rate, and respiratory rate have shown variations within normal ranges over the years.
+
+Immunization Status:
+Maira380 has received a series of immunizations, including Hib (PRP-OMP), rotavirus, IPV, DTaP, Pneumococcal conjugate PCV 13, Hep A, varicella, MMR, and seasonal influenza vaccines, ensuring her protection against several infectious diseases.
+
+Medical Conditions:
+1. Otitis Media (2016): Maira380 was diagnosed with otitis media in 2016.
+2. Seasonal Allergic Rhinitis (2018): She was diagnosed with seasonal allergic rhinitis in 2018.
+3. Atopic Dermatitis (2018): Maira380 was diagnosed with atopic dermatitis in 2018.
+4. Acute Viral Pharyngitis (2019 and 2021): She experienced episodes of acute viral pharyngitis in both 2019 and 2021.
+5. Viral Sinusitis (2018): Maira380 was diagnosed with viral sinusitis in 2018.
+
+Allergies:
+Maira380 has been tested for various allergens, including peanuts, walnuts, codfish, shrimp, wheat, egg white, soybean, cow milk, white oak, common ragweed, cat dander, American house dust mite, Cladosporium herbarum, honey bee, and latex. No severe allergies were detected.
+
+Course of Action:
+1. Continue to monitor Maira380's growth, vital signs, and overall health at regular intervals.
+2. Maintain her up-to-date immunization status to ensure protection against vaccine-preventable diseases.
+3. Address any acute illnesses, such as viral pharyngitis or otitis media, with appropriate treatment as needed.
+4. Manage chronic conditions like atopic dermatitis and seasonal allergic rhinitis with the guidance of a specialist.
+5. Educate the patient and caregivers about allergy management, including avoidance strategies for identified allergens.
+6. Schedule regular check-ups to assess her overall health and adjust treatment plans as necessary.
+7. Promote a healthy lifestyle, including a balanced diet, regular physical activity, and proper hygiene practices.
+
+Please consult with a healthcare provider for detailed recommendations and further evaluation of any specific health concerns.

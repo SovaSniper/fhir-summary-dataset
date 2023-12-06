@@ -1,0 +1,35 @@
+Patient 6bd900ae-1744-1366-8041-2c4346ce4287, identified as Gayle448, is a female born on December 29, 2019, residing at 796 Weber Run Suite 61, Baltimore, MD 21207. This clinical summary provides an overview of her medical history, treatment course, and relevant clinical information.
+
+Medical History:
+- Observation final Body Height: Gayle448's height has consistently increased over time, ranging from 51.3 cm at birth to 96.5 cm in her most recent evaluation.
+- Observation final Pain Severity (0-10 verbal numeric rating [Score]): She has reported varying levels of pain severity, with scores ranging from 0 to 4 during different visits.
+- Observation final Body Weight: Gayle448's weight has shown steady growth, progressing from 4.6 kg at birth to 16.5 kg in her most recent assessment.
+- Weight-for-length Per age and sex: Her weight-for-length percentile has consistently been above 94%, indicating appropriate growth.
+- Observation final Head Occipital-frontal Circumference: Her head circumference has increased from 34.57 cm at birth to 48.5 cm in her latest evaluation.
+- Blood Pressure Panel: Gayle448's blood pressure has remained within a healthy range for her age and sex, with systolic and diastolic readings recorded during various visits.
+- Heart Rate: Her heart rate has shown variability but remains within an acceptable range for her age.
+- Respiratory Rate: Her respiratory rate has been relatively stable, ranging from 12 to 16 breaths per minute.
+- Tobacco Smoking Status: No history of tobacco exposure has been recorded.
+
+Immunizations:
+- Gayle448 has received a series of recommended immunizations, including Hep B, adolescent or pediatric; Hib (PRP-OMP); rotavirus, monovalent; IPV; DTaP; Pneumococcal conjugate PCV 13; varicella; MMR; Hep A, ped/adol, 2 dose; and Influenza, seasonal, injectable, preservative-free, as per her age-appropriate immunization schedule.
+
+Diagnosis:
+- Otitis Media: Gayle448 was diagnosed with otitis media in 2020 and again in 2023, indicating recurrent ear infections.
+- Acute Viral Pharyngitis: She had an episode of acute viral pharyngitis in 2020.
+- Streptococcal Sore Throat: Gayle448 was diagnosed with streptococcal sore throat in 2022.
+
+Clinical Recommendations:
+1. Growth and Development: Continue monitoring Gayle448's growth and development, including height, weight, head circumference, and pain severity, to ensure age-appropriate progress.
+
+2. Immunizations: Maintain her immunization schedule according to the recommended vaccines for her age, ensuring she stays up-to-date with her vaccinations.
+
+3. Ongoing Health Maintenance: Given the recurrence of otitis media and other minor health concerns, regular check-ups and follow-up appointments are essential to monitor her overall health and address any emerging issues promptly.
+
+4. Medication Review: A medication review is due, indicating the need to assess any current medications or treatments and adjust them as necessary.
+
+5. Parental Guidance: Provide parents or caregivers with guidance on maintaining a healthy lifestyle for Gayle448, including nutrition, physical activity, and safety measures.
+
+6. Future Evaluations: Schedule periodic follow-up visits to evaluate her growth, development, and overall health.
+
+It is crucial to maintain open communication with Gayle448's parents or caregivers to address any questions or concerns and ensure her ongoing well-being. This summary serves as a guide for healthcare professionals to engage effectively with the patient and provide the necessary care and guidance.

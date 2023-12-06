@@ -1,0 +1,31 @@
+**Clinical Summary for Patient 52a55c09-3871-ce1d-14ee-c182e100c3ce**
+
+**Patient Information:**
+- Name: Hane680 Kirk871
+- Gender: Male
+- Date of Birth: January 30, 1996
+- Address: 498 Paucek Crossroad Suite 19, St. George, UT 84780
+
+**Medical History:**
+The patient's medical history reveals a series of conditions and events, starting with seasonal allergic rhinitis in 2000. Notably, in 2014, the patient was diagnosed with generalized anxiety disorder (GAD-7 score of 3) and underwent various assessments, including HARK, PHQ-2, PHQ-9, and DAST-10. In 2015, a history of viral sinusitis was noted, along with experiences of intimate partner abuse. The patient's BMI has fluctuated over the years, reaching a peak of 35.34 kg/m2 in 2015. The most recent entries include a BMI of 35.34 kg/m2, a blood pressure reading of 77/138 mm[Hg], and GAD-7 score of 2 in 2021.
+
+**Treatment Course:**
+The patient has received multiple immunizations, including influenza, hepatitis B, meningococcal MCV4P, and most recently, SARS-COV-2 (COVID-19) vaccines. The patient was also assessed for alcohol use (AUDIT-C) and reported a score of 2 in 2021.
+
+**Current Clinical Status:**
+As of the latest entry in August 2021, the patient's BMI remains elevated at 35.34 kg/m2, and blood pressure is within normal limits. The patient reports a GAD-7 score of 2, indicating mild anxiety. Immunizations, including COVID-19 vaccines, are up to date.
+
+**Clinical Advice and Course of Action:**
+1. **Anxiety Management:** Given the recurrent reports of anxiety (GAD-7), consider a follow-up with a mental health professional for ongoing assessment and management. Explore therapeutic interventions or adjustments to existing treatment.
+  
+2. **Weight Management:** Address the persistent high BMI. Recommend lifestyle modifications, including diet and exercise, to promote weight reduction and overall cardiovascular health.
+
+3. **Blood Pressure Monitoring:** Continue monitoring blood pressure regularly, especially considering the previous elevated readings. Lifestyle modifications and potential pharmacological interventions may be necessary to maintain optimal blood pressure.
+
+4. **Immunization Status:** Confirm the patient's immunization history and discuss any additional vaccines that may be due based on current guidelines.
+
+5. **Alcohol Use:** Monitor the patient's alcohol use closely, considering the reported AUDIT-C score of 2. Provide counseling or interventions as needed.
+
+6. **Mental Health Support:** Given past experiences of intimate partner abuse, assess the need for ongoing support and counseling.
+
+This summary aims to guide the patient's ongoing care, addressing key health concerns and recommending interventions to optimize overall well-being. Regular follow-ups are advised to track progress and adjust the management plan as necessary.

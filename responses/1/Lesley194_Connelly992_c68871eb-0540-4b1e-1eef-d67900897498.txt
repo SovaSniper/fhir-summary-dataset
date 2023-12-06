@@ -1,0 +1,38 @@
+Patient c68871eb-0540-4b1e-1eef-d67900897498, identified as Connelly992 Lesley194, is a male born on December 13, 2015, residing at 763 Murazik Grove, Opheim, MT 59250. This comprehensive clinical summary covers the patient's medical history, treatment course, and relevant clinical information for doctors to guide ongoing care.
+
+**Medical History:**
+- The patient's initial observation on December 13, 2015, showed a body height of 52.2 cm and a reported pain severity score of 3.
+- Body weight was 3.5 kg, and weight-for-length percentile was 10.645%.
+- Head occipital-frontal circumference was 35.58 cm.
+- Blood pressure was 78/111 mm[Hg], heart rate was 78/min, and respiratory rate was 13/min.
+- Immunization completed for Hep B, adolescent or pediatric.
+
+**Treatment Course:**
+- Over time, the patient exhibited growth and development. On January 17, 2016, body height increased to 56.2 cm, with a reported pain score of 0.
+- Body weight increased to 4.3 kg, and weight-for-length percentile decreased to 4.1844%.
+- Head occipital-frontal circumference increased to 39.01 cm.
+- The patient received various immunizations, including Hib, rotavirus, IPV, DTaP, and PCV 13.
+
+- Subsequent observations showed further growth and immunizations.
+- On February 19, 2017, the patient was diagnosed with Otitis media.
+- Immunizations for varicella, MMR, Hep A, and others were completed.
+
+**Current Status:**
+- As of October 30, 2022, the patient's body height is 120.6 cm, with a reported pain score of 3.
+- Body weight is 23.5 kg, and body mass index (BMI) is 16.16 kg/m2, in the 66.503 percentile.
+- Blood pressure is 77/115 mm[Hg], heart rate is 87/min, and respiratory rate is 13/min.
+- Immunization completed for influenza.
+
+**Diagnosis Reports:**
+- The patient has been diagnosed with viral sinusitis, acute viral pharyngitis, and had a medication review due situation.
+- CBC panels have been conducted over the years, showing consistent results within normal ranges.
+
+**Advice and Course of Action:**
+- The patient has been generally healthy with normal growth and development.
+- Continue monitoring growth parameters, BMI, and vital signs.
+- Keep up with recommended immunizations per age and guidelines.
+- Review medications periodically and address any acute conditions promptly.
+- For the current acute viral pharyngitis, provide supportive care, and monitor temperature.
+- Educate the patient's caregivers on maintaining a healthy lifestyle and vaccination schedule.
+
+This summary aims to provide a comprehensive overview of the patient's medical history and treatment course, enabling healthcare providers to make informed decisions about their ongoing care and well-being.

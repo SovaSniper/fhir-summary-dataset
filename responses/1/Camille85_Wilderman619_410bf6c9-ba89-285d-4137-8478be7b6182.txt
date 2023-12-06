@@ -1,0 +1,49 @@
+Patient Summary for Camille85 (Patient ID: 410bf6c9-ba89-285d-4137-8478be7b6182)
+
+Patient Information:
+- Name: Camille85
+- Gender: Female
+- Date of Birth: November 27, 2008
+- Address: 137 Green Path Suite 95, Fort Mitchell, KY 41011
+
+Medical History:
+Camille85's medical history reveals several significant events and conditions over the years:
+
+1. **Initial Diagnosis (November 27, 2008):** Camille85's first medical record documents her initial evaluation.
+
+2. **Otitis Media (September 23, 2013):** She was diagnosed with otitis media in 2013.
+
+3. **Acute Bacterial Sinusitis (November 7, 2013):** Camille85 was diagnosed with acute bacterial sinusitis.
+
+4. **Sprain of Wrist (February 3, 2021):** She experienced a wrist sprain in 2021.
+
+5. **Acute Bronchitis (April 25, 2021):** She was diagnosed with acute bronchitis in April 2021.
+
+6. **Allergy Testing (September 9, 2021):** Allergy testing was conducted, revealing specific IgE antibody levels for various allergens.
+
+7. **COVID-19 Vaccinations (August 12, 2021, and September 9, 2021):** Camille85 received two doses of the COVID-19 vaccine.
+
+Current Clinical Information:
+- Height: 155.8 cm
+- Weight: 49.4 kg
+- BMI: 20.35 kg/m2
+- Blood Pressure: 78/119 mm[Hg]
+- Heart Rate: 80/min
+- Respiratory Rate: 14/min
+
+Advice and Course of Action:
+Camille85 has had a history of various medical conditions and illnesses over the years, including otitis media, sinusitis, a wrist sprain, and bronchitis. Her most recent medical records indicate an elevated Patient Health Questionnaire-9 (PHQ-9) score, suggesting a need for mental health evaluation and support.
+
+1. **Medication Review:** A medication review is due, given her ongoing medical history. Ensure that her current medications are still appropriate and effective.
+
+2. **Mental Health Assessment:** Given the elevated PHQ-9 score, it is crucial to conduct a thorough mental health assessment to address any underlying mental health issues and provide appropriate interventions.
+
+3. **Allergy Management:** Continue monitoring her allergy levels and manage any allergic reactions as necessary.
+
+4. **COVID-19 Vaccination:** Keep track of her COVID-19 vaccination status and consider booster doses if recommended by health authorities.
+
+5. **Regular Follow-up:** Schedule regular follow-up appointments to monitor her overall health, growth, and development.
+
+6. **Patient Education:** Educate Camille85 and her family about maintaining a healthy lifestyle, proper nutrition, and the importance of mental health support.
+
+In conclusion, Camille85 is a female patient with a history of various medical conditions, including otitis media, sinusitis, and mental health concerns. A comprehensive approach is required to address her physical and mental well-being. Regular follow-up and communication with the patient and her family are essential for her ongoing care and management.

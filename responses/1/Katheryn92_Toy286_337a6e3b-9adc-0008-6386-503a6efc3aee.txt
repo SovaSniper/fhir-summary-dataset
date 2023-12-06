@@ -1,0 +1,45 @@
+Patient Summary for Toy286 Katheryn92 (DOB: 1999-01-31)
+
+---
+
+**Medical History:**
+- Patient presents with a history of generalized anxiety disorder (GAD-7 scores fluctuating between 3 to 18), normal pregnancies, laceration of thigh, rib fracture, and acute viral pharyngitis.
+- No history of tobacco smoking.
+- Brief period of substance misuse in 2017.
+- History of intimate partner abuse in 2018.
+
+**Current Medications:**
+- Medroxyprogesterone acetate (150 MG/ML) injection.
+
+**Physical Health:**
+- Height: Ranges between 164.8 cm to 166.2 cm.
+- Weight: Fluctuates between 77.2 kg to 85.6 kg.
+- BMI: Ranges from 28.01 kg/m² to 31.27 kg/m².
+- Blood pressure within normal range, with highest reading at 142/80 mm[Hg].
+- Heart rate: Stable, ranging from 62 to 97 beats/min.
+- Respiratory rate: Steady at 12 to 16 breaths/min.
+- No significant abnormalities in CBC panel.
+
+**Mental Health:**
+- GAD-7 scores have fluctuated over time, ranging from 3 to 18.
+- PHQ-2 scores range from 0 to 2.
+- AUDIT-C scores have been consistently 0.
+
+**Immunization History:**
+- Completed seasonal influenza vaccinations.
+- Received meningococcal MCV4P, Hep B, and SARS-COV-2 (COVID-19) vaccines.
+
+**Advice:**
+1. **Mental Health Monitoring:** Continue regular assessment of anxiety symptoms. Consider therapy or counseling for ongoing management.
+
+2. **Safety and Well-being:** Assess and address any concerns related to intimate partner abuse. Provide resources and support for a safe environment.
+
+3. **Substance Misuse:** Monitor and provide support for any potential relapse or ongoing issues related to substance misuse.
+
+4. **Reproductive Health:** Continue discussions regarding contraception options and family planning, especially given the history of normal pregnancies.
+
+5. **Physical Health:** Encourage regular exercise, a balanced diet, and weight management strategies to maintain a healthy BMI.
+
+6. **Immunization:** Ensure up-to-date vaccinations according to recommended schedules.
+
+7. **Follow-up:** Schedule regular check-ups to monitor physical and mental health.

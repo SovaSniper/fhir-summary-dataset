@@ -1,0 +1,29 @@
+Patient Summary for Isobel Wilkinson:
+
+Patient ID: f212f890-1f5e-5f9e-a17b-95a402458126
+Name: Isobel Wilkinson
+Gender: Female
+Date of Birth: August 7, 2014
+Address: 284 Wisoky Dam Unit 76, Phoenix, AZ 85283
+
+Medical History:
+Isobel Wilkinson, a female born on August 7, 2014, has been consistently monitored since her birth. Her growth and development have been within expected parameters for her age and sex. Notable observations include a head occipital-frontal circumference in the 81.06th percentile, and a consistently healthy weight-for-length percentile ranging from 55.08% to 95.22%.
+
+Treatment Course:
+Isobel has received age-appropriate vaccinations, including Hepatitis B, Hib, rotavirus, IPV, DTaP, Pneumococcal conjugate, varicella, MMR, and Hepatitis A. Her immunization schedule has been up-to-date.
+
+Clinical Observations:
+Throughout her medical history, Isobel has consistently reported low pain severity scores ranging from 0 to 4 on the 0-10 verbal numeric rating scale. Her vital signs have remained stable, with heart rates ranging from 61 to 97 beats per minute, respiratory rates between 12 to 16 breaths per minute, and blood pressure consistently within normal pediatric ranges.
+
+Recent Encounter (June 4, 2023):
+Isobel presented with a laceration to her foot, which was appropriately assessed and treated. Her pain was reported as a 3 on the 0-10 scale, and her vital signs remained stable. She is now 138.3 cm tall and weighs 33.4 kg, with a BMI percentile of 68.89%.
+
+Recommendations and Follow-Up:
+1. **Medication Review**: Due to Isobel's consistent growth and health, a medication review is not indicated at this time.
+2. **Immunizations**: Ensure regular updates and adherence to the recommended vaccination schedule.
+3. **General Health**: Continue to monitor Isobel's growth, development, and general health during routine check-ups.
+
+Conclusion:
+Isobel Wilkinson has shown steady growth and development, with no significant medical concerns noted. Regular check-ups and adherence to recommended immunizations are advised to ensure her continued well-being.
+
+Please note that this summary is based on available data up until September 2021, and any further updates or changes in health status will need to be assessed in subsequent visits.

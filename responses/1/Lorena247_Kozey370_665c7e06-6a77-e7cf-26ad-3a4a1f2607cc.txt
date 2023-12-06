@@ -1,0 +1,99 @@
+Patient Summary for Lorena Kozey (DOB: 2004-01-09)
+
+Patient Information:
+- Name: Lorena Kozey
+- Gender: Female
+- Date of Birth: January 9, 2004
+- Address: 820 Franecki Heights, Plymouth, WI 53073
+
+Medical History:
+Lorena Kozey is a female patient with a medical history dating back to her childhood. She has had several medical encounters, and her health status has evolved over the years. Here is a summary of her key medical history and clinical information:
+
+1. **Initial Assessment (2013):**
+   - Height: 131.9 cm
+   - Weight: 48 kg
+   - BMI: 27.58 kg/m²
+   - Blood Pressure: 76/114 mm[Hg]
+   - Heart Rate: 74/min
+   - Respiratory Rate: 14/min
+   - Tobacco Smoking Status: Non-smoker
+   - Immunizations: Up-to-date with influenza vaccine.
+
+2. **Viral Sinusitis (2014):**
+   - Diagnosis: Viral sinusitis
+   - No significant changes in height, weight, or vital signs.
+
+3. **Annual Check-up (2015):**
+   - Height: 144.4 cm
+   - Weight: 67.3 kg
+   - BMI: 32.28 kg/m²
+   - Blood Pressure: 79/109 mm[Hg]
+   - Heart Rate: 77/min
+   - Respiratory Rate: 14/min
+   - Immunizations: Up-to-date with influenza and HPV vaccines.
+
+4. **Medication Review Due (2016):**
+   - Height: 150.7 cm
+   - Weight: 72.4 kg
+   - BMI: 31.85 kg/m²
+   - Blood Pressure: 85/110 mm[Hg]
+   - Heart Rate: 82/min
+   - Respiratory Rate: 14/min
+   - Tobacco Smoking Status: Not specified
+   - PHQ-9 Teen Score: 3 (mild depressive symptoms)
+   - Immunizations: Up-to-date with influenza and HPV vaccines.
+
+5. **Generalized Anxiety Disorder (2018):**
+   - Diagnosis: Generalized anxiety disorder
+   - PHQ-9 Teen Score: 8 (moderate depressive symptoms)
+
+6. **Laceration of Foot (2019):**
+   - Diagnosis: Laceration of foot
+
+7. **Annual Check-up (2020):**
+   - Height: 156.4 cm
+   - Weight: 82.7 kg
+   - BMI: 33.79 kg/m²
+   - Blood Pressure: 78/110 mm[Hg]
+   - Heart Rate: 90/min
+   - Respiratory Rate: 13/min
+   - Immunizations: Up-to-date with influenza and meningococcal vaccines.
+
+8. **Concussion Injury (2020):**
+   - Diagnosis: Concussion injury of brain (no loss of consciousness)
+
+9. **Viral Sinusitis (2021):**
+   - Diagnosis: Viral sinusitis
+   - PHQ-2 Score: 2 (mild depressive symptoms)
+   - Immunized against COVID-19.
+
+10. **Recent Update (2023):**
+    - Height: 157.1 cm
+    - Weight: 94.4 kg
+    - BMI: 38.24 kg/m²
+    - Blood Pressure: 76/117 mm[Hg]
+    - Heart Rate: 95/min
+    - Respiratory Rate: 15/min
+    - PHQ-2 Score: 1 (mild depressive symptoms)
+    - DAST-10 Score: 10 (indicating possible drug misuse)
+
+Clinical Advice and Course of Action:
+Lorena Kozey has experienced various medical conditions over the years, including viral sinusitis, laceration, concussion, and generalized anxiety disorder. Her BMI has consistently been in the higher percentiles for her age and sex. Additionally, she has shown signs of depressive symptoms and possible drug misuse in recent assessments.
+
+1. **General Health Monitoring:** Continue regular check-ups to monitor Lorena's growth, vital signs, and general health.
+
+2. **Mental Health Support:** Given her history of anxiety and depressive symptoms, consider referring Lorena to a mental health professional for assessment and potential therapy or counseling.
+
+3. **Weight Management:** Given the increasing BMI, initiate discussions with Lorena and her family about healthy lifestyle choices, diet, and exercise to help manage her weight.
+
+4. **Substance Misuse Assessment:** Due to the elevated DAST-10 score, assess Lorena's substance use patterns and provide appropriate interventions or referrals if necessary.
+
+5. **Immunizations:** Ensure that Lorena remains up-to-date with recommended immunizations, including influenza and other age-appropriate vaccines.
+
+6. **Medication Review:** Schedule a medication review to assess the need for any ongoing medications and adjust treatment as required.
+
+7. **Counseling:** Offer counseling and support to address stress and emotional well-being.
+
+8. **Follow-up:** Schedule regular follow-up appointments to track progress, address concerns, and provide ongoing care.
+
+This comprehensive summary provides a clear overview of Lorena Kozey's medical history, current health status, and actionable recommendations for her ongoing care. It is essential to engage with Lorena and her family to ensure her overall well-being and address any specific health concerns.

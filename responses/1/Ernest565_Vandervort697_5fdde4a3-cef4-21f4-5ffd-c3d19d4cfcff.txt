@@ -1,0 +1,23 @@
+Patient Summary for Ernest Vandervort:
+
+Patient ID: 5fdde4a3-cef4-21f4-5ffd-c3d19d4cfcff
+Name: Ernest Vandervort
+Gender: Male
+Date of Birth: August 17, 1977
+Address: 105 Medhurst Ranch Apt 33, Carbondale, IL 62903
+
+Medical History:
+Ernest Vandervort's medical history reveals several important findings. He has had a history of full-time employment since 1995, with a subsequent diagnosis of stress in 1996. In 1999, he was diagnosed with prediabetes and later with anemia in 2002. Throughout the years, Mr. Vandervort experienced fluctuations in employment status, with a period of unemployment in 2011. He was diagnosed with essential hypertension in 2011.
+
+Current Clinical Information:
+As of the most recent observation in 2023, Mr. Vandervort presents with the following clinical parameters:
+- Height: 172 cm
+- Weight: 82.9 kg
+- BMI: 28.02 kg/m²
+- Blood Pressure: 67/115 mmHg
+- Heart Rate: 86 bpm
+- Respiratory Rate: 15 breaths/min
+- Blood Glucose: 73.72 mg/dL
+- Hemoglobin A1c: 6.08%
+- Total Cholesterol: 186.04 mg/dL
+- Triglycerides: 112.99 mg

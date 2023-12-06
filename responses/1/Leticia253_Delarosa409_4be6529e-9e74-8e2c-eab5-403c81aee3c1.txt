@@ -1,0 +1,34 @@
+Patient Summary for Leticia Delarosa409 (Patient ID: 4be6529e-9e74-8e2c-eab5-403c81aee3c1)
+
+Patient Information:
+- Name: Leticia Delarosa409
+- Gender: Female
+- Date of Birth: February 12, 1989
+- Address: 134 Hills Brook, Bartow, FL 33880
+
+Medical History:
+Leticia Delarosa409 has a comprehensive medical history spanning from her birth in 1989 to her most recent healthcare interactions in September 2023. Her history includes various medical conditions, treatments, and medication reviews due at different intervals.
+
+1. Diagnosis and Early Years:
+   - Leticia's medical history begins with her birth on February 12, 1989. No specific medical conditions or diagnoses were noted at this time.
+
+2. Anemia Diagnosis:
+   - In April 2008, Leticia was diagnosed with anemia.
+
+3. Reproductive Health:
+   - In 2012, Leticia had an intrauterine system (Mirena) inserted.
+   - In 2014, she had another intrauterine system (Etonogestrel) inserted.
+
+4. Pregnancy:
+   - In March 2016, she was noted to have a normal pregnancy.
+
+5. Reproductive Health (Continued):
+   - In January 2017, Leticia had a new intrauterine system (Kyleena) inserted.
+
+6. Mental Health:
+   - Throughout her medical history, Leticia has reported generalized anxiety disorder (GAD-7 scores ranging from 1 to 6).
+   - She also completed assessments related to depression and substance abuse (PHQ-9 and DAST-10 scores).
+
+7. Immunizations:
+   - Leticia received influenza vaccines at various times.
+   - She received the SARS-COV-2 (COVID-19) vaccine in March and April 202

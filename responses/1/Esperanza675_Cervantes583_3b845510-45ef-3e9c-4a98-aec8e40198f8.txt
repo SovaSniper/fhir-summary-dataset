@@ -1,0 +1,31 @@
+Patient ID: 3b845510-45ef-3e9c-4a98-aec8e40198f8
+Name: Esperanza Cervantes
+Date of Birth: August 19, 2010
+Address: 1016 Bogan Alley Apt 90, Alpine, WY 83128
+Gender: Female
+
+**Medical History:**
+Esperanza Cervantes, a 13-year-old female, presents with a comprehensive medical history. Since her birth, she has been regularly monitored and received age-appropriate immunizations. Notably, her growth and development have been consistent with age and sex percentile ranges. Her weight, height, and BMI have consistently shown her to be within normal parameters for her age and gender. There have been occasional reports of mild pain, which have been managed and resolved effectively. Tobacco smoking status has consistently been negative throughout her medical history.
+
+**Diagnoses:**
+1. Viral Sinusitis (2016-10-23): Esperanza was diagnosed with viral sinusitis and successfully treated.
+2. Streptococcal Sore Throat (2017-08-10): She presented with a streptococcal sore throat, and appropriate treatment was administered.
+3. Acute Bacterial Sinusitis (2023-06-10): She was recently diagnosed with acute bacterial sinusitis.
+
+**Immunizations:**
+Esperanza has received all recommended immunizations up to her current age. These include vaccinations for influenza, varicella, polio (IPV), DTaP, MMR, Tdap, HPV, meningococcal MCV4P, and SARS-COV-2 (COVID-19).
+
+**Clinical Observations:**
+Throughout her medical history, Esperanza's vital signs have remained within normal limits. She has shown good compliance with vaccinations and has grown steadily, with no significant deviations from the expected growth percentiles. There have been occasional reports of mild pain, but they have not been persistent or severe.
+
+**Current Status (2023-09-14):**
+Esperanza's latest clinical observations indicate that she is currently in good health. She has recently been diagnosed with generalized anxiety disorder, as evidenced by her GAD-7 scores, which should be monitored and addressed as needed. Her vital signs and overall physical health are within normal parameters for her age and gender.
+
+**Recommendations:**
+1. Continue routine medical check-ups to monitor growth and development.
+2. Maintain a regular vaccination schedule as recommended by healthcare providers.
+3. Monitor and manage generalized anxiety disorder as needed, considering potential counseling or therapeutic interventions.
+4. Educate the patient and her family on healthy lifestyle choices, including nutrition, exercise, and tobacco avoidance.
+5. Address any acute health issues promptly and follow the guidance of healthcare professionals for ongoing treatment.
+
+This summary provides a comprehensive overview of Esperanza Cervantes' medical history, diagnoses, immunizations, and current clinical status. It is essential to continue regular follow-up visits and address any emerging health concerns to ensure her well-being.

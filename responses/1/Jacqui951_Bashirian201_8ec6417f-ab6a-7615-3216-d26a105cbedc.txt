@@ -1,0 +1,150 @@
+Patient Summary for Jacqui951 (DOB: January 13, 2016) - Comprehensive Medical History and Care Recommendations
+
+Patient Information:
+- Name: Jacqui951
+- Date of Birth: January 13, 2016
+- Gender: Female
+- Address: 773 Prohaska Haven Unit 6, Rock Springs, WY 82901
+
+Medical History:
+
+**January 13, 2016:**
+- Observation:
+  - Body Height: 50.5 cm
+  - Pain severity (0-10): 1
+  - Body Weight: 3.9 kg
+  - Weight-for-length: 67.977%
+  - Head Occipital-frontal circumference: 34.05 cm
+  - Blood Pressure: 90/130 mm[Hg]
+  - Heart rate: 84/min
+  - Respiratory rate: 12/min
+  - Immunization: Hep B, adolescent or pediatric
+
+**February 17, 2016:**
+- Observation:
+  - Body Height: 54.1 cm
+  - Pain severity (0-10): 3
+  - Body Weight: 4.6 kg
+  - Weight-for-length: 64.043%
+  - Head Occipital-frontal circumference: 37.38 cm
+  - Blood Pressure: 92/131 mm[Hg]
+  - Heart rate: 89/min
+  - Respiratory rate: 14/min
+  - Immunization: Hep B, adolescent or pediatric
+
+**April 20, 2016:**
+- Observation:
+  - Body Height: 59.2 cm
+  - Pain severity (0-10): 0
+  - Body Weight: 6 kg
+  - Weight-for-length: 71.086%
+  - Head Occipital-frontal circumference: 39.92 cm
+  - Blood Pressure: 86/118 mm[Hg]
+  - Heart rate: 82/min
+  - Respiratory rate: 14/min
+  - Immunizations: Hib (PRP-OMP), rotavirus, IPV, DTaP, PCV 13
+
+**June 22, 2016:**
+- Observation:
+  - Body Height: 67.8 cm
+  - Pain severity (0-10): 0
+  - Body Weight: 8.5 kg
+  - Weight-for-length: 77.571%
+  - Head Occipital-frontal circumference: 43.21 cm
+  - Blood Pressure: 91/120 mm[Hg]
+  - Heart rate: 62/min
+  - Respiratory rate: 14/min
+  - Immunizations: IPV, Influenza, DTaP, PCV 13
+
+**September 21, 2016:**
+- Observation:
+  - Body Height: 71.8 cm
+  - Pain severity (0-10): 3
+  - Body Weight: 9.5 kg
+  - Weight-for-length: 77.79%
+  - Head Occipital-frontal circumference: 44.35 cm
+  - Blood Pressure: 94/121 mm[Hg]
+  - Heart rate: 73/min
+  - Respiratory rate: 13/min
+  - Immunizations: IPV, Influenza, DTaP, PCV 13, Hep B, adolescent or pediatric
+
+**December 21, 2016:**
+- Observation:
+  - Body Height: 75.2 cm
+  - Pain severity (0-10): 2
+  - Body Weight: 10.4 kg
+  - Weight-for-length: 83.146%
+  - Head Occipital-frontal circumference: 45.2 cm
+  - Blood Pressure: 88/123 mm[Hg]
+  - Heart rate: 67/min
+  - Respiratory rate: 15/min
+  - Immunizations: Hib (PRP-OMP), varicella, MMR, PCV 13, Hep A, ped/adol, 2 dose
+
+**June 21, 2017:**
+- Observation:
+  - Body Height: 83.6 cm
+  - Pain severity (0-10): 2
+  - Body Weight: 12.2 kg
+  - Weight-for-length: 74.431%
+  - Head Occipital-frontal circumference: 46.82 cm
+  - Blood Pressure: 96/117 mm[Hg]
+  - Heart rate: 98/min
+  - Respiratory rate: 13/min
+  - Immunization: Influenza, seasonal, injectable, preservative-free
+
+**December 20, 2017:**
+- Observation:
+  - Body Height: 87.7 cm
+  - Pain severity (0-10): 2
+  - Body Weight: 13.1 kg
+  - Weight-for-length: 73.303%
+  - Head Occipital-frontal circumference: 47.48 cm
+  - Blood Pressure: 90/125 mm[Hg]
+  - Heart rate: 87/min
+  - Respiratory rate: 15/min
+  - Immunization: Hep A, ped/adol, 2 dose
+
+**June 19, 2018:**
+- Observation:
+  - Body Height: 91.7 cm
+  - Pain severity (0-10): 2
+  - Body Weight: 14.3 kg
+  - Weight-for-length: 78.974%
+  - Head Occipital-frontal circumference: 47.95 cm
+  - Blood Pressure: 90/125 mm[Hg]
+  - Heart rate: 75/min
+  - Respiratory rate: 15/min
+  - Immunization: Influenza, seasonal, injectable, preservative-free
+
+**November 28, 2018:**
+- Observation:
+  - Body Height: 95 cm
+  - Pain severity (0-10): 2
+  - Body Weight: 14.3 kg
+  - Weight-for-length: 78.974%
+  - Head Occipital-frontal circumference: 47.95 cm
+  - Blood Pressure: 90/125 mm[Hg]
+  - Heart rate: 75/min
+  - Respiratory rate: 15/min
+  - Immunization: Influenza, seasonal, injectable, preservative-free
+
+**January 3, 2019:**
+- Observation:
+  - Body Height: 95 cm
+  - Pain severity (0-10): 1
+  - Body Weight: 15.3 kg
+  - Weight-for-length: 81.187%
+  - Head Occipital-frontal circumference: 47.98 cm
+  - Blood Pressure: 87/123 mm[Hg]
+  - Heart rate: 71/min
+  - Respiratory rate: 15/min
+
+**June 19, 2019:**
+- Observation:
+  - Body Height: 98.3 cm
+  - Pain severity (0-10): 1
+  - Body Weight: 16.7 kg
+  - Weight-for-length: 81.187%
+  - Head Occipital-frontal circumference: 47.98 cm
+  - Blood Pressure: 91/121 mm[Hg]
+  - Heart rate

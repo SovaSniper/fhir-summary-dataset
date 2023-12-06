@@ -1,0 +1,41 @@
+Patient ID: a17248da-c471-a1e3-8853-e393575498c2
+Name: Barton704 Kendal125
+Gender: Female
+Date of Birth: February 12, 1988
+Address: 1013 Skiles Arcade Suite 80, Maumelle, AR 72113
+
+**Medical Summary:**
+
+**Medical History:**
+- The patient was born on February 12, 1988, and has had regular medical check-ups throughout her childhood.
+- She has a history of a single seizure in 1988 and was diagnosed with a seizure disorder.
+- The patient has received age-appropriate immunizations, including Hepatitis B, Hib (PRP-OMP), IPV, varicella, MMR, and influenza vaccines.
+
+**Current Condition and Observations:**
+- The patient's current height is 132 cm, and her weight is 32.2 kg.
+- She has been experiencing mild pain, with a pain severity score of 1 on a 0-10 verbal numeric rating scale.
+- Her blood pressure readings have been within the normal range, with the latest measurements at 71 mm[Hg] systolic and 98 mm[Hg] diastolic.
+- The patient's heart rate is 63 /min, and her respiratory rate is 13 /min.
+- Recent blood test results show normal levels of leukocytes, erythrocytes, hemoglobin, hematocrit, MCV, MCH, MCHC, platelets, and other blood parameters.
+- The patient's head occipital-frontal circumference is 49.96 cm, which falls within the 80.81 percentile for her age and sex.
+- She has not reported any tobacco smoking status.
+
+**Diagnoses and Conditions:**
+- Seizure disorder: The patient was diagnosed with a seizure disorder in 1988 and has a history of a single seizure.
+- Otitis media: The patient was diagnosed with otitis media in 1989.
+- Viral sinusitis: The patient was diagnosed with viral sinusitis in 1990.
+- Epilepsy: The patient was diagnosed with epilepsy in 1995.
+- Concussion: The patient experienced a concussion injury of the brain in 1995 but had no loss of consciousness.
+
+**Medication Review:**
+- The patient's medication review is due, and a comprehensive assessment of her current medication regimen is recommended.
+
+**Advice and Course of Action:**
+1. Continue monitoring the patient's height, weight, pain severity, blood pressure, heart rate, and respiratory rate at regular intervals.
+2. Schedule a thorough medication review to assess the patient's current medication regimen and make any necessary adjustments.
+3. Continue age-appropriate immunizations to ensure the patient's continued protection against preventable diseases.
+4. Provide counseling and education regarding seizure management and epilepsy.
+5. Educate the patient on the importance of regular medical check-ups and maintaining a healthy lifestyle.
+6. In the event of any new symptoms or concerns, promptly seek medical attention and consult with a healthcare provider.
+
+This comprehensive summary provides an overview of the patient's medical history, current condition, and recommended course of action. It is essential to continue monitoring the patient's health and address any evolving medical needs.

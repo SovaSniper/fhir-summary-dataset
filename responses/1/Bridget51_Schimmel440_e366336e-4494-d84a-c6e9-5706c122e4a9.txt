@@ -1,0 +1,47 @@
+Patient e366336e-4494-d84a-c6e9-5706c122e4a9, Bridget51 Schimmel440, is a 24-year-old female born on April 17, 1999, residing at 900 Schulist Throughway Apt 21, Boston, MA 02163. This clinical summary provides an overview of her medical history, treatment course, and relevant clinical information, along with recommendations for ongoing care.
+
+Medical History:
+1. In 2014, the patient reported a Pain Severity score of 3/10 on the verbal numeric rating scale. Her Body Mass Index (BMI) percentile was 94.733%, and she had a Blood Pressure of 72/87 mm[Hg].
+
+2. In 2015, the patient's Pain Severity score improved to 0/10, and her BMI percentile decreased to 91.564%. Her Blood Pressure was 79/99 mm[Hg].
+
+3. In 2016, her Pain Severity score was 1/10, BMI percentile was 90.694%, and Blood Pressure was 69/98 mm[Hg].
+
+4. In 2017, she was diagnosed with Acute viral pharyngitis and had a reported Body Temperature of 37.234°C. Her Blood Pressure was 70/100 mm[Hg].
+
+5. In 2017, the patient experienced a concussion with loss of consciousness.
+
+6. She reported housing dissatisfaction, higher education, full-time employment, stress, and unhealthy alcohol drinking behavior in 2017. Her BMI percentile was 87.942%, Blood Pressure was 70/100 mm[Hg], and she had a Total score of 12 on the AUDIT-C questionnaire.
+
+7. In 2018, she reported a BMI percentile of 95.114%, Blood Pressure of 78/92 mm[Hg], and was a victim of intimate partner abuse. She also had generalized anxiety disorder and reported a GAD-7 score of 3.
+
+8. In 2018, she had a normal pregnancy.
+
+9. In 2021, her BMI reached 35.79 kg/m², Blood Pressure was 73/99 mm[Hg], and she reported limited social contact and stress. She had a DAST-10 score of 1.
+
+10. She received various immunizations, including COVID-19 vaccinations in 2021.
+
+11. In 2023, she was diagnosed with Streptococcal sore throat, with a recorded Body Temperature of 37.578°C.
+
+Recommendations and Course of Action:
+1. Monitor Pain Severity: Continue monitoring pain severity regularly and provide appropriate pain management strategies as needed.
+
+2. BMI Management: Address the patient's elevated BMI, which has progressively increased over the years, and provide guidance on maintaining a healthy weight through diet and exercise.
+
+3. Blood Pressure Control: Monitor and manage blood pressure to ensure it remains within a healthy range. Consider lifestyle modifications and medication if necessary.
+
+4. Mental Health Support: Given her history of generalized anxiety disorder, stress, and previous victimization, provide ongoing mental health support, counseling, or therapy as needed.
+
+5. Substance Use Assessment: Continue assessing the patient's alcohol and drug use habits and provide interventions or referrals to addiction treatment programs if necessary.
+
+6. Pregnancy Care: If pregnancy occurs in the future, ensure comprehensive prenatal care and support for a healthy pregnancy.
+
+7. Infection Management: Treat the current Streptococcal sore throat infection with appropriate antibiotics and monitor for resolution.
+
+8. Regular Check-ups: Schedule regular follow-up appointments to monitor the patient's overall health, BMI, blood pressure, and mental well-being.
+
+9. Supportive Services: Connect the patient with social services or resources to address any housing dissatisfaction and limited social contact.
+
+10. Immunization: Ensure the patient stays up to date with recommended immunizations to protect against preventable diseases.
+
+This comprehensive summary provides an overview of the patient's medical history and offers actionable recommendations for ongoing care and support. It is essential to maintain open communication with the patient and tailor treatment plans to her specific needs and circumstances.

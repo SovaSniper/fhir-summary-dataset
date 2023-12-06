@@ -1,0 +1,48 @@
+Patient: McKenzie376 Antonia30
+Date of Birth: April 18, 2005
+Address: 366 Davis Walk, West Milton, OH 45339
+
+**Medical History Summary:**
+
+**Diagnoses and Conditions:**
+1. **Acute Bronchitis:** Patient experienced acute bronchitis in 2021, requiring evaluation and treatment.
+2. **Generalized Anxiety Disorder:** Diagnosed in 2018 and has been monitored since. The patient's GAD-7 scores have ranged from 1 to 7.
+3. **Whiplash Injury to Neck:** Sustained in 2020, necessitating evaluation and management.
+4. **Injury of Neck:** Another injury to the neck occurred in 2020, leading to further assessments.
+5. **Only Received Primary School Education:** Patient's educational background.
+6. **Full-Time Employment:** Current employment status.
+
+**Medications and Immunizations:**
+1. **Medroxyprogesterone Acetate:** Administered in 2022.
+2. **Immunizations:** Received various immunizations, including influenza, HPV, meningococcal, and COVID-19 vaccines, as scheduled.
+
+**Physical Observations:**
+- Patient's height has increased from 139 cm in 2005 to 169.1 cm in 2023.
+- Body weight increased from 30.1 kg in 2014 to 57.4 kg in 2023.
+- BMI ranged from 15.57 kg/m² to 20.07 kg/m² over the years, with fluctuations.
+- Blood pressure readings were generally within the normal range.
+- Heart rate ranged from 62/min to 99/min.
+- Respiratory rate remained stable between 12/min and 16/min.
+- CBC panels show variations within acceptable ranges.
+
+**Psychological Assessment:**
+- PHQ-9 scores ranged from 0 to 4, indicating fluctuations in depressive symptoms.
+- GAD-7 scores ranged from 1 to 7, reflecting changes in anxiety symptoms.
+- AUDIT-C score was 1, indicating low-risk alcohol use.
+
+**Clinical Notes:**
+- The patient has a history of recurrent bronchitis and neck injuries.
+- Mental health conditions, including generalized anxiety disorder, have been consistently monitored.
+- Medications and immunizations have been administered as per guidelines.
+- The patient's physical growth and development are generally within expected parameters.
+- Regular follow-ups and monitoring are advised to address anxiety symptoms and ensure overall well-being.
+
+**Recommendations and Course of Action:**
+1. Continue regular follow-up appointments to monitor and manage generalized anxiety disorder and depressive symptoms.
+2. Continue with scheduled immunizations and preventive healthcare measures.
+3. Address any acute health issues promptly, including bronchitis or neck injuries.
+4. Encourage lifestyle modifications to maintain a healthy BMI.
+5. Provide counseling and support for mental health and anxiety management.
+6. Regularly review medications and consider adjustments if necessary.
+
+This comprehensive summary provides an overview of the patient's medical history, conditions, medications, immunizations, physical observations, psychological assessments, and clinical notes. It also outlines recommendations for ongoing care and management.

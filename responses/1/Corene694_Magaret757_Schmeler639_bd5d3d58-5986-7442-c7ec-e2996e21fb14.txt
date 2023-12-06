@@ -1,0 +1,49 @@
+Patient Summary for Corene694 Schmeler639:
+
+Patient Information:
+- Name: Corene694 Schmeler639
+- Gender: Female
+- Date of Birth: April 30, 1966
+- Address: 481 Wiza Passage, Louisville, KY 40272
+
+Medical History:
+- The patient's medical history dates back to 1967 when she first had a diagnosis report.
+- Notable medical conditions include chronic sinusitis, obesity (BMI 30+), essential hypertension, and generalized anxiety disorder.
+- The patient has had multiple episodes of full-time employment, part-time employment, and periods of not being in the labor force.
+- There is a history of tubal ligation in 2000.
+- The patient had a urinary tract infection in 2013 and was diagnosed with misusing drugs in 2014.
+- Various immunizations have been completed, including influenza and zoster vaccines.
+
+Current Clinical Information:
+- The patient's current BMI is 30.27 kg/m2, indicating obesity.
+- Blood pressure ranges between 83/116 mm[Hg] and 91/126 mm[Hg].
+- Heart rate varies but is generally within a normal range.
+- The patient has a history of generalized anxiety disorder, with GAD-7 scores ranging from 1 to 10.
+- The patient's PHQ-2 scores fluctuate between 0 and 2.
+- The DAST-10 score was 10 in 2014 but has decreased to 0 in recent years.
+- The patient experienced streptococcal sore throat in 2015 and acute viral pharyngitis in 2017.
+- There were episodes of medication review due in the patient's history.
+- The patient received COVID-19 vaccinations in 2021.
+- Various lipid panel and CBC panel results are within acceptable ranges.
+- Tobacco smoking status varies.
+- The patient reported pain severity scores between 0 and 4.
+- Other observations, such as cholesterol levels, leukocyte count, and erythrocyte count, are within normal ranges.
+
+Recommendations and Course of Action:
+1. Obesity Management: Given the patient's BMI consistently above 30, weight management and lifestyle modifications are crucial. Recommend a consultation with a nutritionist and an exercise regimen tailored to the patient's needs.
+
+2. Blood Pressure Management: Monitor blood pressure regularly and provide guidance on lifestyle changes and potential medications to maintain blood pressure within a healthy range.
+
+3. Anxiety Management: Continue to assess and manage generalized anxiety disorder, considering therapy, counseling, or medication as appropriate.
+
+4. Medication Review: Regularly review the patient's medications to ensure efficacy, address any potential misuse, and minimize drug-related issues.
+
+5. Immunization: Encourage the patient to stay up-to-date with recommended immunizations and boosters.
+
+6. Address Pain: Assess and manage pain symptoms as reported by the patient.
+
+7. Lifestyle Modifications: Discuss lifestyle changes, including smoking cessation if applicable, to improve overall health.
+
+8. Regular Follow-up: Schedule regular follow-up appointments to monitor progress, adjust treatments, and address any emerging health concerns.
+
+This comprehensive summary provides an overview of the patient's medical history, current clinical status, and recommendations for ongoing care, empowering healthcare providers to engage effectively with the patient and guide their healthcare journey.

@@ -1,0 +1,32 @@
+Patient 31e56b38-65d3-aa1d-f301-06a0a70ae25e, Grant908 Chas63, is a male born on March 2, 2007, residing at 638 Robel Terrace Apt 81, Odessa, TX 79761. The patient's medical history and treatment course can be summarized as follows:
+
+**Medical History:**
+- In 2013, the patient had a height of 134.2 cm, reported a pain severity score of 3, and had a body weight of 29.9 kg with a BMI percentile of 74.75%. Blood pressure was 81/118 mm[Hg], heart rate was 60/min, and respiratory rate was 14/min. The patient was not a tobacco smoker and had completed the required immunizations.
+
+- In 2014, the patient's height increased to 141.4 cm, pain severity decreased to a score of 2, and body weight increased to 36.3 kg with a BMI percentile of 87.139%. Blood pressure was 77/106 mm[Hg], heart rate was 76/min, and respiratory rate was 14/min. Immunizations were up to date.
+
+- In 2015, the patient continued to grow with a height of 148.6 cm, no reported pain, and a body weight of 44.8 kg with a BMI percentile of 93.05%. Blood pressure was 80/125 mm[Hg], heart rate was 96/min, and respiratory rate was 14/min. The patient remained tobacco-free and had completed recommended immunizations.
+
+- In 2016, the patient's height was 154.6 cm, pain severity was reported at 3, body weight was 48.9 kg with a BMI percentile of 90.422%. Blood pressure was 80/125 mm[Hg], heart rate was 97/min, and respiratory rate was 13/min. The patient was still not smoking and had up-to-date immunizations.
+
+- In 2017, the patient was diagnosed with acute viral pharyngitis and had a body temperature of 37.121°C.
+
+- In 2018, the patient's height reached 167.2 cm, reported a pain severity score of 1, and had a body weight of 71.7 kg with a BMI percentile of 96.673%. Blood pressure was 78/125 mm[Hg], heart rate was 66/min, and respiratory rate was 12/min. The patient scored 3 on the Patient Health Questionnaire-9: Modified for Teens and had completed recommended immunizations.
+
+- In 2019, the patient had completed additional immunizations, and the mental health assessments showed a score of 4 on the Patient Health Questionnaire-9: Modified for Teens.
+
+- In 2020, the patient's height was 174.9 cm, pain severity was reported at 1, body weight was 94.8 kg with a BMI percentile of 98.747%, and blood pressure was 73/124 mm[Hg]. The patient reported a GAD-7 score of 1 and a PHQ.Teen score of 4. Immunizations were up to date.
+
+- In 2021, the patient's height was 182.7 cm, reported a pain severity score of 3, and had a body weight of 90.7 kg with a BMI percentile of 96.302%. Blood pressure was 76/122 mm[Hg], and the patient had a GAD-7 score of 3 and a PHQ.Teen score of 17. The patient received COVID-19 vaccinations.
+
+- In 2022, the patient's height was 190.3 cm, reported a pain severity score of 1, and had a body weight of 99.1 kg with a BMI percentile of 94.606%. Blood pressure was 69/120 mm[Hg]. The patient reported a PHQ.Teen score of 4. Immunizations were up to date.
+
+**Course of Action:**
+- Regular monitoring of the patient's growth and BMI is essential to ensure proper development and address any potential concerns.
+- Continue assessing and managing the patient's mental health, especially considering the reported anxiety symptoms.
+- Maintain an up-to-date immunization schedule according to guidelines.
+- Given the patient's weight and BMI trends, consider discussing a healthy lifestyle, including nutrition and physical activity, to support optimal growth and well-being.
+- Periodic medication reviews should be conducted to assess the need for any medications related to the patient's mental health.
+- Continue to provide comprehensive care and support for the patient's overall health and well-being.
+
+This summary provides a concise yet comprehensive overview of the patient's medical history, treatment course, and recommendations for ongoing care, enabling healthcare providers to engage effectively with the patient and guide their future healthcare decisions.

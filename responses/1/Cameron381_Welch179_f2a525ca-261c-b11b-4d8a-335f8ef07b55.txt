@@ -1,0 +1,133 @@
+Patient Information:
+- Patient Name: Welch179 Cameron381
+- Gender: Male
+- Date of Birth: July 24, 2020
+- Address: 732 Hills Rest Suite 10, Topeka, KS 66622
+
+Clinical Summary:
+
+This comprehensive clinical summary covers the medical history, treatment course, and relevant clinical information for Patient Welch179 Cameron381, a male child born on July 24, 2020, residing in Topeka, Kansas.
+
+**Medical History:**
+
+Patient Welch179 Cameron381 has been regularly monitored from infancy, and the following key observations have been noted over time:
+
+1. **July 24, 2020:**
+   - Body Height: 60.9 cm
+   - Pain Severity (0-10 verbal numeric rating): Reported as 3
+   - Body Weight: 4.8 kg
+   - Weight-for-Length: 0.005077%
+   - Head Occipital-Frontal Circumference: 40.45 cm
+   - Blood Pressure: 66/102 mm[Hg]
+   - Heart Rate: 73/min
+   - Respiratory Rate: 16/min
+   - Immunizations: Completed Hep B, adolescent or pediatric
+
+2. **August 28, 2020:**
+   - Body Height: 65.2 cm
+   - Pain Severity: Reported as 2
+   - Body Weight: 5.9 kg
+   - Weight-for-Length: 0.10517%
+   - Head Occipital-Frontal Circumference: 43.46 cm
+   - Blood Pressure: 69/108 mm[Hg]
+   - Heart Rate: 67/min
+   - Respiratory Rate: 14/min
+   - Immunizations: Completed Hib (PRP-OMP)
+
+3. **October 30, 2020:**
+   - Body Height: 71.1 cm
+   - Pain Severity: Reported as 1
+   - Body Weight: 7.6 kg
+   - Weight-for-Length: 2.1304%
+   - Head Occipital-Frontal Circumference: 45.85 cm
+   - Blood Pressure: 71/97 mm[Hg]
+   - Heart Rate: 81/min
+   - Respiratory Rate: 13/min
+   - Immunizations: Completed rotavirus, monovalent, IPV, DTaP, Pneumococcal conjugate PCV 13
+
+4. **January 1, 2021:**
+   - Body Height: 80.7 cm
+   - Pain Severity: Reported as 4
+   - Body Weight: 10.8 kg
+   - Weight-for-Length: 35.119%
+   - Head Occipital-Frontal Circumference: 49.11 cm
+   - Blood Pressure: 69/107 mm[Hg]
+   - Heart Rate: 97/min
+   - Respiratory Rate: 13/min
+   - Immunizations: Completed IPV, Influenza, seasonal, DTaP, Pneumococcal conjugate PCV 13, Hep B, adolescent or pediatric
+
+5. **April 2, 2021:**
+   - Body Height: 85 cm
+   - Pain Severity: Reported as 1
+   - Body Weight: 12 kg
+   - Weight-for-Length: 49.294%
+   - Head Occipital-Frontal Circumference: 50.29 cm
+   - Blood Pressure: 67/110 mm[Hg]
+   - Heart Rate: 66/min
+   - Respiratory Rate: 16/min
+   - Immunizations: Completed DTaP
+
+6. **July 2, 2021:**
+   - Diagnosed with Otitis media
+
+7. **July 19, 2021:**
+   - Body Height: 88.7 cm
+   - Pain Severity: Reported as 4
+   - Body Weight: 12.9 kg
+   - Weight-for-Length: 48.998%
+   - Head Occipital-Frontal Circumference: 51.17 cm
+   - Blood Pressure: 67/102 mm[Hg]
+   - Heart Rate: 89/min
+   - Respiratory Rate: 14/min
+   - Immunizations: Completed Hib (PRP-OMP), varicella, MMR, Pneumococcal conjugate PCV 13, Hep A, ped/adol, 2 dose
+
+8. **October 1, 2021:**
+   - Body Height: 92 cm
+   - Pain Severity: Reported as 1
+   - Body Weight: 13.7 kg
+   - Weight-for-Length: 52.953%
+   - Head Occipital-Frontal Circumference: 51.87 cm
+   - Blood Pressure: 68/107 mm[Hg]
+   - Heart Rate: 73/min
+   - Respiratory Rate: 14/min
+   - Immunizations: Completed DTaP
+
+9. **December 31, 2021:**
+   - Diagnosed with Acute allergic reaction
+   - Medication: predniSONE 5 MG Oral Tablet
+
+10. **January 7, 2022:**
+    - Allergy testing results: Elevated IgE levels for various allergens
+
+11. **January 26, 2022:**
+    - Body Height: 97.7 cm
+    - Pain Severity: Reported as 3
+    - Body Weight: 14.8 kg
+    - Weight-for-Length: 39.778%
+    - Head Occipital-Frontal Circumference: 52.9 cm
+    - Blood Pressure: 63/110 mm[Hg]
+    - Heart Rate: 98/min
+    - Respiratory Rate: 15/min
+    - Immunizations: Completed Influenza, seasonal
+
+12. **July 1, 2022:**
+    - Diagnosed with Otitis media
+
+13. **July 8, 2022:**
+    - Body Height: 102.6 cm
+    - Pain Severity: Reported as 3
+    - Body Weight: 15.8 kg
+    - Weight-for-Length: 30.298%
+    - Head Occipital-Frontal Circumference: 53.65 cm
+    - Blood Pressure: 68/112 mm[Hg]
+    - Heart Rate: 97/min
+    - Respiratory Rate: 15/min
+    - Immunizations: Completed Hep A, ped/adol, 2 dose
+
+14. **June 16, 2023:**
+    - Body Height: 107.6 cm
+    - Pain Severity: Reported as 3
+    - Body Weight: 17.2 kg
+    - Weight-for-Length: 99%
+    - Head Occipital-Frontal Circumference: 54.24 cm
+    - Blood Pressure

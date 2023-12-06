@@ -1,0 +1,44 @@
+Patient Summary for 6f444d36-dc19-1809-1210-d6f00ff4d75e Volkman526 Enda486
+
+Patient Information:
+- Patient Name: Enda486 Volkman526
+- Gender: Female
+- Date of Birth: April 6, 2011
+- Address: 942 Lehner Branch Suite 45, Metairie, LA 70003
+
+Medical History:
+- September 11, 2013: At this time, the patient's height was 101.1 cm, and she reported a pain severity score of 4. Her body weight was 15.7 kg, and her weight-for-length percentile was 52.115%. The head occipital-frontal circumference percentile was 99.39%, with a measurement of 52.29 cm. Her BMI was 15.35 kg/m2. Blood pressure was 76 mm[Hg] systolic and 129 mm[Hg] diastolic, with a heart rate of 95 /min and a respiratory rate of 15 /min. Immunization for influenza was completed.
+
+- March 12, 2014: The patient's height was 105 cm, with a pain severity score of 3. Her weight was 16.8 kg, and the weight-for-length percentile was 49.814%. The head occipital-frontal circumference was 99.39%, with a measurement of 52.34 cm. BMI was 15.26 kg/m2. Blood pressure was 78 mm[Hg] systolic and 126 mm[Hg] diastolic, with a heart rate of 80 /min and a respiratory rate of 13 /min. Tobacco smoking status was assessed.
+
+- September 10, 2014: The patient's height was 108.9 cm, with a pain severity score of 0. Her weight was 18.1 kg, and the weight-for-length percentile remained at 49.814%. The head occipital-frontal circumference was 99.39%, with a measurement of 52.34 cm. BMI was 15.23 kg/m2. Blood pressure was 75 mm[Hg] systolic and 131 mm[Hg] diastolic, with a heart rate of 93 /min and a respiratory rate of 15 /min. Immunization for influenza was completed.
+
+- March 11, 2015: The patient's height was 116.7 cm, with a pain severity score of 3. Her weight was 21.9 kg, and her BMI was 16.1 kg/m2. Blood pressure was 78 mm[Hg] systolic and 127 mm[Hg] diastolic, with a heart rate of 95 /min and a respiratory rate of 16 /min. Immunization for varicella and other vaccines was completed.
+
+- July 27, 2016: The patient's height was 124.6 cm, with a pain severity score of 0. Her weight was 25.8 kg, and her BMI was 16.65 kg/m2. Blood pressure was 75 mm[Hg] systolic and 123 mm[Hg] diastolic, with a heart rate of 85 /min and a respiratory rate of 14 /min. Hematological parameters were within normal ranges.
+
+- March 22, 2017: The patient's height was 132.1 cm, with a pain severity score of 2. Her weight was 30.3 kg, and her BMI was 17.33 kg/m2. Blood pressure was 71 mm[Hg] systolic and 124 mm[Hg] diastolic, with a heart rate of 72 /min and a respiratory rate of 12 /min. Immunization for influenza was completed.
+
+- March 28, 2018: The patient presented with viral sinusitis. Her height was 138.9 cm, with a pain severity score of 3. Her weight was 37.2 kg, and her BMI was 19.29 kg/m2. Blood pressure was 74 mm[Hg] systolic and 131 mm[Hg] diastolic, with a heart rate of 84 /min and a respiratory rate of 16 /min. Immunization for influenza was completed.
+
+- April 3, 2019: The patient's height was 145.4 cm, with a pain severity score of 2. Her weight was 40.6 kg, and her BMI was 19.22 kg/m2. Blood pressure was 79 mm[Hg] systolic and 131 mm[Hg] diastolic, with a heart rate of 99 /min and a respiratory rate of 13 /min. Immunization for influenza was completed.
+
+- April 8, 2020: The patient's height was 151.3 cm, with a pain severity score of 1. Her weight was 46.3 kg, and her BMI was 20.24 kg/m2. Blood pressure was 77 mm[Hg] systolic and 130 mm[Hg] diastolic, with a heart rate of 77 /min and a respiratory rate of 14 /min. Immunization for influenza was completed.
+
+- April 14, 2021: The patient presented with a Streptococcal sore throat. Her body temperature was 37.669°C.
+
+- April 10, 2022: The patient's height was 158.1 cm, with a pain severity score of 1. Her weight was 50.2 kg, and her BMI was 20.08 kg/m2. Blood pressure was 77 mm[Hg] systolic and 126 mm[Hg] diastolic, with a heart rate of 74 /min and a respiratory rate of 14 /min. Immunization for various vaccines was completed.
+
+- May 19, 2022: The patient's height was 165.2 cm, with a pain severity score of 1. Her weight was 53.4 kg, and her BMI was 19.58 kg/m2. Blood pressure was 77 mm[Hg] systolic and 123 mm[Hg] diastolic, with a heart rate of 86 /min and a respiratory rate of 14 /min. She was diagnosed with Generalized Anxiety Disorder (GAD-7 score: 3).
+
+- Several immunizations, including SARS-COV-2 (COVID-19) vaccine, were completed in 2023.
+
+- August 4, 2023: The patient presented with a sprain of the ankle.
+
+Recommendations and Course of Action:
+- The patient has been consistently monitored for growth and development. Her weight, height, and BMI percentiles have been within appropriate ranges for her age and sex.
+- Immunizations have been up to date, including the COVID-19 vaccine.
+- The patient has been diagnosed with Generalized Anxiety Disorder, and it is advisable to continue monitoring her mental health and consider appropriate interventions as needed.
+- For the ankle sprain, appropriate treatment and rehabilitation should be provided to facilitate a full recovery.
+
+Please schedule a follow-up appointment to address any concerns and continue monitoring the patient's overall health and well-being.

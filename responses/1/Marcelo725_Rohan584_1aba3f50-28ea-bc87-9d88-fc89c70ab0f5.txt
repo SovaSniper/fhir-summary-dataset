@@ -1,0 +1,48 @@
+Patient ID: 1aba3f50-28ea-bc87-9d88-fc89c70ab0f5
+Name: Rohan Marcelo
+Gender: Male
+Date of Birth: May 22, 2019
+Address: 466 Hayes Divide, Suite 29, Beacon Falls, CT 00000
+
+Clinical Summary:
+
+Patient Rohan Marcelo, a male born on May 22, 2019, has been consistently monitored and assessed since birth. His medical history and treatment course are as follows:
+
+1. May 22, 2019:
+   - Initial assessment recorded Rohan's height at 50.8 cm and weight at 3.9 kg.
+   - Pain severity reported as 2 on a 0-10 verbal numeric rating scale.
+   - Completed immunization for Hep B, adolescent or pediatric.
+
+2. June 26, 2019:
+   - Height: 54.8 cm, Weight: 4.8 kg.
+   - Pain severity reduced to 1.
+   - Immunization for Hib (PRP-OMP), rotavirus, monovalent, IPV, DTaP, and PCV 13 administered.
+
+3. August 28, 2019:
+   - Height: 60.3 cm, Weight: 6.3 kg.
+   - Pain severity remained at 1.
+   - Immunization for Hib (PRP-OMP), rotavirus, monovalent, IPV, DTaP, and PCV 13 administered.
+
+4. October 30, 2019:
+   - Height: 64.3 cm, Weight: 7.5 kg.
+   - Pain severity increased to 2.
+   - Immunization for IPV and seasonal influenza administered.
+
+5. January 29, 2020:
+   - Height: 69 cm, Weight: 9 kg.
+   - Pain severity reported as 3.
+   - Immunization for Hep B, adolescent or pediatric, DTaP, PCV 13, and seasonal influenza completed.
+
+6. April 29, 2020:
+   - Height: 72.8 cm, Weight: 10 kg.
+   - Pain severity increased to 4.
+   - Immunization for Hib (PRP-OMP), varicella, MMR, PCV 13, and Hep A, ped/adol, 2 dose administered.
+
+7. July 29, 2020:
+   - Height: 76.2 cm, Weight: 10.9 kg.
+   - Pain severity reduced to 0.
+   - Immunization for DTaP completed.
+
+8. October 28, 2020:
+   - Height: 84.3 cm, Weight: 12.5 kg.
+   - Pain

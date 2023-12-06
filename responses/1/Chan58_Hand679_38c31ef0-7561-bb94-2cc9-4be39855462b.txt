@@ -1,0 +1,53 @@
+Patient 38c31ef0-7561-bb94-2cc9-4be39855462b, Hand679 Chan58, is a female born on May 28, 2008, residing at 778 Schimmel Trailer, Brattleboro, VT 05301. Here is a comprehensive clinical summary of her medical history and treatment course:
+
+**Medical History:**
+- In 2011, at the age of 3, the patient had a medical examination, which showed a body height of 106.8 cm, a pain severity score of 1/10, and a body weight of 19.2 kg. Her BMI was 16.84 kg/m², and her blood pressure was 83/105 mm[Hg]. The patient had immunizations completed for influenza.
+
+- In 2014, at the age of 6, another examination revealed a body height of 113 cm, a pain severity score of 4/10, and a body weight of 20.2 kg. Her BMI was 15.8 kg/m², and her blood pressure was 86/106 mm[Hg]. The patient had immunizations completed for influenza.
+
+- In 2015, at the age of 7, her height was 118.6 cm, with a pain severity score of 4/10 and a body weight of 22.6 kg. Her BMI was 16.09 kg/m², and her blood pressure was 77/115 mm[Hg]. She received influenza immunization.
+
+- In 2016, at age 8, the patient was diagnosed with acute viral pharyngitis. Her body temperature was recorded at 37.805°C.
+
+- In 2017, at the age of 9, the patient's height was 123.7 cm, with a pain severity score of 2/10 and a body weight of 26.5 kg. Her BMI was 17.28 kg/m², and her blood pressure was 85/103 mm[Hg].
+
+- In 2018, at age 10, the patient experienced a laceration injury to her forearm.
+
+- In 2019, at age 11, she was diagnosed with viral sinusitis. Her height was 133 cm, with a pain severity score of 4/10 and a body weight of 32.5 kg. Her BMI was 18.36 kg/m², and her blood pressure was 75/104 mm[Hg]. Blood tests showed normal values.
+
+- In 2019, the patient received immunizations for Tdap, influenza, HPV, and meningococcal MCV4P.
+
+- In 2020, at age 12, her height was 139.9 cm, with a pain severity score of 3/10 and a body weight of 37.1 kg. Her BMI was 18.98 kg/m², and her blood pressure was 86/102 mm[Hg]. She was also assessed for anxiety disorders using GAD-7 and PHQ-9 scores.
+
+- In 2020, she received influenza and HPV immunizations.
+
+- In 2021, at age 13, her height was 146.5 cm, with a pain severity score of 1/10 and a body weight of 42.1 kg. Her BMI was 19.62 kg/m², and her blood pressure was 84/113 mm[Hg]. She continued to be evaluated for anxiety disorders.
+
+- In 2021, the patient received influenza and HPV immunizations.
+
+- In 2022, at age 14, her height was 150.4 cm, with a pain severity score of 1/10 and a body weight of 44.3 kg. Her BMI was 19.55 kg/m², and her blood pressure was 82/117 mm[Hg]. She had elevated PHQ-9 and GAD-7 scores indicating generalized anxiety disorder.
+
+- In 2022, she received influenza immunization.
+
+- In 2023, at age 15, her height was 151.9 cm, with a pain severity score of 2/10 and a body weight of 43.3 kg. Her BMI was 18.76 kg/m², and her blood pressure was 84/116 mm[Hg]. She continued to be evaluated for generalized anxiety disorder.
+
+- In 2023, she received influenza immunization.
+
+**Medication Review:**
+- The patient's medication review is due (situation) at various points in her medical history, and she has been assessed for anxiety disorders.
+
+**Diagnosis:**
+- The patient has been diagnosed with acute viral pharyngitis, viral sinusitis, and generalized anxiety disorder during her medical history.
+
+**Course of Action:**
+- The patient's medical history suggests a pattern of recurrent infections and anxiety-related concerns. A thorough evaluation of her anxiety disorder is essential, and she should be provided with appropriate counseling or therapy to manage her anxiety symptoms.
+
+- Regular follow-up appointments are recommended to monitor her physical growth, blood pressure, and overall health. Immunizations should be kept up to date as per the recommended schedule.
+
+- Given her history of recurrent infections, it is crucial to educate the patient and her caregivers on preventive measures and good hygiene practices to reduce the risk of future infections.
+
+- The patient's medication review is due, and it is essential to review her current medications, assess their effectiveness, and make any necessary adjustments.
+
+- Continue to monitor the patient's pain severity scores, BMI, and blood pressure to ensure her overall well-being.
+
+This comprehensive summary provides an overview of the patient's medical history, diagnoses, and a clear course of action for ongoing care and management. It is essential to maintain regular communication with the patient and her caregivers to address any emerging health concerns or changes in her condition.

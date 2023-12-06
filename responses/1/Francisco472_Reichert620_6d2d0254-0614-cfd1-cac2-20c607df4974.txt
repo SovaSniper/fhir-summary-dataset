@@ -1,0 +1,57 @@
+**Patient Summary**
+
+Patient ID: 6d2d0254-0614-cfd1-cac2-20c607df4974
+Name: Reichert, Francisco
+Gender: Male
+Date of Birth: January 18, 1988
+Address: 456 Heathcote Ferry, Suite 81, Springdale, AR 72703
+
+**Medical History:**
+- Received certificate of high school equivalency.
+- Full-time employment.
+- Reports of stress.
+- Reports of violence in the environment.
+- Limited social contact (noted in 2006 and 2009).
+- Essential hypertension (diagnosed in 2010).
+- Unhealthy alcohol drinking behavior (noted in 2011).
+- Chronic pain, including chronic low back and neck pain (noted since 2013).
+- Generalized anxiety disorder (noted since 2014).
+- Reports of social isolation (noted in 2014 and 2019).
+- Reports of violence in the environment (noted in 2019).
+- Victim of intimate partner abuse (noted in 2022).
+- Full-time employment.
+- Social isolation.
+- Reports of stress.
+- Reports of violence in the environment.
+
+**Treatment History:**
+- Pain management with fluctuating severity levels reported from 2014 to 2022.
+- Medication review is due.
+- Influenza vaccinations received annually from 2014 to 2023.
+- SARS-COV-2 (COVID-19) vaccinations received in 2021.
+
+**Current Observations:**
+- Height: 181.6 cm
+- Weight: 93.6 kg
+- BMI: 28.37 kg/m²
+- Blood Pressure: 91/106 mm[Hg]
+- Heart Rate: 98 /min
+- Respiratory Rate: 13 /min
+- Total score for Drug Abuse Screening Test-10 (DAST-10): 0
+- Total score for Generalized anxiety disorder 7 item (GAD-7): 3
+- Total score for Patient Health Questionnaire 2 item (PHQ-2): 1
+
+**Recommendations:**
+1. Continue pain management and consider a thorough review of the current medication regimen.
+2. Implement strategies to address chronic pain, including physiotherapy and pain management techniques.
+3. Continue monitoring blood pressure and consider lifestyle modifications or additional interventions for hypertension.
+4. Assess and provide support for emotional well-being, particularly in relation to generalized anxiety disorder. Consider therapy or counseling.
+5. Encourage social engagement and support to alleviate social isolation.
+6. Address reports of violence in the environment, and ensure patient's safety and well-being.
+7. Continue annual influenza vaccinations for preventive care.
+
+**Follow-up:**
+- Schedule a comprehensive medication review.
+- Arrange a follow-up visit in three months to monitor progress.
+
+Please let me know if further information or clarification is needed.

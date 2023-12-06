@@ -1,0 +1,24 @@
+Patient Summary for Ezekiel373 (DOB: 2017-02-01)
+Address: 565 Gibson Esplanade, West Monroe, LA 71292
+
+Medical History:
+- Ezekiel373 is a male child born on February 1, 2017, in West Monroe, LA.
+- The patient's medical history includes regular check-ups and vaccinations, with immunizations completed for Hepatitis B, Hib, rotavirus, IPV, DTaP, Pneumococcal conjugate PCV 13, varicella, MMR, Hep A, seasonal influenza, and COVID-19.
+- The patient had an acute allergic reaction and was treated with prednisone 5 mg oral tablets in 2018.
+- In 2019, Ezekiel373 was diagnosed with otitis media.
+- In 2020, the patient had viral sinusitis.
+- In 2021, Ezekiel373 was suspected to have COVID-19 and exhibited symptoms such as cough, sore throat, muscle and joint pain, fever, and loss of taste. Testing confirmed the presence of SARS-CoV-2 RNA.
+
+Current Clinical Information:
+- As of the most recent visit on January 18, 2023, Ezekiel373's vital signs show a body weight of 19.4 kg, height of 111.2 cm, and a body mass index (BMI) of 15.68 kg/m2.
+- Blood pressure ranges from 84/122 mm[Hg], heart rate is 79/min, and respiratory rate is 15/min.
+- Recent blood work indicates leukocytes of 7.88 x 10^3/uL, erythrocytes of 4.35 x 10^6/uL, hemoglobin of 12.68 g/dL, hematocrit of 37.58%, and platelets of 223.95 x 10^3/uL.
+- Immunizations have been up to date, including the most recent influenza vaccination in January 2023.
+
+Recommendations and Follow-Up:
+1. Continue to monitor Ezekiel373's growth and development.
+2. Schedule regular check-ups and vaccinations as per the recommended immunization schedule for his age.
+3. Continue to provide age-appropriate health education to the patient's caregivers, including COVID-19 prevention measures.
+4. Consider further evaluation or consultation for any recurrent symptoms or concerns.
+
+Please note that this summary is based on the available medical data, and any specific medical advice or recommendations should be discussed with Ezekiel373's healthcare provider.

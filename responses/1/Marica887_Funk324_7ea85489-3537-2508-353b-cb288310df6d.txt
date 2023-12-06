@@ -1,0 +1,24 @@
+**Clinical Summary for Marica Funk324**
+
+**Patient Details:**  
+**ID:** 7ea85489-3537-2508-353b-cb288310df6d  
+**DOB:** 2004-09-27  
+**Address:** 416 Harber Glen Unit 88, Chicago, IL 60601  
+**Gender:** Female  
+
+**Medical History:**
+
+1. **2013:** Diagnosed with Viral sinusitis. Later in the year, sustained a bone fracture, specifically of the forearm.
+2. **2014-2017:** Regular physical checks noted steady growth in height and weight, within the 70th to 90th BMI percentile range. Immunizations for Influenza, Tdap, HPV, and Meningococcal were administered.
+3. **2017:** Diagnosed with Acute bronchitis. Mild scores on GAD-7 and PHQ-Teen indicating occasional anxiety and mood fluctuations.
+4. **2018:** A sprain in the wrist was reported. Subsequent general health assessments revealed a stable condition with a moderate anxiety score.
+5. **2019-2021:** Multiple instances of Viral sinusitis were reported. Additionally, Marica received two doses of the SARS-COV-2 (COVID-19) mRNA vaccine.
+6. **2022-2023:** A drop in BMI percentile to 54.109% was noted. Recent findings indicate unsatisfactory housing conditions, stress, limited social contact, and full-time employment. However, Marica has received higher education.
+
+**Clinical Observations:**
+
+- Steady growth in height and weight over the years, with the latest measurements being 166 cm and 59.6 kg respectively.
+- Regular immunizations maintained, most recent being Influenza in 2022.
+- Blood pressure, heart rate, and respiratory rate within normal ranges across observations.
+- Complete Blood Count panels show values within normal ranges.
+- Patient reports limited pain, with the highest

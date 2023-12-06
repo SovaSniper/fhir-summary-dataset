@@ -1,0 +1,50 @@
+Patient Summary for 3fe8a682-0719-b8b5-a44f-7855a5c2cddd (Harber290 Berta524)
+
+Patient Information:
+- Name: Harber290 Berta524
+- Gender: Female
+- Date of Birth: February 22, 2018
+- Address: 281 Ernser Lock Unit 1, Dover, DE 19904
+
+Medical History:
+- February 22, 2018: Born with a height of 52 cm and a weight of 4.1 kg.
+- Diagnosed with Hepatitis B and received adolescent or pediatric immunization.
+- Various observation notes recorded during routine check-ups with normal growth and development.
+
+Treatment Course:
+- March 29, 2018: Received immunization for Hib (PRP-OMP), rotavirus, monovalent, IPV, and DTaP.
+- April 23, 2018: Diagnosed with otitis media.
+- May 31, 2018: Received additional immunization for Pneumococcal conjugate PCV 13.
+- August 2, 2018: Received immunization for Hib (PRP-OMP), rotavirus, monovalent, IPV, and DTaP.
+- November 1, 2018: Received immunization for Hepatitis B, influenza, DTaP, and Pneumococcal conjugate PCV 13.
+- Various observation notes indicating normal growth and development.
+- May 2, 2019: Diagnosed with acute viral pharyngitis.
+- July 22, 2019: Observed with height, weight, and vital signs within normal ranges.
+- August 1, 2019: Received immunization for DTaP.
+- January 30, 2020: Recorded normal height, weight, and vital signs.
+- July 30, 2020: Diagnosed with otitis media.
+- November 16, 2020: Medication review due.
+- Various observation notes showing consistent growth and development.
+- June 19, 2021: Allergy testing conducted with results indicating low allergen sensitivities.
+- July 1, 2021: Diagnosed with otitis media.
+- June 27, 2021: Medication review due.
+- November 20, 2021: Height, weight, and vital signs within normal ranges.
+- February 2, 2022: Diagnosed with otitis media.
+- February 19, 2022: Medication review due.
+
+Clinical Information:
+- The patient has been consistently growing and developing within expected age and sex percentiles.
+- She has received age-appropriate immunizations.
+- No significant medical conditions beyond common childhood illnesses such as otitis media and viral pharyngitis.
+- Allergy testing indicates low allergen sensitivities.
+- There is a history of medication review due.
+
+Advice and Course of Action:
+1. Continue to monitor the patient's growth, development, and vital signs at regular intervals.
+2. Ensure that all recommended immunizations are up-to-date.
+3. Educate the parents on the importance of regular medical check-ups and adherence to vaccination schedules.
+4. Address any acute illnesses promptly, and follow appropriate treatment protocols.
+5. Continue to monitor the patient's allergy sensitivities and manage as needed.
+6. Schedule a medication review to assess the patient's current medication needs.
+
+Overall, the patient has a generally healthy medical history, with routine childhood illnesses and vaccinations being the main focus. Regular check-ups and vaccinations are crucial to her ongoing well-being.

@@ -1,0 +1,32 @@
+Patient: Cyndy549 Johns824
+Gender: Female
+Date of Birth: June 20, 2008
+Address: 127 Friesen Crossroad, St. Johnsbury, VT 05819
+
+Clinical Summary:
+
+Patient Cyndy549 Johns824 is a 15-year-old female with a history of atopic dermatitis. She was first diagnosed with atopic dermatitis in September 2008. Throughout her medical history, she has experienced several episodes of acute allergic reactions, including the use of prednisone in 2014. Additionally, she suffered a sprain of the ankle in 2015. Immunizations have been completed as per recommended schedules, including seasonal influenza, HPV, meningococcal, and COVID-19 vaccinations.
+
+The patient's growth and vital signs have been consistently monitored. Her height has progressively increased from 107.1 cm in 2008 to 152.4 cm in 2023. Pain severity scores have varied, with a maximum score of 3 reported. Her weight has increased from 19.8 kg to 50.7 kg, resulting in fluctuations in her BMI, but generally remaining within the expected percentile for her age and sex.
+
+Hematological and immunological assessments have shown variations within normal ranges, and there have been no alarming trends in her laboratory results. Notably, she has reported allergic sensitivities to various allergens, with IgE antibody levels within expected ranges.
+
+The patient has also been diagnosed with generalized anxiety disorder, with varying scores on the GAD-7 scale and PHQ-T. Her mental health status should be monitored and managed accordingly.
+
+Course of Action:
+
+1. Continue monitoring and managing the patient's atopic dermatitis, providing regular dermatological follow-ups, and recommending appropriate skincare routines and treatments to minimize flare-ups.
+
+2. Maintain routine immunizations, ensuring the patient stays up-to-date with vaccinations according to her age and national guidelines.
+
+3. Monitor and manage the patient's growth and vital signs, ensuring that her BMI remains within an acceptable range for her age and sex. Educate the patient and her family about maintaining a healthy lifestyle.
+
+4. Continue to assess and manage the patient's generalized anxiety disorder. Consider referrals to mental health professionals for counseling and therapy as needed.
+
+5. Regularly evaluate and manage any allergic sensitivities, providing appropriate advice and interventions to minimize allergic reactions.
+
+6. Schedule medication reviews as necessary to ensure the patient's prescriptions are up-to-date and appropriate for her condition.
+
+7. Maintain open communication with the patient and her family, addressing any concerns or questions they may have about her health and treatment.
+
+This clinical summary provides an overview of the patient's medical history, treatment course, and relevant clinical information. It serves as a reference for healthcare professionals to guide ongoing care and management of Patient Cyndy549 Johns824.

@@ -1,0 +1,31 @@
+Patient Summary for Dawna Schumm995
+
+Patient ID: c5e6c4a2-6d13-2ccb-f8e9-028e31a5f04f
+Name: Dawna Schumm995
+Gender: Female
+Date of Birth: May 7, 2014
+Address: 549 Schoen Key Apt 87, Whitehall, PA 15227
+
+Medical History:
+- The patient has been consistently receiving immunizations according to the recommended schedule, including Hep B, adolescent or pediatric, Hib, rotavirus, IPV, DTaP, PCV 13, varicella, MMR, Hep A, and seasonal influenza vaccines.
+- The patient experienced otitis media in April 2015 and was treated appropriately.
+- The patient has had episodes of acute and chronic sinusitis in 2017 and 2018, respectively, which were managed accordingly.
+
+Treatment Course:
+- The patient's medical journey has been marked by steady growth and development. From an initial height of 51.6 cm and weight of 3.3 kg in May 2014, she has shown consistent growth, reaching a height of 132.8 cm and a weight of 26.4 kg as of October 2022.
+- Pain severity has been recorded using a 0-10 verbal numeric rating scale, with scores varying from 0 to 3 over time.
+- Blood pressure, heart rate, and respiratory rate have been within normal pediatric ranges during the recorded observations.
+
+Clinical Notes and Advice:
+- The patient's growth and development are in line with age and sex percentiles, indicating a healthy progression.
+- Immunizations have been up-to-date, providing protection against various diseases.
+- The patient has shown a mild sensitivity to certain allergens, with IgE levels within normal limits.
+- The patient has experienced occasional upper respiratory infections, including viral and bacterial sinusitis. These episodes have been appropriately treated.
+
+Course of Action:
+1. Continue with routine well-child visits and immunizations to ensure the patient's continued growth and development.
+2. Monitor for any signs of recurrent sinusitis or other upper respiratory infections, and treat promptly if needed.
+3. Consider a medication review to ensure that current treatments and dosages remain appropriate.
+4. Advise the patient and their caregivers on maintaining a balanced diet and regular exercise routine to support overall health.
+
+Please note that this summary is based on available data up to September 2023. It is recommended to continue monitoring the patient's progress and adjust care plans as necessary.

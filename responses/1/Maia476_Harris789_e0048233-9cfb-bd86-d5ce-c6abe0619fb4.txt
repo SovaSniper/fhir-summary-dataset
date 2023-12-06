@@ -1,0 +1,36 @@
+Patient e0048233-9cfb-bd86-d5ce-c6abe0619fb4, Harris789 Maia476, a female born on December 19, 1993, currently resides at 507 Corkery Harbor Suite 84, Salem, IN 47167. This clinical summary provides an overview of her medical history, treatment course, and relevant clinical information, along with recommended actions for her ongoing care.
+
+Medical History:
+1. Patient has a history of limited education, having only received primary school education.
+2. She has a history of drug misuse.
+3. In 2014, the patient experienced obesity, with a body mass index (BMI) exceeding 30.
+4. She was not in the labor force during this time.
+5. The patient had limited social contact and reported experiencing stress.
+6. In 2015, she reported a history of viral sinusitis and streptococcal sore throat.
+7. The patient underwent a normal pregnancy in 2013 and 2021.
+8. She completed several immunizations, including seasonal influenza, Td (adult), Hepatitis B, and meningococcal vaccines.
+9. In 2019, she presented with symptoms of cough, sputum production, fever, and loss of taste. Testing confirmed the presence of Influenza virus A and B and SARS-CoV-2 RNA.
+10. The patient received the SARS-CoV-2 (COVID-19) vaccine in 2021.
+
+Current Clinical Findings:
+1. The patient's BMI remains in the obesity range (31.49 kg/m2).
+2. She is not currently in the labor force.
+3. Reports generalized anxiety disorder (GAD-7 score: 2) and a history of social isolation.
+4. Presents with a history of substance misuse (DAST-10 score: 9).
+5. Has a history of medication misuse and is due for a medication review.
+6. Tobacco smoking status is documented.
+7. Has a history of experiencing humiliation, fear, rape, and kicking (HARK score: 0).
+8. Alcohol Use Disorder Identification Test - Consumption (AUDIT-C score: 1) indicates low alcohol consumption.
+9. Recent CBC panel results show some abnormalities, including elevated leukocytes and reduced platelet count.
+
+Recommended Actions:
+1. Evaluate and address the patient's substance misuse and provide appropriate counseling or referral to addiction services.
+2. Conduct a thorough psychiatric assessment to address anxiety and social isolation, and consider therapy or medication as necessary.
+3. Monitor BMI and provide guidance on weight management, including diet and exercise recommendations.
+4. Schedule a medication review to assess current prescriptions and ensure proper usage.
+5. Continue routine immunizations and preventive healthcare measures.
+6. Address any acute or chronic health issues, such as the recent respiratory symptoms, and provide appropriate treatment.
+7. Encourage the patient to maintain regular medical check-ups and screenings.
+8. Support the patient's mental health and provide resources for coping with stress.
+
+This clinical summary outlines the key aspects of Patient Harris789 Maia476's medical history, current conditions, and recommended actions. It is essential to engage with the patient, addressing her physical and mental health needs while promoting overall well-being and preventive care. Regular follow-up appointments should be scheduled to monitor progress and make necessary adjustments to her healthcare plan.

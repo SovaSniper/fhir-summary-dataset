@@ -1,0 +1,27 @@
+Patient ID: f8657024-8a85-025d-d905-e89508055426
+Name: Effie Feeney
+Gender: Female
+Date of Birth: August 30, 1995
+Address: 196 Legros Vale Unit 75, Davison, MI 48423
+
+Summary:
+
+Effie Feeney is a 27-year-old female patient with a complex medical history. She was diagnosed with preeclampsia and antepartum eclampsia in 2018 during a normal pregnancy. Subsequently, she experienced two normal pregnancies in 2015 and 2020. She has a history of acute bronchitis, viral sinusitis, and a clavicle fracture in 2021. Effie's BMI has consistently been in the overweight to obese range (89.576% to 93.376% percentile), and she reports various stressors, including social isolation and limited social contact. Her mental health assessment indicates mild symptoms of generalized anxiety disorder, with GAD-7 scores ranging from 1 to 4, and moderate depression, with a PHQ-9 score of 26. She also reported no history of drug abuse.
+
+Effie's current vital signs and laboratory results are generally within normal limits, except for her elevated BMI and mild hypertension (125/65 mm[Hg]). She is not a tobacco smoker and has been up-to-date with her immunizations. She received the SARS-COV-2 (COVID-19) vaccine in 2021.
+
+Recommendations:
+
+1. **Weight Management**: Given Effie's consistently elevated BMI, it is crucial to address her weight management. A referral to a registered dietitian or a weight management program is recommended to help her achieve a healthier BMI.
+
+2. **Stress Management**: Effie reports various stressors, including social isolation. Mental health support is essential. A referral to a mental health professional or counselor is advised to address her anxiety and depression symptoms.
+
+3. **Blood Pressure Monitoring**: Given her mild hypertension, regular blood pressure monitoring is recommended. Lifestyle modifications, including a healthy diet and physical activity, should be encouraged to manage her blood pressure.
+
+4. **Medication Review**: Effie has a history of medication use, including medroxyPROGESTERone acetate and Etonogestrel implant. A medication review should be conducted to assess the ongoing need for these medications and evaluate potential side effects.
+
+5. **Immunizations**: Ensure Effie remains up-to-date with recommended immunizations, including seasonal influenza vaccines and other age-appropriate vaccines.
+
+6. **Follow-Up**: Schedule regular follow-up appointments to monitor Effie's progress in weight management, blood pressure control, and mental health support. Continue to address her specific needs and concerns.
+
+Effie Feeney's comprehensive care plan should prioritize her physical and mental well-being while actively addressing her weight management and stress-related issues. Regular monitoring and follow-up are crucial to achieving better health outcomes for this patient.

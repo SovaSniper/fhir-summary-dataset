@@ -1,0 +1,49 @@
+**Patient Summary for Stark857 Emmitt44**
+
+**Patient Information**:
+- Name: Stark857 Emmitt44
+- Gender: Male
+- Date of Birth: October 3, 1974
+- Address: 840 Cassin Bay, Broken Arrow, OK 74012
+
+**Medical History**:
+
+- **1978-06-13**: Diagnosis of an unspecified condition noted in the report.
+- **1978-06-21**: Further evaluation noted, possibly related to the earlier diagnosis.
+- **1990-11-15**: Noted involvement in higher education and full-time employment.
+- **1992-11-05**: Diagnosis of stress, likely related to employment.
+- **1992-11-26**: Continued full-time employment noted.
+- **1993-12-02**: Limited social contact reported.
+- **1996-12-05**: Diagnosis of prediabetes, anemia, and ongoing stress. 
+- **1999-12-09**: Medication review recommended.
+- **2002-12-12**: Limited social contact and ongoing stress noted.
+- **2008-12-18**: Unemployment and victim of intimate partner abuse reported.
+
+**Current Clinical Assessment**:
+
+- **Physical Measurements**:
+  - Height: 183.4 cm
+  - Weight: 93.8 kg
+  - BMI: 27.89 kg/m²
+
+- **Vital Signs**:
+  - Blood Pressure: 82/110 mm[Hg]
+  - Heart Rate: 88 /min
+  - Respiratory Rate: 15 /min
+
+- **Laboratory Findings**:
+  - Hemoglobin A1c: 5.87%
+  - Glucose: 77.04 mg/dL
+  - Urea Nitrogen: 19.47 mg/dL
+  - Creatinine: 1.38 mg/dL
+  - Calcium: 10.06 mg/dL
+  - Sodium: 142.73 mmol/L
+  - Potassium: 4.84 mmol/L
+
+- **Hematologic Profile**:
+  - Normal levels observed for Hemoglobin, Hematocrit, MCV, MCH, MCHC, Platelets, and related parameters.
+
+- **Lipid Profile**:
+  - Total Cholesterol: 128.93 mg/dL
+  - Triglycerides: 129.15 mg/dL
+  - LDL Cholesterol: 71.

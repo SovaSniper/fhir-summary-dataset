@@ -1,0 +1,138 @@
+Patient Summary for Schneider199 Alexander630:
+
+Patient Information:
+- Name: Schneider199 Alexander630
+- Gender: Male
+- Date of Birth: January 22, 2020
+- Address: 580 Bailey Track, Paris, KY 40361
+
+Medical History and Treatment Course:
+
+The patient's medical history and treatment course are as follows:
+
+1. Initial Assessment (January 22, 2020):
+   - Body Height: 53 cm
+   - Pain Severity (0-10): Reported 4
+   - Body Weight: 4.2 kg
+   - Weight-for-Length: 48.67%
+   - Head Occipital-frontal Circumference: 36.16 cm
+   - Blood Pressure: 94 mm[Hg] / 127 mm[Hg]
+   - Heart Rate: 97 /min
+   - Respiratory Rate: 16 /min
+   - Immunizations: Completed Hep B (Pediatric)
+
+2. Diagnosis: CBC Panel (January 22, 2020)
+
+3. Viral Sinusitis (February 26, 2020)
+
+4. Diagnosis: Streptococcal Sore Throat (February 27, 2020)
+   - Body Height: 62.4 cm
+   - Pain Severity (0-10): Reported 2
+   - Body Weight: 6.7 kg
+   - Weight-for-Length: 61.405%
+   - Head Occipital-frontal Circumference: 42.03 cm
+   - Blood Pressure: 96 mm[Hg] / 122 mm[Hg]
+   - Heart Rate: 90 /min
+   - Respiratory Rate: 14 /min
+   - Immunizations: Completed Hib, Rotavirus, IPV, DTaP, PCV 13
+
+5. Medication Review Due (August 23, 2020)
+   - Body Height: 71.3 cm
+   - Pain Severity (0-10): Reported 1
+   - Body Weight: 9.4 kg
+   - Weight-for-Length: 79.093%
+   - Head Occipital-frontal Circumference: 45.3 cm
+   - Blood Pressure: 92 mm[Hg] / 121 mm[Hg]
+   - Heart Rate: 96 /min
+   - Respiratory Rate: 15 /min
+   - Immunizations: Completed IPV, Influenza, DTaP, PCV 13, Hep B (Pediatric)
+
+6. Acute Allergic Reaction (October 3, 2020)
+   - Medication: PredniSONE 5 MG Oral Tablet
+
+7. Streptococcal Sore Throat (October 4, 2020)
+   - Body Temperature: 38.63°C
+   - Pain Severity (0-10): Reported 3
+   - Blood Pressure: 97 mm[Hg] / 117 mm[Hg]
+   - Heart Rate: 86 /min
+   - Respiratory Rate: 16 /min
+
+8. Medication Review Due (October 4, 2020)
+   - Body Height: 71.3 cm
+   - Pain Severity (0-10): Reported 3
+   - Body Weight: 9.4 kg
+   - Weight-for-Length: 79.093%
+   - Head Occipital-frontal Circumference: 45.3 cm
+   - Blood Pressure: 97 mm[Hg] / 117 mm[Hg]
+   - Heart Rate: 86 /min
+   - Respiratory Rate: 16 /min
+
+9. Allergy Testing (October 14, 2020)
+   - IgE Levels: Various allergens tested
+
+10. Ongoing Growth and Development (December 30, 2020)
+    - Body Height: 78.8 cm
+    - Pain Severity (0-10): Reported 2
+    - Body Weight: 11.4 kg
+    - Weight-for-Length: 80.084%
+    - Head Occipital-frontal Circumference: 47.27 cm
+    - Blood Pressure: 107 mm[Hg] / 117 mm[Hg]
+    - Heart Rate: 64 /min
+    - Respiratory Rate: 15 /min
+    - Immunizations: Completed Hib, Varicella, MMR, PCV 13, Hep A (2 doses)
+
+11. Otitis Media (December 29, 2021)
+
+12. Childhood Asthma (February 10, 2022)
+    - Body Height: 91.1 cm
+    - Pain Severity (0-10): Reported 2
+    - Body Weight: 13.9 kg
+    - Weight-for-Length: 68.648%
+    - Head Occipital-frontal Circumference: 49.5 cm
+    - Blood Pressure: 95 mm[Hg] / 124 mm[Hg]
+    - Heart Rate: 62 /min
+    - Respiratory Rate: 12 /min
+    - Immunizations: Completed Hep A (2 doses)
+
+13. Acute Viral Pharyngitis (June 29, 2022)
+    - Body Temperature: 37.891°C
+    - Pain Severity (0-10): Reported 2
+    - Body Weight: 13.9 kg
+    - Weight-for-Length: 68.648%
+    - Head Occipital-frontal Circumference: 49.5 cm
+    - Blood Pressure: 96 mm[Hg] / 119 mm[Hg]
+    - Heart Rate: 90 /min
+    - Respiratory Rate: 16 /min
+
+14. Ongoing Growth and Development (June 28, 2023)
+    - Body Height: 95.1 cm
+    - Pain Severity (0-10): Reported 1
+    - Body Weight: 14.9 kg
+    - Weight-for-Length: 68.637%
+    - Head Occipital-frontal Circumference: 49.95 cm
+    - Blood Pressure: 91 mm[Hg] / 121 mm[Hg]
+    - Heart Rate: 68 /min
+    - Respiratory Rate: 13 /min
+    - Immunizations: Completed Influenza
+
+Clinical Advice and Course of Action:
+
+1. Monitor the patient's growth and development, ensuring that height, weight, and head circumference remain within expected percentiles for age and sex.
+
+2. Continue with the recommended immunization schedule to maintain protection against vaccine-preventable diseases.
+
+3. Address any acute medical conditions promptly, including allergies, sore throats, and viral infections, with appropriate medications and treatments.
+
+4. Keep track of pain severity and address any discomfort reported by the patient.
+
+5. Maintain regular follow-up appointments to assess the patient's overall health and provide guidance on nutrition, exercise, and other aspects of well-being.
+
+6. Consider allergy management strategies for the patient based on IgE levels and clinical symptoms.
+
+7. Educate the patient and their caregivers about asthma management, including monitoring and controlling symptoms.
+
+8. Continue to monitor the patient's vital signs, including blood pressure, heart rate, and respiratory rate, to ensure they remain within normal ranges.
+
+9. Review the patient's medication as needed and adjust doses as necessary.
+
+10. Encourage a smoke-free environment and discuss

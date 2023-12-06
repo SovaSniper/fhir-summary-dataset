@@ -1,0 +1,55 @@
+Patient ID: 53efdec4-ff06-d939-621b-155ed900d6c3
+Name: Marietta439 Champlin946
+Gender: Female
+Date of Birth: March 18, 2019
+Address: 1044 Wunsch Byway, Suite 58, Indianapolis, IN 46107
+
+Clinical Summary:
+
+Marietta439 Champlin946 is a female patient born on March 18, 2019, with a comprehensive medical history. She has been regularly monitored and evaluated over time, with various observations recorded.
+
+**Medical History:**
+
+- **March 18, 2019:** The initial assessment noted the patient's height at 55.7 cm, weight at 4.2 kg, and a reported pain severity of 4 on a 0-10 scale. Blood pressure was 76/114 mm[Hg], heart rate was 91/min, and respiratory rate was 14/min. The patient had completed Hepatitis B vaccination.
+
+- **April 22, 2019:** The patient's height increased to 59.2 cm, weight to 5 kg, and the pain severity decreased to 0. Blood pressure was 73/125 mm[Hg], heart rate was 70/min, and respiratory rate was 14/min. Immunization for various diseases was noted.
+
+- **June 24, 2019:** Height further increased to 64.3 cm, weight to 6.4 kg, and pain severity was reported as 3. Blood pressure was 76/118 mm[Hg], heart rate was 79/min, and respiratory rate was 13/min. Immunization updates included Hib, rotavirus, IPV, DTaP, and Pneumococcal conjugate.
+
+- **July 1, 2019:** The patient's height reached 68.3 cm, and pain severity was back to 0. Blood pressure was 75/114 mm[Hg], heart rate was 89/min, and respiratory rate was 13/min. Immunization for Hib and other diseases was noted.
+
+- **August 26, 2019:** The patient's height was 73.3 cm, and pain severity was 3. Blood pressure was 67/116 mm[Hg], heart rate was 72/min, and respiratory rate was 15/min. Immunizations included IPV, Influenza, DTaP, and Pneumococcal conjugate.
+
+- **November 25, 2019:** Height increased to 77.6 cm, pain severity was 2, and the patient weighed 10.2 kg. Blood pressure was 69/124 mm[Hg], heart rate was 60/min, and respiratory rate was 13/min. Immunization updates included Hepatitis B, Influenza, DTaP, Pneumococcal conjugate, and more.
+
+- **February 24, 2020:** The patient's height was 81.3 cm, pain severity was 2, and weight was 11.1 kg. Blood pressure was 76/111 mm[Hg], heart rate was 77/min, and respiratory rate was 12/min. Additional immunizations were recorded.
+
+- **May 25, 2020:** Height increased to 84.7 cm, pain severity was 2, and weight was 11.8 kg. Blood pressure was 75/126 mm[Hg], heart rate was 63/min, and respiratory rate was 13/min. Immunizations included Hib, varicella, MMR, Pneumococcal conjugate, and Hepatitis A.
+
+- **August 24, 2020:** The patient's height reached 90.7 cm, pain severity was 3, and weight was 13 kg. Blood pressure was 75/123 mm[Hg], heart rate was 62/min, and respiratory rate was 15/min. Influenza vaccination was administered.
+
+- **February 22, 2021:** Height was 95.4 cm, pain severity was 1, and weight was 14.1 kg. Blood pressure was 70/113 mm[Hg], heart rate was 78/min, and respiratory rate was 15/min. Immunization updates included Hepatitis A.
+
+- **August 23, 2021:** The patient was diagnosed with viral sinusitis. Height was 99.8 cm, pain severity was 0, and weight was 15.3 kg. Blood pressure was 69/120 mm[Hg], heart rate was 96/min, and respiratory rate was 13/min. Influenza vaccination was administered.
+
+- **January 6, 2022:** Height reached 103.6 cm, pain severity was 1, and weight was 16.5 kg. Blood pressure was 71/121 mm[Hg], heart rate was 98/min, and respiratory rate was 16/min. The patient was due for medication review.
+
+- **August 22, 2022:** Height increased to 107.4 cm, pain severity was 4, and weight was 18.1 kg. Blood pressure was 71/112 mm[Hg], heart rate was 93/min, and respiratory rate was 16/min. Influenza vaccination was administered.
+
+- **February 20, 2023:** The latest observation noted a height of 107.4 cm, pain severity of 4, and weight of 18.1 kg. Influenza vaccination was administered.
+
+**Advice and Course of Action:**
+
+- The patient's growth and development appear within normal ranges for age and sex.
+
+- Immunization records show that the patient is up-to-date with recommended vaccines, which is essential for preventing various infectious diseases.
+
+- Pain severity assessments have varied over time, indicating the need for continued monitoring and assessment of any underlying issues causing discomfort.
+
+- A medication review is due; it is crucial to evaluate the patient's current medications and make any necessary adjustments or updates.
+
+- Given the patient's history of acute viral pharyngitis and viral sinusitis, it is important to provide guidance on proper hygiene practices and monitor for any recurrent respiratory symptoms.
+
+- Continue to monitor the patient's growth, development, and overall health, and ensure regular follow-up appointments for immunizations, pain assessment, and medication review.
+
+This comprehensive clinical summary provides a clear overview of the patient's medical history, growth patterns, vaccinations, and important clinical events, enabling healthcare providers to effectively engage with the patient and guide their ongoing care.

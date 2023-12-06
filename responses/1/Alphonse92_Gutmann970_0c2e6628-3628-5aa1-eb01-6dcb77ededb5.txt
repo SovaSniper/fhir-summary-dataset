@@ -1,0 +1,36 @@
+**Patient Summary: Gutmann970 Alphonse92**
+
+*Demographics:*
+- Name: Gutmann970 Alphonse92
+- Gender: Male
+- Date of Birth: 2009-07-25
+- Address: 704 Spinka Union Suite 49, Chicago, IL 60707
+
+*Medical History:*
+- The patient has a history of acute bronchitis (2016-07-16) and viral sinusitis (2019-08-03).
+- Notable injuries include a tear of the meniscus of the knee (2020-08-08).
+- Completed immunizations for influenza, HPV, meningococcal, and COVID-19.
+
+*Clinical Observations:*
+- Initial observation in 2012 showed normal growth and development.
+- BMI percentiles consistently above 95% for age and sex, suggesting potential overweight.
+- Blood pressure, heart rate, and respiratory rate within normal ranges across visits.
+- Varied pain severity scores reported over visits, indicating occasional discomfort.
+
+*Current Status:*
+- Recent visit (2023-08-26) reports a generalized anxiety disorder with GAD-7 score of 2 and PHQ-9 for teens score of 3.
+- BMI percentile has reduced to 69.442%, but patient has gained weight.
+- Blood pressure, heart rate, and respiratory rate remain stable.
+
+*Treatment and Recommendations:*
+1. **Weight Management:** Given the persistent high BMI percentiles, advise on a balanced diet and regular physical activity to promote a healthier weight.
+2. **Anxiety Management:** Refer the patient for psychological support or counseling for anxiety.
+3. **Orthopedic Consultation:** Evaluate the knee injury and consider further orthopedic interventions if necessary.
+4. **Regular Immunizations:** Ensure the patient stays up-to-date with immunizations.
+5. **Follow-Up:** Schedule regular follow-up visits to monitor BMI, mental health, and overall well-being.
+
+*Medication Review Due:*
+- Conduct a comprehensive review of medications during the next visit.
+
+*Conclusion:*
+Gutmann970 Alphonse92 presents with a history of respiratory infections, an orthopedic injury, and recent concerns regarding anxiety. A multidisciplinary approach involving weight management, mental health support, and orthopedic care is crucial for the patient's well-being. Regular follow-ups and a medication review will enhance ongoing care and intervention strategies.

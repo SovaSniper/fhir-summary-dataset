@@ -1,0 +1,37 @@
+Patient ID: 7b8da0e1-c671-0347-d468-1a2d51c62bb8
+Name: Bradly656 Konopelski743
+Gender: Male
+Date of Birth: April 5, 2017
+Address: 893 Hoeger Parade Unit 90, Addison, IL 60143
+
+**Clinical Summary:**
+
+Mr. Bradly656 Konopelski743 is a male patient born on April 5, 2017, residing at 893 Hoeger Parade Unit 90, Addison, IL 60143. His medical history and treatment course are summarized below:
+
+**Medical History:**
+- Mr. Konopelski743 has been regularly observed and assessed since birth.
+- His height has steadily increased from 55 cm at birth to 119.5 cm at the latest observation.
+- Body weight has also shown consistent growth, from 4.4 kg at birth to 24 kg in the latest report.
+- Weight-for-length percentile ranged from 15.795% to 82.653% throughout his observations.
+- Occipital-frontal head circumference percentile remained stable at 83.84%, with measurements ranging from 37.52 cm to 51.24 cm.
+- Blood pressure readings fluctuated within a normal range, with the latest observation at 69/122 mm[Hg].
+- Heart rate ranged from 61/min to 98/min, while respiratory rate remained between 12/min and 16/min.
+- Complete immunization for recommended vaccines was completed on schedule.
+- Mr. Konopelski743 has a history of otitis media and viral sinusitis, which were successfully managed.
+
+**Current Situation:**
+- The patient is currently experiencing acute viral pharyngitis, as evidenced by a body temperature of 37.326°C.
+- His leukocyte count is 6.701 10*3/uL, erythrocyte count is 5.1828 10*6/uL, and hemoglobin level is 15.309 g/dL.
+- Hematocrit, MCV, MCH, MCHC, and platelet counts are all within normal limits.
+
+**Advice and Course of Action:**
+1. Monitor the patient's body temperature regularly and administer appropriate antipyretics as needed to manage the acute viral pharyngitis.
+2. Continue to track growth parameters, including height, weight, and head circumference, to ensure he maintains a healthy growth trajectory.
+3. Assess pain severity regularly using a numeric rating scale and provide pain management as necessary.
+4. Maintain vigilance for any signs of recurrent otitis media or other infections, and treat promptly if needed.
+5. Schedule a medication review to evaluate any ongoing treatment and medication requirements.
+6. Continue to ensure up-to-date immunization per guidelines to protect against preventable diseases.
+7. Educate the caregiver on proper hygiene and infection prevention measures to reduce the risk of recurrent infections.
+8. Schedule regular follow-up appointments to monitor the patient's overall health and development.
+
+Please continue to provide comprehensive care and support for Mr. Bradly656 Konopelski743, addressing his acute viral pharyngitis while monitoring his growth, pain, and overall health.

@@ -1,0 +1,36 @@
+Patient b1d827e6-c741-a5df-bfa3-df2bf1a1bddc Welch179 Dakota806 is a female born on January 26, 1973, and currently resides at 595 Parker Union, Portland, ME 04103. This comprehensive clinical summary covers her medical history, treatment course, and relevant clinical information.
+
+Medical History:
+- Patient's height ranged from 51.4 cm to 89.2 cm during recorded observations.
+- Weight varied from 3.7 kg to 12.8 kg.
+- Blood pressure readings ranged from 89 mm[Hg] to 101 mm[Hg] systolic and 139 mm[Hg] to 151 mm[Hg] diastolic.
+- Heart rate ranged from 61 /min to 99 /min.
+- Respiratory rate ranged from 13 /min to 16 /min.
+
+Clinical Observations:
+- Pain severity ranged from 0 to 4 on the verbal numeric rating scale, with varying reports.
+- Head Occipital-frontal circumference ranged from 34.65 cm to 48.04 cm, consistently within the 48.61 percentile.
+- CBC panel results indicate stable blood parameters over time, with no significant abnormalities.
+- Immunizations for IPV and influenza were completed.
+- The patient had a history of a whiplash injury to the neck and a subsequent transfer to a skilled nursing facility.
+- The patient was diagnosed with a seizure disorder, a history of a single seizure, and epilepsy.
+- The patient was not a tobacco smoker.
+
+Course of Action:
+1. Continue monitoring the patient's growth parameters, including height, weight, and head circumference, to ensure normal development.
+
+2. Continue tracking pain severity and consider appropriate pain management strategies when necessary.
+
+3. Maintain regular blood pressure, heart rate, and respiratory rate monitoring, especially in the context of epilepsy, to detect any anomalies.
+
+4. Continue with recommended immunization schedules and preventive care.
+
+5. Address the history of whiplash injury to the neck, ensuring appropriate follow-up and rehabilitation.
+
+6. Manage the patient's epilepsy with appropriate medication, regular check-ups, and monitoring for seizure activity.
+
+7. Provide support and education to the patient and their caregivers regarding epilepsy management and safety precautions.
+
+8. Maintain a smoke-free environment and promote a healthy lifestyle.
+
+It's crucial to continue monitoring the patient's overall health and consult with specialists as needed to provide comprehensive care tailored to her specific medical history and needs. Regular follow-up appointments are essential to track progress and make any necessary adjustments to the treatment plan.

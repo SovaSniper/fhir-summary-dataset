@@ -1,0 +1,34 @@
+Patient Summary for O'Reilly797 Maurita219 (DOB: February 9, 2014) - Medical History and Actionable Recommendations
+
+Patient Information:
+- Name: O'Reilly797 Maurita219
+- Gender: Female
+- Date of Birth: February 9, 2014
+- Address: 176 Koch Port, Altoona, WI 54720
+
+Medical History:
+- The patient's medical history reveals a comprehensive record of growth and development over the years.
+
+Key Observations and Data:
+- Body Height: The patient's height has consistently increased from 52.4 cm at birth to 134.9 cm at the latest observation.
+- Weight: The patient's weight has steadily increased from 4.1 kg at birth to 47.4 kg at the latest observation.
+- Head Circumference: The head circumference has also grown from 35.26 cm to 49.15 cm over time.
+- Vital Signs: The patient's vital signs, including blood pressure, heart rate, and respiratory rate, have remained within the normal range throughout their development.
+
+Immunization History:
+- The patient has received a comprehensive series of immunizations, including Hepatitis B, Hib, rotavirus, IPV, DTaP, Pneumococcal conjugate PCV 13, varicella, MMR, Hep A, and influenza vaccines, ensuring protection against a range of preventable diseases.
+
+Diagnoses and Conditions:
+1. CBC Panel: Regular blood tests have consistently shown normal values for hemoglobin, hematocrit, leukocytes, and other blood parameters.
+2. Injury of Neck: The patient was diagnosed with a whiplash injury to the neck in 2016.
+3. Suspected COVID-19: The patient exhibited symptoms and tested positive for COVID-19 in 2020 but has since recovered.
+4. Laceration - Injury and Facial Laceration: The patient sustained lacerations in the past, which were treated appropriately.
+
+Recommendations and Course of Action:
+1. Regular Follow-up: Continue to monitor the patient's growth and development, including height, weight, and head circumference, to ensure they remain within normal ranges.
+2. Immunizations: Ensure the patient receives age-appropriate immunizations and keep their vaccination records up-to-date.
+3. Whiplash Injury: If the neck injury from 2016 is causing ongoing discomfort or pain, consider consulting a specialist for further evaluation and treatment.
+4. COVID-19 Recovery: Continue monitoring the patient's respiratory health, and if any lingering symptoms or concerns arise, seek medical advice.
+5. Laceration Care: In the event of any new injuries or lacerations, seek prompt medical attention for appropriate wound care and management.
+
+Overall, the patient has shown healthy growth and development, with a good vaccination history. Regular check-ups and appropriate medical care for any injuries or illnesses will contribute to her continued well-being. Please schedule a medication review as needed and encourage a healthy lifestyle, including a balanced diet and regular exercise.

@@ -1,0 +1,30 @@
+Patient Information:
+- Name: Glenn Olson
+- Gender: Male
+- Date of Birth: December 5, 2005
+- Address: 560 Goodwin Parade, Guilford VT, 00000
+
+Medical History Summary:
+Glenn Olson is a 17-year-old male with a history of generalized anxiety disorder (GAD-7 scores ranging from 0 to 3) and two occurrences of Streptococcal sore throat. He experienced a fracture of the forearm in 2017 and a subsequent bone fracture in 2018. Glenn has been up-to-date with his immunizations, including influenza, HPV, Tdap, and meningococcal vaccinations.
+
+Treatment Course and Clinical Observations:
+Glenn's medical history indicates steady growth over the years. His BMI percentiles have shown variation, ranging from 15.638% to 50.222% over the past years. Blood pressure has remained within acceptable pediatric ranges, while heart rate and respiratory rate have been generally stable. Notably, Glenn has reported mild pain levels (0-4 on the 0-10 verbal numeric rating scale) during clinical visits. Laboratory results have consistently fallen within normal ranges.
+
+Current Clinical Status and Recommendations:
+As of the most recent visit on January 23, 2023, Glenn stands at 169.5 cm, weighs 54.3 kg, and maintains a BMI of 18.9 kg/m2. Blood pressure, heart rate, and respiratory rate remain stable. Notably, Glenn's GAD-7 score is 3, indicating a mild level of anxiety. No acute medical issues were reported during this visit.
+
+Given Glenn's overall stable health, it is advised to continue routine healthcare maintenance. Due to his history of generalized anxiety disorder, regular monitoring of his mental health status and appropriate interventions as needed are recommended. Additionally, any concerns regarding his anxiety levels should be addressed promptly.
+
+Follow-up Action Items:
+1. Schedule regular check-ups to monitor growth, development, and mental health.
+2. Encourage Glenn to communicate openly about his anxiety and provide appropriate support.
+3. Continue annual influenza vaccinations and other recommended immunizations.
+4. Educate Glenn on maintaining a balanced lifestyle including diet, exercise, and mental well-being.
+
+Please feel free to reach out with any further questions or concerns regarding Glenn's health.
+
+[Signature]
+
+[Doctor's Name]
+[Medical Facility]
+[Date]

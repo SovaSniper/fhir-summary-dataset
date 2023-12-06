@@ -1,0 +1,47 @@
+Patient Summary for Arturo47 Sipes176:
+
+Patient ID: 0df5173f-ff73-6dea-c7a2-3d75c8d00660
+Name: Arturo47 Sipes176
+Gender: Male
+Date of Birth: August 25, 2005
+Address: 828 Rau Rest Apt 73, Douglasville, GA 30168
+
+Medical History:
+- Patient has a history of appendectomy in 2008 for appendicitis.
+- Medication review due in 2011.
+- Influenza immunization completed in 2014.
+- Patient presented with a sprain of the ankle in 2016 and viral sinusitis in 2016 and 2017.
+- Influenza and HPV immunizations completed in 2016.
+- Tdap and meningococcal MCV4P immunizations completed in 2016.
+- Patient had another episode of viral sinusitis in 2017.
+- Immunization completed in 2018 for influenza and HPV.
+- Patient presented with a total score of 2 on the Patient Health Questionnaire-9: Modified for Teens in 2018.
+- Influenza immunization completed in 2019.
+- HPV immunization completed in 2019.
+- Patient presented with a total score of 0 on the Patient Health Questionnaire-9: Modified for Teens in 2020.
+- Influenza immunization completed in 2020.
+- Patient presented with a total score of 3 on the Patient Health Questionnaire-9: Modified for Teens in 2020.
+- Influenza and meningococcal MCV4P immunizations completed in 2021.
+
+Current Clinical Status:
+- Patient's height has steadily increased from 122.4 cm in 2008 to 161.4 cm in 2022.
+- Reported pain severity ranged from 0 to 4 on a 0-10 verbal numeric rating scale.
+- Weight has increased from 20.4 kg in 2008 to 49.9 kg in 2022.
+- BMI percentiles have generally increased over the years, from 2.32% in 2008 to 18.77% in 2022.
+- Blood pressure and heart rate measurements have remained within normal ranges.
+- Respiratory rate has been stable at 15/min.
+- Leukocytes, erythrocytes, hemoglobin, hematocrit, and platelet levels have been within normal ranges.
+- Patient had an episode of streptococcal sore throat in 2022 and acute bronchitis in 2022.
+- Patient was diagnosed with child attention deficit disorder in 2020 and generalized anxiety disorder in 2022.
+
+Course of Action:
+1. Monitor the patient's growth and development regularly, paying attention to BMI percentiles to ensure healthy growth.
+2. Continue to address any psychological concerns, such as anxiety and attention deficit disorder, with appropriate therapies and interventions.
+3. Schedule regular follow-up appointments to assess pain severity, especially in the context of any new complaints.
+4. Maintain up-to-date immunizations and consider any additional vaccinations as recommended by guidelines.
+5. Perform medication review as needed and adjust treatments accordingly.
+6. Encourage a healthy lifestyle, including regular exercise and a balanced diet.
+7. Keep a close eye on any potential recurrent sinusitis or other respiratory issues.
+8. Educate the patient and family on the importance of preventive care and regular check-ups.
+
+This summary provides a comprehensive overview of the patient's medical history, treatment course, and current clinical status, allowing healthcare professionals to make informed decisions regarding Arturo47 Sipes176's ongoing care.

@@ -1,0 +1,35 @@
+Patient Summary for Lewis O'Keefe
+
+Patient Information:
+- Name: Lewis O'Keefe
+- Gender: Male
+- Date of Birth: February 5, 2009
+- Address: 617 Langosh Parade, Slippery Rock, PA 16057
+
+Medical History:
+Lewis O'Keefe is a male patient born on February 5, 2009, with a history of medical evaluations and conditions documented over the years. His medical history includes:
+
+1. Seasonal Allergic Rhinitis: Diagnosed in 2012.
+2. Ankle Sprain: Treated in 2014.
+3. Viral Sinusitis: Diagnosed in 2017 and 2022.
+4. Acute Allergic Reaction: Treated with prednisone in 2019.
+5. Generalized Anxiety Disorder (GAD): Diagnosed in 2022 and 2023.
+6. Fracture of Forearm: Diagnosed in 2023.
+
+Medications:
+Lewis O'Keefe has been treated with prednisone for acute allergic reactions.
+
+Immunizations:
+The patient has completed several immunizations, including varicella, IPV, influenza, DTaP, MMR, Tdap, HPV, meningococcal MCV4P, and SARS-COV-2 (COVID-19) vaccines, following age-appropriate recommendations.
+
+Physical Measurements:
+Throughout the years, Lewis has shown growth and physical development. His height, weight, body mass index (BMI), and vital signs are within normal ranges for his age and gender.
+
+Current Status and Recommendations:
+Lewis O'Keefe's most recent visit was on May 17, 2023, with complaints of pain (severity score 4) and anxiety (GAD-7 score 7). His vital signs and physical measurements remain stable, and he has received appropriate immunizations, including the COVID-19 vaccine.
+
+Based on the recent diagnosis of generalized anxiety disorder (GAD), it is advisable to continue monitoring and providing appropriate psychological support and therapy. Additionally, the patient's fracture of the forearm may require ongoing evaluation and management. Continue to assess his pain levels and consider appropriate pain management strategies.
+
+Regular medication reviews should be conducted to ensure the effectiveness and safety of his treatments.
+
+Lewis O'Keefe's overall health is satisfactory, but ongoing monitoring and follow-up are recommended to address his specific medical conditions and ensure his well-being. Please schedule regular check-ups and address any emerging health concerns promptly.

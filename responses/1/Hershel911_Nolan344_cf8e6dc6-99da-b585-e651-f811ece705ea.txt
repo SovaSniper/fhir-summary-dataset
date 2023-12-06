@@ -1,0 +1,30 @@
+**Clinical Summary for Patient Nolan344 Hershel911**
+
+**Patient Information:**
+- Name: Nolan344 Hershel911
+- Gender: Male
+- Date of Birth: 1985-07-28
+- Address: 676 Gibson Lock, San Jose, CA 95014
+
+**Medical History:**
+- The patient has a comprehensive medical history spanning several years, indicating regular medical assessments.
+- Noteworthy events include higher education completion in 2002, full-time employment since 2000, and a diagnosis of acute bacterial sinusitis in 2013.
+
+**Current Medication Review:**
+- Medication reviews have been consistently due, suggesting a need for a thorough evaluation of the patient's current drug regimen.
+
+**Diagnoses and Conditions:**
+1. **Generalized Anxiety Disorder (GAD):**
+   - GAD-7 scores have been reported, with the latest score being 2. Regular monitoring is recommended.
+
+2. **Obesity:**
+   - The patient has a BMI consistently over 30, indicating obesity. Lifestyle modifications and weight management strategies should be discussed.
+
+3. **Limited Social Contact:**
+   - The patient has reported limited social contact, suggesting potential social isolation. Addressing social well-being may be beneficial.
+
+4. **Acute Viral Pharyngitis (2021):**
+   - A recent diagnosis of acute viral pharyngitis has been noted. Symptomatic management and follow-up may be necessary.
+
+**Vital Signs and Lab Results:**
+- Blood pressure, heart rate, and respiratory rate

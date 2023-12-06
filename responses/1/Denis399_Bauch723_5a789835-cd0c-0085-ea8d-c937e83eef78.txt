@@ -1,0 +1,35 @@
+Patient Summary for Bauch723 Denis399:
+
+Patient Bauch723 Denis399 is a male born on July 23, 2001, residing at 623 Crona Trail Suite 53, Camden, DE 19901. This comprehensive clinical summary provides an overview of the patient's medical history, treatment course, and relevant clinical information.
+
+Medical History:
+- The patient's medical history begins with a birth record in 2001.
+- Subsequent medical history entries show periodic check-ups and physical examinations over the years.
+- In 2013, the patient presented with Risk activity involvement and was diagnosed with Generalized anxiety disorder (GAD-7 score of 7).
+- In 2014, the patient experienced a second-degree burn and was transferred to a skilled nursing facility.
+- In 2015, the patient received immunizations for Influenza and HPV.
+- In 2016, the patient was diagnosed with Viral sinusitis.
+- In 2017, the patient received immunizations for Influenza and meningococcal MCV4P.
+- In 2018, the patient was diagnosed with Essential hypertension and received immunization for Influenza.
+- In 2019, the patient reported a sprain of the wrist.
+- In 2020, the patient was diagnosed with Viral sinusitis.
+- In 2021, the patient received two doses of the SARS-COV-2 (COVID-19) vaccine.
+- In 2022, the patient received multiple immunizations, including Influenza, Td (adult), Hep B (adult), and meningococcal MCV4P.
+
+Clinical Information:
+- The patient's vital signs, including height, weight, BMI, blood pressure, heart rate, and respiratory rate, have been documented at various points in time.
+- The patient has a history of Generalized anxiety disorder, with varying GAD-7 scores over the years, ranging from 0 to 19.
+- The Patient Health Questionnaire-9: Modified for Teens (PHQ.Teen) scores have been recorded, indicating mild depressive symptoms.
+- The patient has a history of tobacco smoking status, with fluctuations.
+- AUDIT-C scores suggest low-risk alcohol use.
+
+Course of Action:
+1. Continuation of Care: The patient should continue with regular check-ups and follow-ups to monitor his physical and mental health.
+2. Anxiety Management: Given the history of Generalized anxiety disorder, the patient should receive appropriate counseling and therapeutic interventions to manage anxiety symptoms.
+3. Immunizations: Ensure that the patient remains up-to-date with recommended immunizations to protect against preventable diseases.
+4. Lifestyle Modification: Encourage the patient to maintain a healthy lifestyle, including regular exercise, a balanced diet, and stress management.
+5. Mental Health Support: Provide access to mental health resources and support for addressing anxiety and depressive symptoms.
+6. Smoking Cessation: Offer smoking cessation support if the patient is still smoking.
+7. Monitor Alcohol Use: Keep an eye on the patient's alcohol consumption and provide guidance if needed.
+
+This summary aims to assist healthcare providers in understanding the patient's medical history, current status, and potential areas of concern, enabling them to offer appropriate care and support. Regular monitoring and a holistic approach to the patient's well-being are crucial.

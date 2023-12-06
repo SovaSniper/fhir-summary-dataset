@@ -1,0 +1,51 @@
+Patient 20be2dd5-2de8-2759-8377-5e5d1e96c778, Ryan260 Afton574, is a female born on October 7, 2010, residing at 337 Borer Route Unit 39, Missoula, MT 59808. The patient's medical history has been documented as follows:
+
+1. **2010-10-07:** The patient's initial history and physical note.
+
+2. **2011-03-17:** Follow-up with medication review due.
+
+3. **2012-09-13:** Routine follow-up.
+
+4. **2013-03-14:** Regular checkup.
+
+5. **2013-09-12:** Another standard follow-up.
+
+6. **2014-03-13:** Noted slight increase in pain severity.
+
+7. **2014-09-11:** Immunization completed, including varicella and seasonal influenza.
+
+8. **2015-09-17:** Multiple immunizations completed, including IPV, DTaP, MMR, and seasonal influenza.
+
+9. **2016-04-17:** Diagnosed with viral sinusitis.
+
+10. **2016-08-17:** Standard follow-up with minor increase in pain severity.
+
+11. **2016-09-22:** Immunization completed for seasonal influenza.
+
+12. **2017-09-28:** Diagnosis of child attention deficit disorder.
+
+13. **2018-01-02 to 2018-08-26:** Multiple follow-up visits for child attention deficit disorder.
+
+14. **2019-03-30:** Diagnosed with a laceration of the forearm.
+
+15. **2019-05-26:** Routine checkup with increased body height and weight.
+
+16. **2019-10-10:** Diagnosed with acute viral pharyngitis.
+
+17. **2020-08-18:** Medication review due, with increased body height and weight.
+
+18. **2020-10-15:** Further increase in body height and weight.
+
+19. **2021-10-21:** Recent CBC panel and medication review due. Diagnosed with generalized anxiety disorder and observed increased body weight.
+
+20. **2022-10-27:** Immunizations completed for influenza, HPV, and documented generalized anxiety disorder.
+
+21. **2022-12-08 and 2022-12-29:** SARS-COV-2 (COVID-19) vaccinations administered.
+
+22. **2023-01-04:** Diagnosed with acute bronchitis, with an increase in body height and weight and reported pain severity.
+
+Overall, the patient has experienced typical growth and development throughout her medical history. There has been a recent diagnosis of generalized anxiety disorder, and the patient has received recommended immunizations. However, the diagnosis of acute bronchitis in 2023 requires attention.
+
+For ongoing care, it is recommended to monitor the patient's anxiety disorder and consider appropriate interventions or therapies. Further evaluation and management are necessary for acute bronchitis. Additionally, regular checkups should continue to track the patient's growth and development, and medication reviews should be conducted as scheduled.
+
+Please consult with the patient's primary care physician for a more detailed assessment and specific treatment recommendations tailored to the patient's individual needs.

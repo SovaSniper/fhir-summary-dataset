@@ -1,0 +1,40 @@
+Patient Summary for Rohan Jude (DOB: 1995-10-14)
+
+Patient Information:
+Name: Rohan Jude
+Gender: Male
+Date of Birth: October 14, 1995
+Address: 216 Stiedemann Port, Denver, CO 80207
+
+Medical History:
+Rohan Jude's medical history shows a series of clinical encounters over the years. He has a history of generalized anxiety disorder, which has been periodically assessed using the GAD-7 questionnaire. His anxiety scores have fluctuated, with the highest score being 9 in 2017. It's important to note that Rohan has reported experiencing stress and social isolation in the past.
+
+In addition to his anxiety, Rohan has been diagnosed with acute bronchitis and acute viral pharyngitis at different times, and medication reviews have been due periodically. He has also experienced chronic sinusitis in the past.
+
+Rohan's weight has fluctuated over the years, with his BMI ranging from 20.01 to 24.26 kg/m2. He currently weighs 84.3 kg, and his height is 186.4 cm.
+
+Observations:
+- Blood pressure has ranged from 90/115 mm[Hg] to 92/123 mm[Hg].
+- Heart rate has ranged from 67/min to 96/min.
+- Respiratory rate has ranged from 12/min to 15/min.
+- Rohan reported a pain severity score of 0-3 on the verbal numeric rating scale.
+- Rohan's leukocyte and erythrocyte counts, hemoglobin, hematocrit, and platelet levels are within the normal range.
+
+Immunization History:
+Rohan has received seasonal influenza vaccines regularly, and he received the SARS-COV-2 (COVID-19) vaccine in 2021. He has also been immunized against hepatitis B and meningococcal MCV4P.
+
+Medication and Behavioral History:
+Rohan's medication history should be reviewed periodically, and his current medications and any potential interactions should be assessed. He reported an AUDIT-C score of 10 in the past, suggesting potential alcohol misuse, but this score has improved.
+
+Advice and Course of Action:
+1. Anxiety Management: Given Rohan's history of generalized anxiety disorder, it is advisable to continue monitoring his anxiety levels using the GAD-7 questionnaire and provide appropriate counseling or treatment as needed. Consider referral to a mental health specialist.
+
+2. Respiratory Health: Continue to monitor Rohan's respiratory health, especially in the context of his previous diagnoses of acute bronchitis and viral pharyngitis. Ensure he is up-to-date on recommended vaccinations, including the seasonal influenza vaccine.
+
+3. Medication Review: Conduct a thorough medication review to assess any potential drug interactions or adverse effects, particularly in light of his changing weight and BMI.
+
+4. Lifestyle Assessment: Evaluate Rohan's lifestyle factors, including stress and social isolation, and provide support or interventions as necessary to improve his overall well-being.
+
+5. Follow-up: Schedule regular follow-up appointments to track Rohan's progress, assess his anxiety levels, and address any emerging health concerns.
+
+Rohan Jude's medical history highlights the importance of ongoing care and support for his anxiety and overall health. Tailoring interventions to address his specific needs will contribute to his well-being and long-term health outcomes.

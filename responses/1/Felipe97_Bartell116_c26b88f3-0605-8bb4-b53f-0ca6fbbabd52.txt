@@ -1,0 +1,29 @@
+Patient Summary for Bartell116 Felipe97 (DOB: 2008-05-01)
+
+**Medical History:**
+- The patient, Bartell116 Felipe97, is a male born on May 1, 2008, and resides at 362 Crist Vale Unit 36, Allakaket, AK 99720.
+- The patient's medical history includes multiple visits since birth for various conditions and check-ups.
+- Notable medical events include a tendon injury of the rotator cuff of the shoulder in 2015 and acute bronchitis in 2015 and 2021.
+- The patient also experienced a suspected case of COVID-19 in 2019, with symptoms of fever, fatigue, nausea, vomiting, and positive viral RNA detection.
+- There have been instances of viral sinusitis in 2015 and 2022.
+- The patient has a history of generalized anxiety disorder, with periodic assessments using the GAD-7 and PHQ-9 scales.
+- Immunization records indicate completed vaccinations for influenza, HPV, meningococcal, and COVID-19.
+
+**Current Clinical Information:**
+- As of the most recent visit in June 2023, the patient's height is 171.7 cm, weight is 50.9 kg, and BMI is 17.28 kg/m2.
+- Blood pressure is within normal range (83/120 mm[Hg]).
+- The patient's heart rate is 80 beats per minute, and the respiratory rate is 16 breaths per minute.
+- The most recent GAD-7 score is 2, indicating mild anxiety.
+- The patient remains non-smoker.
+
+**Recommendations:**
+1. Continue regular check-ups and immunizations as recommended by the healthcare provider.
+2. Monitor the patient's generalized anxiety disorder symptoms and provide appropriate counseling or treatment if needed.
+3. Encourage a healthy lifestyle with attention to maintaining a healthy BMI and blood pressure.
+4. Educate the patient and their family about the importance of influenza and other recommended vaccinations to prevent respiratory illnesses.
+5. In case of respiratory symptoms or worsening anxiety, the patient should seek medical advice promptly.
+
+**Medication Review:**
+- A medication review is due. Please assess the patient's current medication list, including any over-the-counter or prescription medications, and address any potential drug interactions or adverse effects.
+
+This comprehensive summary provides a clear overview of the patient's medical history, current clinical status, and recommendations for ongoing care. It enables healthcare providers to engage effectively with the patient and guide their future healthcare decisions.

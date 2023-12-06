@@ -1,0 +1,42 @@
+Patient 021d1d9b-aedf-1a98-aa58-76311a87ed69, known as Lynch190 Eulah395, is a female born on February 18, 1983, residing at 374 Quigley Drive Unit 40, Commerce City, CO 80602. Her medical history and treatment course can be summarized as follows:
+
+Medical History:
+1. In 1984, she was diagnosed with Atopic dermatitis.
+2. In 2001, she was noted to be in full-time employment.
+3. In 2002, her employment status changed to part-time, and stress was reported. Additionally, there was a finding of a criminal record.
+4. In 2011 and 2013, there were no specific diagnoses recorded, but reports of violence in her environment were noted.
+5. Immunizations against influenza and tetanus were completed in 2014.
+6. In 2014, she reported a score of 1 on the Patient Health Questionnaire 2 item (PHQ-2) and a score of 0 on the Alcohol Use Disorder Identification Test - Consumption (AUDIT-C).
+
+Recent Medical History:
+1. In 2015, she had an intrauterine system (Liletta 52 MG) implanted.
+2. She was diagnosed with viral sinusitis in 2015 and again in 2015.
+3. In 2015, she had an etonogestrel 68 MG drug implant.
+4. In 2016, she reported limited social contact and being a victim of intimate partner abuse.
+5. In 2017, sterilization was requested.
+6. In 2018, she had a history of tubal ligation.
+7. In 2019, she was diagnosed with essential hypertension, and medication review was due.
+8. In 2020, her body mass index (BMI) indicated obesity (BMI >30).
+9. Immunizations against influenza and COVID-19 were completed in 2021.
+10. In 2022, her PHQ-9 score was 15, indicating moderate depression.
+11. In 2023, she completed immunizations for Hepatitis A and influenza.
+
+Current Clinical Information:
+1. Current vital signs include a blood pressure of 82/105 mm[Hg], heart rate of 86/min, respiratory rate of 16/min, and a BMI of 30.15 kg/m2.
+2. Cholesterol levels are elevated, with LDL cholesterol at 115.03 mg/dL and total cholesterol at 189.58 mg/dL.
+3. She reports a pain severity score of 0 on a 0-10 verbal numeric rating scale.
+4. Her recent PHQ-2 score is 2, suggesting mild depression.
+5. She has a history of generalized anxiety disorder (GAD-7 score of 2).
+6. Tobacco smoking status is noted.
+7. Drug Abuse Screening Test-10 (DAST-10) score is 0, indicating no current drug abuse.
+8. The patient's social and mental health history includes a history of violence, intimate partner abuse, and stress.
+
+Recommendations and Course of Action:
+1. Monitor and manage blood pressure and cholesterol levels, considering potential medication adjustments to control hypertension and reduce cardiovascular risk.
+2. Continue to assess and address mental health concerns, including depression and anxiety, with appropriate therapy or medication as needed.
+3. Encourage lifestyle modifications, such as weight management and smoking cessation, to improve overall health.
+4. Ensure the patient's safety and provide support for any history of violence or abuse.
+5. Schedule regular follow-up appointments to monitor progress, medication effectiveness, and mental health.
+6. Consider additional immunizations or screenings based on age and risk factors.
+
+This summary provides a comprehensive overview of the patient's medical history, recent clinical information, and recommended actions to guide her ongoing care effectively. Further discussions and evaluations should be conducted during follow-up visits to address specific health concerns and optimize her well-being.

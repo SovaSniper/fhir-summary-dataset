@@ -1,0 +1,55 @@
+Patient Summary for Sanford861 Joie561 (DOB: 1961-11-21)
+Address: 655 Schuppe Trafficway, Straban, PA 00000
+
+Medical History:
+- Chronic sinusitis since 1972.
+- Received higher education and has been employed full-time since 1980.
+- Experienced periods of stress in 1980, 1981, 1993, 1995, 2001, 2003, and 2017.
+- Underwent tubal ligation in 1987.
+- A history of prediabetes was noted in 1999.
+- Diagnosed with ischemic heart disease and anemia in 2005.
+- Abnormal findings in diagnostic imaging of the heart and coronary circulation in 2007.
+- Diagnosed with acute viral pharyngitis in 2013.
+- Diagnosed with osteoarthritis of the knee in 2014.
+- Diagnosed with essential hypertension and severe anxiety in 2017.
+- Diagnosis of obstructive sleep apnea syndrome in 2020.
+- Diagnosed with metabolic syndrome X in 2020.
+- Has a history of homelessness and social isolation.
+- History of unhealthy alcohol drinking behavior.
+- Stress and medication review due in 2021.
+- Received COVID-19 vaccinations in 2021 and 2022.
+
+Current Clinical Findings (as of the latest available data):
+- Hemoglobin A1c/Hemoglobin.total in Blood: 5.99%
+- Body Height: 169.3 cm
+- Pain severity (0-10 verbal numeric rating): Reported 0
+- Body Weight: 78.4 kg
+- Body Mass Index (BMI): 27.35 kg/m2
+- Blood Pressure: 84/136 mm[Hg]
+- Heart Rate: 63 /min
+- Respiratory Rate: 14 /min
+- Glucose in Blood: 86.42 mg/dL
+- Urea Nitrogen in Blood: 9.32 mg/dL
+- Creatinine in Blood: 0.73 mg/dL
+- Calcium in Blood: 9.8 mg/dL
+- Sodium in Blood: 140.02 mmol/L
+- Potassium in Blood: 3.75 mmol/L
+- Chloride in Blood: 107.09 mmol/L
+- Carbon dioxide, total in Blood: Within normal range
+- Cholesterol and lipid levels are within normal limits.
+- Leukocyte, erythrocyte, and platelet counts are within normal limits.
+- GAD-7 score: 2 (indicating mild anxiety)
+- PHQ-2 score: 1 (indicating minimal depressive symptoms)
+- AUDIT-C score: 1 (indicating low alcohol consumption)
+
+Immunization Status:
+- Influenza vaccinations received in 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021.
+- COVID-19 vaccinations received in 2021 and 2022.
+
+Summary:
+Sanford861 Joie561 is a 61-year-old female residing in Straban, PA. She has a history of chronic sinusitis, full-time employment, and periodic stress. Notably, she has been diagnosed with ischemic heart disease, anemia, essential hypertension, and severe anxiety. Her current clinical parameters are generally within normal limits, but her hemoglobin A1c levels indicate the need for ongoing management of her prediabetes. Sanford861 Joie561 has a history of homelessness and social isolation, which should be considered in her care plan. She has been consistently receiving recommended vaccinations.
+
+Recommendations:
+1. Continue monitoring blood pressure, blood glucose, and cholesterol levels regularly.
+2. Encourage lifestyle modifications to manage prediabetes, including a balanced diet and regular physical activity.
+3. Address and manage anxiety and stress

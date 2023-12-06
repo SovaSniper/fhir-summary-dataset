@@ -1,0 +1,43 @@
+Patient Summary for Swaniawski813 Anthony633
+
+Patient Information:
+- Name: Anthony Swaniawski
+- Gender: Male
+- Date of Birth: December 6, 2008
+- Address: 629 Smitham Overpass, Fort Scott, KS 66701
+
+Medical History:
+- The patient's medical history dates back to December 6, 2008, when he was born.
+- Regular medication reviews have been conducted throughout the years.
+- The patient has had several diagnoses and observations over the years, including viral sinusitis, laceration of the thigh, and acute viral pharyngitis.
+- The patient has received multiple immunizations, including varicella, IPV, influenza, DTaP, MMR, Tdap, HPV, meningococcal MCV4P, and COVID-19 vaccines.
+- The patient's height and weight have been consistently monitored, with age and sex percentiles tracked.
+- Blood pressure, heart rate, and respiratory rate have been within normal ranges during check-ups.
+- The patient has reported varying levels of pain severity, with the most recent score being 3 on a 0-10 scale.
+- Laboratory tests have shown normal values for leukocytes, erythrocytes, hemoglobin, hematocrit, MCV, MCH, MCHC, erythrocyte distribution width, platelets, and platelet distribution width.
+- The patient's tobacco smoking status indicates no smoking history.
+
+Current Health Status (as of January 7, 2023):
+- Height: 167.8 cm
+- Weight: 54.3 kg
+- BMI: 19.3 kg/m2 (51.255th percentile per age and sex)
+- Blood Pressure: 86/122 mm[Hg]
+- Heart Rate: 77/min
+- Respiratory Rate: 15/min
+- Generalized Anxiety Disorder (GAD-7) Total Score: 3
+- Patient Health Questionnaire-9 (PHQ-9) Total Score: 2
+
+Clinical Recommendations:
+1. Medication Review: A medication review is due. The patient's current medications and their effectiveness should be assessed, and any necessary adjustments made to optimize treatment.
+
+2. Routine Check-ups: Continue regular check-ups to monitor the patient's growth, blood pressure, heart rate, and respiratory rate.
+
+3. Immunizations: Ensure that the patient receives recommended immunizations as per the vaccination schedule for their age and condition.
+
+4. Pain Management: Address the patient's reported pain severity and consider appropriate pain management strategies.
+
+5. Psychological Assessment: Given the history of anxiety, consider a comprehensive psychological assessment and provide appropriate support or interventions if necessary.
+
+6. Follow-up: Schedule a follow-up appointment to review the patient's progress, especially regarding medication management and mental health.
+
+Overall, Anthony Swaniawski is a male patient with a relatively stable medical history, but attention should be given to his medication management, psychological well-being, and continued growth and development. Regular monitoring and follow-ups are crucial to ensure his ongoing health and well-being.

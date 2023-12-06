@@ -1,0 +1,47 @@
+Patient Summary for Johnathon Lockman
+
+Patient Information:
+- Name: Johnathon Lockman
+- Gender: Male
+- Date of Birth: December 16, 1988
+- Address: 647 Kling Wall Suite 72, Downing, WI 54734
+
+Medical History and Treatment Course:
+Johnathon Lockman's medical history reveals a comprehensive record of his health over the years:
+
+1. From the time of birth until 2004, no significant medical conditions were reported. Routine medication reviews were conducted periodically.
+
+2. In 2007, Johnathon reported a change in employment status, transitioning from full-time to part-time employment, and experiencing increased stress levels. He was also diagnosed with severe anxiety (panic).
+
+3. In 2014, he was diagnosed with Generalized Anxiety Disorder (GAD-7 score: 19) and underwent various mental health assessments, including the HARK questionnaire and Drug Abuse Screening Test-10 (DAST-10).
+
+4. Subsequent years saw fluctuations in employment status, stress levels, and anxiety scores, but Johnathon continued to manage his condition. His physical health remained relatively stable during this period, with occasional fluctuations in body weight and blood pressure.
+
+5. In 2020, Johnathon was diagnosed with essential hypertension and started medication, which led to improved blood pressure control.
+
+6. He received immunizations for influenza and Td (adult) in 2020 and 2021, respectively. In 2021, he also received the SARS-COV-2 (COVID-19) vaccine.
+
+7. Mental health assessments in 2022 revealed ongoing symptoms of generalized anxiety disorder, with a GAD-7 score of 4, and a stable DAST-10 score of 1.
+
+8. Johnathon's physical health continued to be relatively stable, with fluctuations in body weight and blood pressure throughout 2022 and 2023.
+
+Clinical Information:
+- Current medications include those prescribed for essential hypertension.
+- Johnathon has a history of Generalized Anxiety Disorder (GAD-7), with a recent score of 4.
+- He has no history of alcohol or drug abuse according to DAST-10.
+- His immunizations are up to date for influenza, Td, and COVID-19.
+
+Course of Action:
+1. Continue monitoring Johnathon's blood pressure and adjust hypertension medications as needed to maintain optimal control.
+
+2. Continue monitoring his anxiety symptoms and consider adjustments to his mental health treatment plan, which may include therapy or medication.
+
+3. Encourage regular follow-up visits to assess his overall health, including weight management and blood pressure control.
+
+4. Offer counseling and support services for stress management and anxiety reduction.
+
+5. Maintain up-to-date immunizations and provide education on vaccine recommendations.
+
+6. Continue routine medication reviews as indicated.
+
+Johnathon Lockman's overall health appears to be stable, but ongoing monitoring and support for his mental health and hypertension management are essential for his well-being.

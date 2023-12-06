@@ -1,0 +1,41 @@
+Patient ID: 0ec8f90d-f6d4-bec2-9209-160a90064bf5
+Name: Jacquelyne Yundt
+Gender: Female
+Date of Birth: December 6, 1975
+Address: 322 Kautzer Trailer, Suite 80, Indianapolis, IN 46113
+
+Medical Summary:
+Jacquelyne Yundt, a 47-year-old female, has a comprehensive medical history dating back to 1990. Notable findings include housing conditions being unsatisfactory in 1990, followed by achieving higher education in 1994. In 1998, she underwent tubal ligation. In 2001, a history of a criminal record was noted, and in 2007, social isolation was identified. Subsequently, in 2011, a medication review was due, and she reported full-time employment and stress. In 2013 and 2014, she experienced streptococcal sore throat and viral sinusitis, respectively. Her vital signs in 2015 included a height of 168.1 cm, body weight of 78.3 kg, and a BMI of 27.7 kg/m2. Blood pressure was 121/67 mm[Hg], heart rate 67 /min, and respiratory rate 14 /min. Hematological values were within normal range.
+
+In 2017, Jacquelyne's BMI indicated obesity (30.39 kg/m2), and she reported limited social contact. Her vital signs included a height of 168.1 cm, body weight of 85.9 kg, and a BMI of 30.39 kg/m2. Blood pressure was 112/59 mm[Hg], heart rate 74 /min, and respiratory rate 13 /min. In 2019, her BMI remained in the obese range, and she reported stress. Blood pressure was 108/60 mm[Hg], heart rate 74 /min, and respiratory rate 15 /min. In 2021, she received COVID-19 vaccinations. Her vital signs showed a height of 168.1 cm, body weight of 77.4 kg, and a BMI of 27.39 kg/m2. Blood pressure was 104/56 mm[Hg], heart rate 66 /min, and respiratory rate 13 /min.
+
+Diagnoses and Conditions:
+- Housing unsatisfactory (1990)
+- Received higher education (1994)
+- Tubal ligation (1998)
+- History of a criminal record (2001)
+- Social isolation (2007)
+- Medication review due (2011)
+- Stress (2011, 2019)
+- Streptococcal sore throat (2013)
+- Viral sinusitis (2014)
+- Obesity (2017, 2019)
+- Limited social contact (2019)
+- COVID-19 vaccinations (2021)
+
+Laboratory and Clinical Assessments:
+- Comprehensive metabolic panels and lipid profiles were conducted regularly.
+- Immunizations for influenza, hepatitis A, and COVID-19 were completed.
+- Mental health assessments (PHQ-2, GAD-7, AUDIT-C) were performed, with varying scores over time.
+
+Recommendations and Course of Action:
+1. Continue to monitor Jacquelyne's BMI, blood pressure, and vital signs regularly, as obesity and hypertension are risk factors for various health conditions.
+2. Encourage lifestyle modifications, including a balanced diet and regular physical activity, to address obesity.
+3. Monitor and manage stress and social isolation, which may impact her overall well-being.
+4. Ensure compliance with recommended medications and vaccinations.
+5. Consider a mental health assessment and support as indicated by fluctuating mental health scores.
+6. Regularly assess lipid profiles and consider interventions for managing hyperlipidemia.
+7. Maintain a supportive and empathetic approach to address the patient's history of criminal records and victimization.
+8. Encourage regular follow-up appointments to address any emerging health concerns.
+
+This comprehensive summary provides an overview of Jacquelyne Yundt's medical history, enabling healthcare providers to engage effectively in her ongoing care and well-being.

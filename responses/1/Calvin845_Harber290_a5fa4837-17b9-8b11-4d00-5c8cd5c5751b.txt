@@ -1,0 +1,31 @@
+Patient Summary for Mr. Calvin Harber (DOB: 1971-12-11)
+
+**Medical History:**
+Mr. Calvin Harber is a 51-year-old male with a history of prediabetes, anemia, obesity (BMI > 30), and chronic stress. He has a history of acute viral pharyngitis in 2011 and acute bronchitis in 2017. Notably, he also has a criminal record. He has undergone several medical evaluations, including routine blood tests and immunizations for influenza, tetanus, hepatitis A, and COVID-19.
+
+**Current Clinical Status:**
+As of the most recent assessment in September 2023, Mr. Harber's BMI remains in the obese range (30.34 kg/m2). His blood pressure has been fluctuating within the normal range, with his most recent reading at 66/96 mm[Hg]. Hemoglobin A1c levels indicate a diagnosis of type 2 diabetes, with values ranging from 6.18% to 7.59%. He experiences mild anxiety, as indicated by GAD-7 scores of 2-3, and has a history of substance abuse issues with DAST-10 scores fluctuating between 0 and 2. A recent assessment has revealed a polyp in the colon with a size of 5.19 mm.
+
+**Treatment and Recommendations:**
+1. **Diabetes Management:** Mr. Harber's elevated A1c levels necessitate intensive diabetes management. Initiate lifestyle modifications, including a balanced diet, regular exercise, and medication as prescribed. Monitor glucose levels regularly.
+
+2. **Obesity Management:** Continue to address obesity with lifestyle changes, including dietary counseling and exercise recommendations. Consider bariatric evaluation if necessary.
+
+3. **Anxiety Management:** Continue to provide support for Mr. Harber's mild anxiety, offering counseling or medication if deemed appropriate by a mental health specialist.
+
+4. **Substance Abuse Support:** Given his history of substance abuse, Mr. Harber should be monitored for relapse and offered counseling or rehabilitation services as needed.
+
+5. **Colon Polyp:** Further evaluation and management of the colon polyp are essential. Consultation with a gastroenterologist is recommended to determine the need for colonoscopy or other interventions.
+
+6. **Immunizations:** Ensure Mr. Harber remains up-to-date with recommended immunizations, including annual influenza vaccinations and any necessary boosters.
+
+7. **Medication Review:** Periodically review Mr. Harber's medications to assess their appropriateness and potential interactions.
+
+8. **Lifestyle Modification:** Encourage Mr. Harber to maintain a healthy lifestyle, including smoking cessation if applicable.
+
+9. **Criminal Record:** Address any legal or social issues related to Mr. Harber's criminal record as needed.
+
+**Follow-up:**
+Schedule regular follow-up appointments to monitor Mr. Harber's progress, manage his chronic conditions, and address any emerging health concerns. Collaborate with specialists as required for comprehensive care.
+
+This summary provides a snapshot of Mr. Calvin Harber's medical history and current clinical status. Tailor the treatment plan to his specific needs and engage in open communication to support his overall health and well-being.

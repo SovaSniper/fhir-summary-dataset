@@ -1,0 +1,44 @@
+Patient Summary for Daren Cruickshank
+
+**Patient Information:**
+- Name: Daren Cruickshank
+- Gender: Male
+- Date of Birth: February 1, 1995
+- Address: 193 McLaughlin Terrace, Suite 52, Omaha, NE 68108
+
+**Medical History:**
+Daren Cruickshank's medical history dates back to his birth in 1995. He has a history of regular medication reviews and diagnoses documented over the years. Notable events in his medical history include:
+- Regular medication reviews, indicating a need for ongoing medical management.
+- Diagnosed with Generalized Anxiety Disorder (GAD) in 2014, with GAD-7 scores ranging from 0 to 2.
+- History of social isolation, stress, and reports of violence in the environment.
+- Misuse of drugs reported in 2013 but with a DAST-10 score of 0 since then.
+- Acute viral pharyngitis diagnosed in 2015.
+- Acute bronchitis diagnosed in 2018.
+- Gradual weight gain, with BMI increasing from 20.57 in 2014 to 25.24 in 2022.
+- Regular immunizations up to date, including influenza, Hep B, and meningococcal vaccines.
+- History of fluctuations in vital signs, including blood pressure, heart rate, and respiratory rate.
+
+**Current Clinical Status:**
+As of the most recent entry in April 2023:
+- Daren reports a GAD-7 score of 3, indicating ongoing anxiety symptoms.
+- A history of limited social contact and stress is noted.
+- He has gained weight since his last assessment, with a BMI of 25.24.
+- There's a mild increase in blood pressure (86/128 mm[Hg]) compared to previous readings.
+- Hematological values are within the normal range.
+
+**Course of Action:**
+1. **Anxiety Management:** Given Daren's ongoing Generalized Anxiety Disorder, it is recommended to continue monitoring his mental health and consider therapy or medication adjustments to better manage his anxiety. Referral to a mental health specialist may be beneficial.
+
+2. **Weight Management:** Address Daren's gradual weight gain and elevated BMI. Encourage lifestyle changes, including a balanced diet and regular exercise, to achieve a healthy weight. Consider a consultation with a nutritionist.
+
+3. **Blood Pressure Monitoring:** Due to the mild increase in blood pressure, regular monitoring is essential. Lifestyle modifications, such as reducing salt intake and increasing physical activity, should be discussed.
+
+4. **Social Support:** Given the history of social isolation and stress, emphasize the importance of social support systems. Encourage Daren to engage in social activities, join support groups, or seek counseling to address stressors.
+
+5. **Substance Misuse:** Continue monitoring Daren's drug misuse, as indicated by the DAST-10 score. Ensure he has access to resources for substance abuse treatment if needed.
+
+6. **Immunizations:** Maintain up-to-date immunizations as per recommended schedules to prevent vaccine-preventable diseases.
+
+7. **Regular Follow-ups:** Schedule periodic check-ups to track Daren's progress, address any new concerns, and adjust the treatment plan as necessary.
+
+This comprehensive summary aims to provide a clear overview of Daren Cruickshank's medical history and current clinical status, enabling healthcare providers to engage effectively with the patient and guide his ongoing

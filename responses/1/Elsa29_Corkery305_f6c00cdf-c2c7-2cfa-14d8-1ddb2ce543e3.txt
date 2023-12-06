@@ -1,0 +1,37 @@
+Patient Summary for Elsa Corkery
+
+Patient ID: f6c00cdf-c2c7-2cfa-14d8-1ddb2ce543e3
+Date of Birth: June 4, 2015
+Age: 8 years
+Gender: Female
+Address: 1086 Oberbrunner Hollow, Great Falls, MT 59404
+
+Medical History:
+- The patient, Elsa Corkery, has been under regular medical observation since birth.
+- She has shown consistent growth and development in line with age and gender percentiles.
+- No significant abnormalities were noted in her blood pressure, heart rate, or respiratory rate throughout the years.
+- Immunizations have been consistently up to date, including Hepatitis B, Hib, rotavirus, IPV, DTaP, PCV 13, varicella, MMR, Hepatitis A, and seasonal influenza.
+
+Notable Observations:
+- Height has progressed from 50.8 cm at birth to 125.3 cm at the most recent visit.
+- Pain severity ranged from 1 to 4 on the 0-10 verbal numeric rating scale over the years.
+- Body weight has increased steadily from 4.3 kg to 48.2 kg.
+- Head occipital-frontal circumference percentile has remained relatively stable at around 38.43%.
+- Blood pressure has varied within normal ranges for a child of Elsa's age.
+- Hematological parameters show consistent values within normal pediatric ranges.
+
+Recent Condition:
+- Elsa experienced a rib fracture, as noted in the visit on February 14, 2023.
+
+Current Status and Recommendations:
+- Elsa is currently at the 99.65th percentile for BMI, which may indicate the need for dietary and lifestyle counseling to ensure healthy growth.
+- Due to the rib fracture, Elsa should continue to receive appropriate pain management and follow-up care.
+- Considering Elsa's age, regular dental check-ups and vision screenings should be encouraged.
+
+Medication Review:
+- No long-term medications have been prescribed.
+
+Upcoming Needs:
+- The next medication review should be scheduled based on Elsa's overall health status.
+
+Overall, Elsa's medical history suggests she is a healthy child who has received consistent, age-appropriate care. It's crucial to continue monitoring her growth and development, particularly given her high BMI percentile. Additionally, the recent rib fracture should be closely monitored to ensure proper healing. Regular follow-up visits and appropriate screenings will be essential in maintaining Elsa's health and well-being.

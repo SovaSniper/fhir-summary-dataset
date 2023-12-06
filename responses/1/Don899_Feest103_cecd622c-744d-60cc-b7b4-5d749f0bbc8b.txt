@@ -1,0 +1,25 @@
+**Clinical Summary for Patient Feest103 Don899**
+
+*Patient Details:*  
+**ID:** cecd622c-744d-60cc-b7b4-5d749f0bbc8b  
+**DOB:** 1975-05-21  
+**Address:** 641 Paucek Ville, Reno, NV 89509  
+**Sex:** Male  
+
+---
+
+*Medical History & Findings:*  
+
+- **Primary Diagnosis:** Seizure Disorder, including a single seizure event and diagnosed epilepsy early in life. The patient has a long history of medication reviews suggesting potential long-term pharmacological management.
+  
+- The patient has experienced various conditions throughout the years including:
+  - Acute viral pharyngitis, bronchitis, sinusitis (recurrent), and a concussion injury without loss of consciousness.
+  
+- There is a notable finding of victimization from intimate partner abuse on multiple occasions.
+  
+- Social history reveals limited social contact, evidence of stress, and shifting employment status (full-time, part-time, not in labor force). There is also a record of a BMI indicating obesity and related health risks.
+  
+- Most recent clinical observations:
+  - **Weight:** 82.9 kg
+  - **Height:** 172 cm
+  - **BMI

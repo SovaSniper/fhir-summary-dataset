@@ -1,0 +1,28 @@
+Patient Summary for Robel940 Karlene380 (DOB: 2013-01-31)
+
+Patient Information:
+- Name: Robel940 Karlene380
+- Gender: Female
+- Date of Birth: January 31, 2013
+- Address: 283 Harber Esplanade, Nashville, TN 37221
+
+Medical History and Treatment Course:
+- **March 7, 2013 (Age: 2 years)**: Initial observation showed the patient's height at 74.2 cm, weight at 8.9 kg, and pain severity reported as 0/10. Vital signs within normal range. Immunizations completed for IPV, influenza, DTaP, PCV 13, and Hep B.
+  
+- **October 10, 2013 (Age: 8 months)**: Follow-up observation revealed a height of 78.5 cm, weight of 10 kg, and reported pain severity of 1/10. Vital signs were stable, and immunizations were up-to-date.
+
+- **January 9, 2014 (Age: 11 months)**: The patient's height was 82.3 cm, weight 10.9 kg, and reported pain severity 3/10. Vital signs remained within normal limits. Immunizations were completed for Hib, varicella, MMR, PCV 13, and Hep A.
+
+- **April 10, 2014 (Age: 1 year)**: Observation indicated a height of 85.7 cm, pain severity of 1/10, and weight of 11.6 kg. Vital signs were stable, and immunizations were up-to-date.
+
+- **July 10, 2014 (Age: 1 year)**: The patient's height was 91.9 cm, pain severity 1/10, and weight 12.8 kg. Vital signs were stable, and immunizations included influenza.
+
+- **January 8, 2015 (Age: 2 years)**: Diagnosis of viral sinusitis reported with a height of 96.6 cm, pain severity 4/10, and weight 14.3 kg. Vital signs within normal limits. Immunizations included Hep A.
+
+- **July 9, 2015 (Age: 2 years)**: Observation showed a height of 101.1 cm, pain severity 2/10, and weight 15.7 kg. Vital signs were stable, and immunizations were up-to-date.
+
+- **January 7, 2016 (Age: 3 years)**: Diagnosis of viral sinusitis. Height was 105 cm, pain severity 3/10, weight 17.1 kg, and vital signs were stable.
+
+- **July 7, 2016 (Age: 3 years)**: Diagnosis of viral sinusitis. Observation reported a height of 108.9 cm, pain severity 1/10, and weight 18.7 kg. Vital signs were stable.
+
+- **January 5, 2017 (Age: 4 years)**: Medication review due. Height was 116.7 cm, pain severity 1/10, and weight 20.6

@@ -1,0 +1,68 @@
+Patient: Domonique463 Kuhic920
+Date of Birth: March 8, 1982
+Gender: Female
+Address: 456 Gusikowski Crossroad, Clinton, MS 39154
+
+**Medical History:**
+
+- **Education:** The patient has a history of only receiving primary school education.
+
+- **Employment:** The patient has a history of unemployment, followed by full-time employment, and later part-time employment.
+
+- **Pregnancy:** The patient experienced a miscarriage in the first trimester.
+
+- **Chronic Conditions:** The patient has been diagnosed with essential hypertension, prediabetes, anemia, and stress. 
+
+- **Social Isolation:** The patient has reported social isolation as a finding.
+
+- **Medication Review:** The patient is due for a medication review.
+
+- **Psychological Health:** The patient has reported various scores on psychological assessment tools, including a GAD-7 score of 2, PHQ-2 scores ranging from 1 to 3, and DAST-10 scores ranging from 0 to 1. The patient has also reported experiencing stress and being a victim of intimate partner abuse.
+
+- **Immunizations:** The patient has received influenza vaccinations in various years, as well as COVID-19 and hepatitis A vaccinations.
+
+- **Fracture:** The patient has a history of a fracture subluxation of the wrist.
+
+- **Sterilization:** The patient has requested sterilization.
+
+**Current Clinical Findings:**
+
+- **Physical Measurements:** The patient's height is 168.5 cm, with varying body weights and BMIs over time.
+
+- **Blood Pressure:** Blood pressure readings have ranged from 98/132 to 110/152 mm[Hg].
+
+- **Heart Rate:** The patient's heart rate has ranged from 67 to 97 beats per minute.
+
+- **Respiratory Rate:** Respiratory rate has ranged from 12 to 16 breaths per minute.
+
+- **Glucose:** Blood glucose levels have ranged from 69.15 to 92.74 mg/dL.
+
+- **Blood Chemistry:** Various blood chemistry values, including urea nitrogen, creatinine, calcium, sodium, potassium, chloride, and carbon dioxide, have been within normal ranges.
+
+- **Lipid Profile:** The patient's lipid profile showed elevated cholesterol levels.
+
+- **Complete Blood Count:** CBC results showed normal values for various parameters.
+
+**Recommendations and Course of Action:**
+
+1. **Hypertension Management:** Given the diagnosis of essential hypertension, it is crucial to manage blood pressure effectively through lifestyle modifications and medication if necessary.
+
+2. **Prediabetes Management:** With prediabetes, lifestyle changes like dietary improvements and regular exercise are essential to prevent progression to diabetes.
+
+3. **Anemia Management:** The patient should undergo further evaluation and treatment for anemia, which may include iron supplementation and dietary adjustments.
+
+4. **Psychological Support:** Considering the patient's psychological health scores and history of stress and abuse, it is recommended to provide psychological support and counseling.
+
+5. **Medication Review:** Schedule a comprehensive medication review to assess the necessity and effectiveness of current medications.
+
+6. **Fracture Follow-up:** Ensure that the patient's fracture has healed properly and provide any necessary follow-up care.
+
+7. **Immunizations:** Continue to monitor and provide necessary vaccinations according to the patient's healthcare needs.
+
+8. **Social Support:** Given the history of social isolation, consider connecting the patient with support groups or counseling services to address their social needs.
+
+9. **Education and Lifestyle Modification:** Educate the patient about the importance of education and assist in exploring educational opportunities. Emphasize the significance of a healthy lifestyle, including diet, exercise, and stress management.
+
+10. **Regular Follow-up:** Schedule regular follow-up appointments to monitor the patient's progress, adjust treatment plans as needed, and provide ongoing support.
+
+Please note that this clinical summary is based on available data up to September 2021. Current and future healthcare decisions should be made in consultation with the patient's healthcare provider, taking into consideration the most up-to-date medical information and the patient's individual circumstances.

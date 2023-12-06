@@ -1,0 +1,46 @@
+Patient 842e66e0-5817-05d4-856f-9abb7544dd72, Mr. Darrin Stoltenberg, a 39-year-old male born on November 2, 1983, residing at 808 Turcotte Neck, Boise City, ID 83642, presents a comprehensive medical history:
+
+**Medical History:**
+
+- Mr. Stoltenberg's medical history begins in 1983 when he was born.
+- He had routine medication reviews and check-ups over the years.
+- In 2003, he was diagnosed with sepsis.
+- Chronic pain and chronic neck pain were noted in 2012.
+- Throughout the years, Mr. Stoltenberg experienced fluctuations in employment status and social isolation.
+- He reported generalized anxiety disorder symptoms, with a GAD-7 score of 10 at its highest.
+- Mr. Stoltenberg has had a history of intimate partner abuse, which was documented.
+- Notably, he tested positive for various substances of abuse in 2014.
+- In 2020, he presented with suspected COVID-19 and was diagnosed with viral sinusitis.
+- Mr. Stoltenberg's weight and BMI have increased over time, with his BMI reaching 29.2 kg/m2 in the latest assessment.
+- He received several immunizations, including seasonal influenza and COVID-19 vaccines.
+
+**Current Clinical Information:**
+
+- As of the most recent assessment in May 2023, Mr. Stoltenberg continues to experience pain with a PEG score of 4, indicating moderate discomfort.
+- His BMI remains elevated at 29.2 kg/m2.
+- His cholesterol levels are slightly elevated, with LDL cholesterol at 114.95 mg/dL.
+- He reports ongoing generalized anxiety with a GAD-7 score of 7.
+- Mr. Stoltenberg has a history of substance abuse, as evidenced by positive DAST-10 scores.
+- He is currently employed full-time.
+- His tobacco smoking status is not mentioned in the most recent assessment.
+- He has received all recommended immunizations up to May 2023.
+
+**Course of Action:**
+
+1. **Pain Management:** Given Mr. Stoltenberg's ongoing moderate pain, a comprehensive pain management plan should be established. This may involve a combination of medication, physical therapy, and lifestyle modifications.
+
+2. **Weight Management:** Addressing weight management through dietary changes and exercise should be a priority to reduce his elevated BMI and improve overall health.
+
+3. **Anxiety Management:** Continue monitoring and managing his generalized anxiety disorder with appropriate counseling and, if necessary, medication.
+
+4. **Substance Abuse Counseling:** Given his history of substance abuse, ongoing counseling and support are crucial for maintaining sobriety.
+
+5. **Regular Check-ups:** Schedule regular medication reviews and check-ups to monitor his health, including cholesterol levels and other relevant parameters.
+
+6. **Employment and Social Support:** Ensure Mr. Stoltenberg has access to necessary social support systems and resources, considering his employment status and history of social isolation.
+
+7. **Tobacco Cessation:** If he is currently smoking, provide resources and support for tobacco cessation.
+
+8. **Immunizations:** Continue to recommend and provide necessary immunizations based on guidelines and recommendations.
+
+This summary provides an overview of Mr. Stoltenberg's medical history, current clinical status, and a course of action for his ongoing care. Regular follow-up appointments and close monitoring of his progress are essential to ensure his well-being.

@@ -1,0 +1,91 @@
+Patient 6971d977-b1a8-c2f4-be2d-3a28ca94f47c, Mr. Hiram Mertz, a male born on March 25, 2002, residing at 784 McClure Road, Carrollton, MO 64633, has a documented medical history dating back to 2012. Over the years, Mr. Mertz's health has been monitored, and several key observations and diagnoses have been made:
+
+1. **2012-04-02:**
+   - Body Height: 156.5 cm
+   - Body Weight: 40.9 kg
+   - BMI: 16.7 kg/m2
+   - Blood Pressure: 95/122 mm[Hg]
+   - Heart Rate: 68 /min
+   - Respiratory Rate: 14 /min
+   - Immunizations: Influenza (2014), HPV (2014)
+
+2. **2014-04-14:**
+   - Body Height: 164 cm
+   - Body Weight: 49.1 kg
+   - BMI: 18.27 kg/m2
+   - Blood Pressure: 89/112 mm[Hg]
+   - Heart Rate: 71 /min
+   - Respiratory Rate: 16 /min
+   - Diagnoses: Generalized anxiety disorder (GAD-7 score: 2), Immunizations (Influenza and HPV in 2015)
+
+3. **2015-04-20:**
+   - Body Height: 172.3 cm
+   - Body Weight: 60.7 kg
+   - BMI: 20.44 kg/m2
+   - Blood Pressure: 92/112 mm[Hg]
+   - Heart Rate: 83 /min
+   - Respiratory Rate: 14 /min
+   - Diagnoses: Generalized anxiety disorder (GAD-7 score: 2)
+
+4. **2016-04-25:**
+   - Body Height: 177.8 cm
+   - Body Weight: 70 kg
+   - BMI: 22.15 kg/m2
+   - Blood Pressure: 103/117 mm[Hg]
+   - Heart Rate: 81 /min
+   - Respiratory Rate: 12 /min
+   - Diagnoses: Generalized anxiety disorder (GAD-7 score: 1)
+
+5. **2017-05-01:**
+   - Body Height: 180.8 cm
+   - Body Weight: 74.9 kg
+   - BMI: 22.91 kg/m2
+   - Blood Pressure: 91/112 mm[Hg]
+   - Heart Rate: 78 /min
+   - Respiratory Rate: 15 /min
+   - Diagnoses: Generalized anxiety disorder (GAD-7 score: 7), Elevated leukocyte count
+
+6. **2018-05-07:**
+   - Body Height: 182.3 cm
+   - Body Weight: 74.3 kg
+   - BMI: 22.38 kg/m2
+   - Blood Pressure: 89/113 mm[Hg]
+   - Heart Rate: 63 /min
+   - Respiratory Rate: 14 /min
+   - Diagnoses: Generalized anxiety disorder (GAD-7 score: 2)
+
+7. **2019-05-13:**
+   - Body Height: 183 cm
+   - Body Weight: 72.8 kg
+   - BMI: 21.74 kg/m2
+   - Blood Pressure: 90/113 mm[Hg]
+   - Heart Rate: 92 /min
+   - Respiratory Rate: 15 /min
+   - Diagnoses: Generalized anxiety disorder (GAD-7 score: 3), PHQ-2 score: 1
+
+8. **2020-05-18:**
+   - Body Height: 183.4 cm
+   - Body Weight: 75.7 kg
+   - BMI: 22.5 kg/m2
+   - Blood Pressure: 92/119 mm[Hg]
+   - Heart Rate: 76 /min
+   - Respiratory Rate: 15 /min
+   - Diagnoses: PHQ-2 score: 1, AUDIT-C score: 2
+
+9. **2021-04-05:**
+   - Immunizations: SARS-COV-2 (COVID-19) vaccine (2021)
+
+10. **2021-05-03:**
+    - Diagnoses: Stress, PHQ-2 score: 1, AUDIT-C score: 2
+
+In summary, Mr. Mertz's medical history includes a diagnosis of generalized anxiety disorder, which has been consistently monitored over the years. He has received appropriate immunizations, including COVID-19 vaccination. It's important to note that his BMI has fluctuated, and he has experienced periods of increased anxiety.
+
+**Recommendations:**
+1. Continue monitoring Mr. Mertz's anxiety levels and consider appropriate therapy or counseling if symptoms worsen.
+2. Encourage maintaining a healthy lifestyle with regular exercise and a balanced diet to manage BMI fluctuations.
+3. Regularly check blood pressure to ensure it remains within a healthy range.
+4. Continue routine immunizations and follow recommended vaccination schedules.
+5. Address any potential stressors in Mr. Mertz's life and provide support or referrals if needed.
+6. Periodically assess alcohol consumption, and if necessary, provide resources for alcohol use disorder management.
+
+This comprehensive summary provides a clear course of action for Mr. Mertz's ongoing care and enables healthcare providers to effectively engage with him to address his medical and mental health needs.

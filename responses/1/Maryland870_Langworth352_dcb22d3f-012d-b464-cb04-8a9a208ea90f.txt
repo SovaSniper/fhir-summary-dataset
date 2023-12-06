@@ -1,0 +1,45 @@
+Patient Summary for dcb22d3f-012d-b464-cb04-8a9a208ea90f
+
+Patient Information:
+- Name: Langworth352 Maryland870
+- Date of Birth: May 12, 2002
+- Gender: Female
+- Address: 534 Gottlieb Pathway Apt 14, Offutt AFB NE 68113
+
+Medical History:
+- The patient's medical history dates back to May 12, 2002, with the initial history and physical note.
+- Over the years, the patient has had multiple medical evaluations and assessments, including medication reviews and diagnoses.
+- Notable conditions and diagnoses include:
+   - Perennial allergic rhinitis
+   - Generalized anxiety disorder
+   - Acute viral pharyngitis
+   - Acute bronchitis
+   - Social isolation
+
+Clinical Observations:
+- The patient's height has gradually increased from 152.2 cm in 2002 to 163.9 cm in 2023.
+- Body weight has ranged from 38.8 kg to 53.7 kg over the years.
+- Blood pressure has been within a generally normal range, with occasional variations.
+- The patient has reported varying levels of pain severity, with the highest score being 4.
+- Body mass index (BMI) has fluctuated but generally remained within normal percentiles for age and sex.
+- The patient has received recommended immunizations, including influenza and HPV vaccinations.
+
+Mental Health:
+- The patient has been assessed for mental health conditions, primarily for generalized anxiety disorder, with scores ranging from 0 to 4 on the GAD-7 scale.
+- The Patient Health Questionnaire-9 (PHQ-9) and PHQ-2 have also been administered, with generally low scores.
+- There was an indication of limited social contact and stress in the patient's history.
+
+Treatment and Medications:
+- The patient has undergone various treatments and medication reviews, although specific medications are not listed in the provided information.
+- Medication reviews have been due periodically.
+- The patient has received vaccinations for influenza, HPV, and COVID-19.
+
+Course of Action:
+1. Continue monitoring the patient's physical growth, weight, and vital signs during regular check-ups.
+2. Assess the patient's current medication regimen and ensure medication reviews are up-to-date.
+3. Continue to monitor and support the patient's mental health, particularly in managing generalized anxiety disorder.
+4. Encourage the patient to maintain recommended vaccinations and stay up-to-date with immunizations.
+5. Address any acute conditions, such as pharyngitis or bronchitis, promptly as needed.
+6. Explore strategies to mitigate social isolation and stress, considering the patient's mental health history.
+
+This comprehensive summary provides an overview of the patient's medical history, diagnoses, clinical observations, and mental health assessments. It serves as a reference for ongoing care and highlights areas of focus for the patient's healthcare team.

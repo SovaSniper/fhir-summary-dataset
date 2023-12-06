@@ -1,0 +1,34 @@
+Patient 372f704e-6322-d3b8-2c8f-9b24489a52ad, Durgan499 Bruna504, is a 23-year-old female residing at 681 Jacobs Heights, Crest Hill, IL 60435, born on June 21, 2000. We have compiled a comprehensive clinical summary to provide a clear overview of her medical history and treatment course:
+
+**Medical History:**
+- **2000-06-21:** Patient's birth.
+- **2013-10-15:** Diagnosed with acute viral pharyngitis, with a recorded body temperature of 37.613°C.
+- **2014-02-13:** Diagnosis changed to sinusitis.
+- **2014-04-08:** Diagnosis updated to chronic sinusitis.
+- **2014-05-21:** Diagnosed with Generalized Anxiety Disorder (GAD-7 score: 4).
+- **2014-06-29:** Showed involvement in risk activities.
+- **2014-07-23:** GAD-7 score increased to 10.
+- **2016-08-03:** Completed immunizations for Influenza and meningococcal MCV4P.
+- **2017-08-09:** Diagnosed with acute viral pharyngitis, with a body temperature of 37.166°C.
+- **2018-08-15:** Diagnosed with Injury of the knee.
+- **2019-08-09:** Started Full-time employment.
+- **2019-08-21:** Completed Alcohol Use Disorder Identification Test (AUDIT-C).
+- **2019-08-30:** Experienced a normal pregnancy.
+- **2020-03-11:** Diagnosed with an unspecified condition.
+- **2021-11-20:** Completed SARS-COV-2 (COVID-19) vaccinations.
+
+**Current Clinical Status:**
+- **2022-01-26:** Medication review is due.
+- **2022-08-24:** Completed a series of immunizations for Influenza, Td (adult), Hep B (adult), and meningococcal MCV4P.
+- **2022-08-24:** Completed a CBC panel and the HARK questionnaire (score: 0).
+- **2022-08-24:** Reported a PHQ-2 score of 2.
+
+**Clinical Advice and Course of Action:**
+1. **Medication Review:** A medication review is due. It is essential to assess the patient's current medications and update the treatment plan if necessary.
+2. **Anxiety Management:** Given the history of Generalized Anxiety Disorder, it is recommended to evaluate the current state of anxiety and consider therapy or medication adjustments if needed.
+3. **Immunization:** Continue to monitor and update immunizations per the recommended schedule to ensure optimal protection.
+4. **Injury of Knee:** Continue to monitor the patient's knee condition and provide appropriate treatment or referrals to orthopedic specialists as needed.
+5. **Pregnancy:** If planning for pregnancy or currently pregnant, regular prenatal care and consultation with an obstetrician is crucial for a healthy pregnancy.
+6. **Behavioral Health:** Continue to monitor the patient's mental health, especially anxiety and any potential substance use concerns. Offer counseling or support as needed.
+
+Please engage with the patient to discuss these recommendations and tailor the treatment plan accordingly. Regular follow-up appointments and screenings are advised to ensure the patient's overall health and well-being.

@@ -1,0 +1,33 @@
+**Patient Summary for Britteny287 Senger904 (DOB: 1991-01-15)**
+
+**Medical History:**
+- **Pregnancies:** The patient has a history of normal pregnancies in 2009, 2010, 2011, and 2016.
+- **Chronic Pain:** Since 2013, the patient has been experiencing chronic low back pain, with varying pain severity scores reported in subsequent years.
+- **Urinary Tract Infections:** The patient had Escherichia coli urinary tract infections in 2014 and 2020.
+- **Anemia:** Anemia was diagnosed in 2017, with subsequent observations of blood parameters.
+- **Contraception:** The patient had an active Mirena intrauterine system from 2018-08-07 and later received an Etonogestrel implant (2019-03-26) and medroxyprogesterone acetate injection (2020-08-14).
+- **Infections:** The patient had another urinary tract infection in 2020.
+
+**Current Status (2023-09-12):**
+- **Pregnancy:** The patient is currently experiencing a normal pregnancy.
+- **Weight and BMI:** The patient's weight has increased to 67.9 kg, with a BMI of 25.35 kg/m2.
+- **Blood Pressure:** Blood pressure is 89/134 mm[Hg].
+- **Mental Health:** The patient reports anxiety (GAD-7 score of 7) and has a history of a criminal record.
+- **Social Situation:** The patient is currently unemployed, with an unsatisfactory housing condition.
+- **Health Behaviors:** The patient reports no tobacco smoking, and recent immunizations include influenza and Td (adult).
+- **Medication Review:** Due to the patient's current situation, a comprehensive medication review is advised.
+
+**Recommendations:**
+1. **Pregnancy Monitoring:** Continue regular prenatal care and monitoring given the history of normal pregnancies.
+2. **Chronic Pain Management:** Reevaluate chronic pain management strategies and consider a multidisciplinary approach.
+3. **Mental Health Support:** Engage the patient in mental health counseling or therapy, given reported anxiety and past trauma.
+4. **Social Support:** Connect the patient with social services to address housing concerns and employment opportunities.
+5. **Medication Review:** Conduct a thorough review of current medications, considering their impact on the patient's overall health and pregnancy.
+
+**Follow-up Plan:**
+- Schedule regular prenatal check-ups to monitor the progress of the current pregnancy.
+- Arrange consultations with specialists for chronic pain management and mental health support.
+- Coordinate with social services to address housing and employment issues.
+- Conduct a medication review to ensure the safety and appropriateness of current medications, especially during pregnancy.
+
+This summary aims to guide further engagement with the patient, addressing both medical and social aspects for a holistic approach to care.

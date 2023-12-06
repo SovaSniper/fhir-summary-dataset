@@ -1,0 +1,60 @@
+Patient d0c90e86-a224-0215-4f19-be8c89ae91c9, a 15-year-old female, has a medical history that spans several years. She was born on November 4, 2007, and currently resides at 479 Bailey Gardens Apt 88, Anchorage, AK 99540.
+
+Medical History:
+1. Acute Bronchitis (2013):
+   - Patient was diagnosed with acute bronchitis in 2013, with reported symptoms of cough and respiratory distress.
+
+2. Child Attention Deficit Disorder (2014):
+   - In 2014, the patient was diagnosed with child attention deficit disorder.
+
+3. Generalized Anxiety Disorder (2019):
+   - In 2019, the patient was diagnosed with generalized anxiety disorder.
+
+4. Medication Review Due (Ongoing):
+   - The patient's medication review is due, necessitating a comprehensive review of current medications and potential adjustments.
+
+5. Acute Viral Pharyngitis (2023):
+   - In 2023, the patient was diagnosed with acute viral pharyngitis, with a recorded body temperature of 37.767°C.
+
+Treatment History:
+- The patient has received various immunizations, including influenza, seasonal, injectable, preservative-free vaccines, HPV quadrivalent vaccine, meningococcal MCV4P, Tdap, and the SARS-COV-2 (COVID-19) vaccine.
+
+Clinical Data:
+- The patient's growth and development have been consistently monitored, with observations of height, weight, and BMI percentiles recorded over the years.
+
+- Blood pressure measurements have been taken, with variations noted but generally within acceptable ranges for the patient's age and sex.
+
+- Heart rate and respiratory rate have been recorded during physical assessments.
+
+- Hematological parameters such as leukocyte count, erythrocyte count, hemoglobin, hematocrit, and platelet count have been within normal ranges during assessments.
+
+- Tobacco smoking status indicates the patient has not been a smoker.
+
+- Patient Health Questionnaire (PHQ) and Generalized Anxiety Disorder (GAD-7) scores have been documented to monitor mental health.
+
+Course of Action:
+1. Medication Review:
+   - Conduct a comprehensive review of the patient's current medications to assess their efficacy and potential side effects. Adjustments may be needed based on the patient's evolving medical history.
+
+2. Management of Acute Viral Pharyngitis:
+   - Provide appropriate treatment and advice for managing the acute viral pharyngitis diagnosed in 2023.
+
+3. Mental Health Assessment:
+   - Continue monitoring the patient's mental health, addressing any concerns related to anxiety and overall well-being. Consider counseling or therapy as appropriate.
+
+4. Immunization:
+   - Ensure the patient stays up-to-date with recommended vaccinations and boosters based on their age and health status.
+
+5. Growth and Development:
+   - Continue monitoring the patient's growth and development, with regular assessments of height, weight, and BMI percentiles.
+
+6. Blood Pressure Monitoring:
+   - Keep monitoring blood pressure to ensure it remains within acceptable ranges.
+
+7. Health Education:
+   - Provide patient and family education on maintaining a healthy lifestyle, including diet, exercise, and mental health strategies.
+
+8. Follow-up Appointments:
+   - Schedule regular follow-up appointments to track the patient's progress and make any necessary adjustments to their treatment plan.
+
+This comprehensive clinical summary provides an overview of the patient's medical history, treatment course, and relevant clinical information. It offers clear guidance for doctors to engage with the patient and guide their ongoing care effectively.

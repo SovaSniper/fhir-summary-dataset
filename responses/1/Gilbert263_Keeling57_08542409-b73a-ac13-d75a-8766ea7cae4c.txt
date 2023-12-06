@@ -1,0 +1,92 @@
+Patient 08542409-b73a-ac13-d75a-8766ea7cae4c, a male born on May 8, 1961, has had a comprehensive medical history recorded over the years. The patient's medical history is as follows:
+
+From birth to age 2:
+- Body Height ranged from 52.6 cm to 78.2 cm.
+- Pain severity ranged from 0 to 3 on a 0-10 verbal numeric rating scale.
+- Body Weight increased from 4.7 kg to 12.7 kg.
+- Weight-for-length percentile consistently above 85%.
+- Head Occipital-frontal circumference increased from 35.85 cm to 47.05 cm.
+- Blood pressure ranged from 90/122 mm[Hg] to 98/128 mm[Hg].
+- Heart rate ranged from 60/min to 87/min.
+- Respiratory rate ranged from 12/min to 16/min.
+- Tobacco smoking status: Not applicable for a child.
+- Immunizations completed, including IPV and influenza.
+
+At age 2:
+- The patient was diagnosed with Acute Bronchitis and received medical attention.
+
+At age 4:
+- The patient was diagnosed with Viral Sinusitis and received medical treatment.
+
+At age 5:
+- The patient's growth continued.
+- Body Height reached 90.4 cm.
+- Pain severity was reported as 0.
+- Body Weight increased to 15.5 kg.
+- Weight-for-length percentile remained above 97%.
+- Head Occipital-frontal circumference reached 49.25 cm.
+- BMI was calculated at 18.92 kg/m2.
+- Blood pressure was 95/116 mm[Hg].
+- Heart rate was 98/min.
+- Respiratory rate was 13/min.
+
+At age 6:
+- The patient was diagnosed with Otitis Media and received treatment.
+
+At age 7:
+- Medication review was due.
+
+At age 8:
+- Body Height reached 108.4 cm.
+- Pain severity was reported as 0.
+- Body Weight increased to 20.2 kg.
+- BMI was calculated at 17.15 kg/m2.
+- Blood pressure was 91/121 mm[Hg].
+- Heart rate was 78/min.
+- Respiratory rate was 15/min.
+- Immunizations were completed, including IPV and influenza.
+
+At age 9:
+- Medication review was due.
+
+At age 10:
+- Body Height reached 114.9 cm.
+- Pain severity was reported as 4.
+- Body Weight increased to 23.9 kg.
+- BMI was calculated at 18.09 kg/m2.
+- Blood pressure was 92/127 mm[Hg].
+- Heart rate was 98/min.
+- Respiratory rate was 15/min.
+- Leukocytes and erythrocytes were within normal range.
+- Hemoglobin and hematocrit levels were normal.
+- Platelet counts were within normal range.
+
+At age 11:
+- Immunizations were completed, including influenza.
+
+At age 12:
+- Medication review was due.
+
+At age 13:
+- Body Height reached 121.2 cm.
+- Pain severity was reported as 3.
+- Body Weight reached 26.8 kg.
+- BMI was calculated at 18.24 kg/m2.
+- Blood pressure was 92/123 mm[Hg].
+- Heart rate was 68/min.
+- Respiratory rate was 15/min.
+- Immunizations were completed, including influenza.
+
+At age 14:
+- The patient was diagnosed with Concussion Injury of Brain.
+
+At age 16:
+- Immunizations were completed, including IPV and influenza.
+
+At age 17:
+- Medication review was due.
+
+At age 19:
+- The patient passed away, and the cause of death was documented.
+
+In summary, Patient 08542409-b73a-ac13-d75a-8766ea7cae4c had a generally healthy childhood with typical growth and development. There were minor medical issues such as bronchitis, sinusitis, and otitis media, but these were treated appropriately. The patient's vaccination history is up-to-date, and no significant tobacco smoking history was recorded. It's important to note the patient's cause of death at the age of 19. Further details regarding the cause of death should be obtained to understand any potential underlying health conditions.

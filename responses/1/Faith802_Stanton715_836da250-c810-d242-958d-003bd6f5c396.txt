@@ -1,0 +1,40 @@
+Patient 836da250-c810-d242-958d-003bd6f5c396, Stanton715 Faith802, is a female born on April 13, 2018, and currently residing at 1031 Windler Promenade Unit 0, Lake, IN 46349. Her medical history and treatment course can be summarized as follows:
+
+Medical History:
+- The patient's initial evaluation on April 13, 2018, revealed a body height of 49.3 cm and a body weight of 2.9 kg. Pain severity was reported at 4 on a 0-10 verbal numeric rating scale.
+- Immunization records indicate that Hepatitis B and other vaccinations were completed on the same day.
+
+Subsequent Evaluations and Vaccinations:
+- On May 18, 2018, the patient's height increased to 52.9 cm, body weight increased to 3.5 kg, and pain severity decreased to 1. Immunization for Hib, rotavirus, IPV, DTaP, and PCV 13 was completed.
+- On July 20, 2018, the patient's height increased to 57.9 cm, body weight increased to 4.7 kg, and pain severity remained at 1. Additional immunizations were completed, including Hib, rotavirus, IPV, DTaP, and PCV 13.
+- On September 21, 2018, the patient's height increased to 61.7 cm, body weight increased to 5.7 kg, and pain severity increased to 2. Immunization for IPV, influenza, DTaP, PCV 13, and Hepatitis B was completed.
+- On December 21, 2018, the patient's height increased to 66.3 cm, body weight increased to 6.9 kg, and pain severity increased to 3. Immunizations for IPV, influenza, DTaP, PCV 13, and Hepatitis B were completed.
+- March 22, 2019, records indicate a height of 70.2 cm, body weight of 7.9 kg, and pain severity decreased to 1. Immunizations for Hib, varicella, MMR, PCV 13, and Hepatitis A were completed.
+- On June 21, 2019, the patient's height increased to 76.5 cm, body weight increased to 9.2 kg, and pain severity increased to 3. Immunizations for DTaP were completed.
+- On September 20, 2019, the patient was diagnosed with acute viral pharyngitis. No changes in height or weight were reported.
+- On January 6, 2020, the patient's height increased to 81.7 cm, body weight increased to 10.1 kg, and pain severity increased to 2. Immunization for influenza was completed.
+- On March 20, 2020, the patient was suspected of having COVID-19. Her height was 85.7 cm, body weight was 10.9 kg, and pain severity was 2. Immunization for Hepatitis A was completed.
+- On September 18, 2020, the patient was diagnosed with a headache, cough, sputum finding, fatigue, muscle pain, joint pain, fever, loss of taste, and confirmed COVID-19. She had a high fever of 42.006°C, increased respiratory rate, and abnormal blood pressure readings. Respiratory pathogens were also detected.
+
+Recent Evaluations:
+- On November 28, 2020, the patient's height was 89.6 cm, body weight was 11.8 kg, and pain severity was 1. Immunization for influenza was completed.
+- On March 19, 2021, the patient was diagnosed with viral sinusitis. Her height was 92.9 cm, body weight was 12.6 kg, and pain severity was 0. Immunization for influenza was completed.
+- On October 27, 2021, the patient's height was 93.4 cm, body weight was 12.7 kg, and pain severity was 1. Immunization for influenza was completed.
+- On November 5, 2021, the patient's height was 96 cm, body weight was 13.2 kg, and pain severity was 2. Immunization for influenza was completed.
+
+Current Status:
+- As of the most recent evaluation on March 18, 2022, the patient's height was 99.3 cm, body weight was 13.8 kg, and pain severity was 1. Immunization for varicella, IPV, DTaP, and MMR was completed.
+- On September 23, 2022, the patient was diagnosed with acute bronchitis.
+- On September 30, 2022, the patient was diagnosed with a wrist fracture.
+
+Current Medication Review:
+- The patient's medication review is due for assessment.
+
+Recommendations:
+1. Continue to monitor the patient's growth and development, ensuring regular immunizations and check-ups.
+2. Address any ongoing medical issues, such as acute bronchitis and the wrist fracture.
+3. Conduct a comprehensive medication review.
+4. Continue to educate the patient's caregivers about the importance of vaccinations, hygiene, and managing common childhood illnesses.
+5. Monitor for any potential long-term effects of COVID-19 and provide appropriate follow-up care.
+
+This summary provides an overview of the patient's medical history, treatment, and current status, allowing healthcare providers to effectively engage with the patient and guide their ongoing care.

@@ -1,0 +1,36 @@
+**Patient Summary: Senger904 Audrie782**
+- **Name:** Audrie782 Senger904
+- **Gender:** Female
+- **Date of Birth:** May 20, 1975
+- **Address:** 693 Hintz Avenue, Englewood, OH 45322
+
+**Medical History:**
+- The patient's medical history spans from birth in 1975 to the present day, with notable entries in 1991 (higher education, full-time employment, and a criminal record), 1993 (stress), 1998 (medication review due), 2000 (history of tubal ligation), and 2006 (part-time employment and stress). Noteworthy findings include generalized anxiety disorder, a history of violence, and reports of homelessness.
+
+**Current Condition:**
+- Height: 161 cm, Weight: 65.6 kg, BMI: 25.31 kg/m²
+- Blood Pressure: 74/112 mm[Hg]
+- Heart Rate: 79 /min, Respiratory Rate: 13 /min
+- Notable Blood Parameters: 
+  - Leukocytes: 8.34 10*3/uL, Erythrocytes: 4.30 10*6/uL
+  - Hemoglobin: 12.29 g/dL, Hematocrit: 44.32%
+  - MCV: 94.69 fL, MCH: 31.02 pg
+  - Platelets: 407.71 10*3/uL
+
+**Current Medications:**
+- None reported.
+
+**Recommendations:**
+- The patient's current BMI suggests she is overweight. Encourage regular exercise and a balanced diet to achieve a healthy weight.
+- Monitor blood pressure and cholesterol levels regularly due to elevated values noted in the past.
+- Assess mental health status regularly, as generalized anxiety disorder and stress have been recurring concerns.
+- Suggest continued influenza vaccination to maintain immunity.
+- Given the history of violence and reports of homelessness, consider offering resources or referrals to support services.
+
+**Next Steps:**
+1. Schedule a follow-up appointment to review medications, assess mental health, and discuss lifestyle modifications.
+2. Recommend annual flu vaccinations and regular blood pressure checks.
+3. Advise on maintaining a balanced diet and regular exercise routine to manage weight.
+4. Consider offering resources for support services or counseling, particularly in relation to the history of violence and stress.
+
+Please let me know if you need any further information or assistance.

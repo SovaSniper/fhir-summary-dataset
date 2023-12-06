@@ -1,0 +1,56 @@
+Patient Information:
+Patient ID: ecfd3ce7-1860-8a4e-f7b8-5e0a70321aa1
+Name: Schaden604 Ike571
+Gender: Male
+Date of Birth: April 4, 2009
+Address: 954 Gusikowski Bay, Vicksburg, MS 39183
+
+Medical History Summary:
+The patient, Schaden604 Ike571, is a male born on April 4, 2009, residing in Vicksburg, MS. Over the years, he has presented various medical conditions and undergone multiple immunizations. Here is a summary of his medical history and recent clinical data:
+
+1. Initial Assessment (March 10, 2012):
+   - Height: 115.4 cm
+   - Weight: 19.9 kg
+   - BMI: 14.97 kg/m²
+   - Blood Pressure: 83/130 mm[Hg]
+   - Heart Rate: 70/min
+   - Respiratory Rate: 13/min
+   - Tobacco Smoking Status: Not a smoker
+
+2. Immunizations (March 15, 2014):
+   - Completed varicella, IPV, influenza, DTaP, and MMR immunizations.
+
+3. Laceration of Foot (June 23, 2014):
+   - No reported pain
+   - Height: 122.5 cm
+   - Weight: 21.7 kg
+   - Normal BMI and vital signs
+
+4. Follow-up Assessments (March 21, 2015 and March 26, 2016):
+   - Height, weight, and BMI within normal ranges
+   - Completed influenza immunizations
+   - No significant health issues reported
+
+5. Viral Sinusitis (April 1, 2017):
+   - Height: 143 cm
+   - Weight: 32.9 kg
+   - BMI: 16.09 kg/m²
+   - Blood Pressure: 80/131 mm[Hg]
+   - Completed influenza immunization
+
+6. Regular Check-ups (April 7, 2018 and April 13, 2019):
+   - Steady growth and development
+   - Completed recommended immunizations
+   - No major health concerns reported
+
+7. Concussion (April 18, 2020):
+   - Diagnosis of concussion injury of the brain
+   - No loss of consciousness reported
+
+8. Suspected COVID-19 (July 19, 2020):
+   - Reported symptoms of cough, fatigue, fever, and loss of taste
+   - Elevated body temperature (40.102°C)
+   - Positive test results for SARS-CoV-2
+
+9. Post-COVID Assessments (March 16, 2021 and September 4, 2021):
+   - Significant recovery in height and weight

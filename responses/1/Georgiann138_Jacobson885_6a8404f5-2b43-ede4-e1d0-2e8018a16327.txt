@@ -1,0 +1,36 @@
+Patient Summary for Georgiann138 Jacobson885
+
+Patient Information:
+- Name: Georgiann Jacobson
+- Date of Birth: November 7, 2006
+- Gender: Female
+- Address: 1094 Feest Overpass, Sterling, AK 99672
+
+Medical History:
+- The patient's medical history dates back to October 18, 2011, when she was 124.2 cm tall and weighed 22.6 kg, with a BMI percentile of 30.154%. She reported a pain severity score of 1 and had a blood pressure of 80/111 mm[Hg].
+- Influenza immunization was completed on October 29, 2013.
+- In 2014, the patient's height increased to 136.4 cm, and her weight was 32.4 kg, with a BMI percentile of 68.331%. Pain severity increased to a score of 3, and her blood pressure was 73/109 mm[Hg].
+- The patient remained stable in 2015 and 2016, with a height of 141.8 cm, weight of 37 kg, and a BMI percentile of 71.772%. Her blood pressure ranged from 77/110 mm[Hg] to 82/110 mm[Hg].
+- In November 2016, she was diagnosed with acute bronchitis.
+- In December 2016, her height was 148.1 cm, weight 40.4 kg, and BMI percentile 63.659%. Her blood pressure was 77/110 mm[Hg].
+- Immunizations for Tdap, Influenza, HPV, and meningococcal MCV4P were completed on November 21, 2017.
+- In November 2018, the patient's height was 161 cm, weight 52 kg, and BMI percentile 66.675%. Her blood pressure was 74/100 mm[Hg], and she reported generalized anxiety disorder and a low GAD-7 score.
+- Immunizations for Influenza and HPV were completed on November 27, 2018.
+- In November 2019, her height was 164.1 cm, weight 53.4 kg, and BMI percentile 55.533%. Her blood pressure was 79/102 mm[Hg], and she had a higher GAD-7 score.
+- Immunizations for Influenza and HPV were completed on December 3, 2019.
+- In December 2020, the patient's height was 165.4 cm, weight 52.3 kg, and BMI percentile 38.285%. Her blood pressure was 75/106 mm[Hg], and she had a GAD-7 score of 3.
+- Immunization for SARS-COV-2 (COVID-19) was completed on June 1, 2021.
+- In November 2021, her height was 165.4 cm, weight 52.3 kg, and BMI percentile 38.285%. Her blood pressure was 75/106 mm[Hg], and she reported generalized anxiety disorder with a GAD-7 score of 3.
+- Immunizations for Influenza were completed on December 14, 2021.
+- In October 2022, the patient's height was 166 cm, weight 56.2 kg, and BMI percentile 48.892%. Her blood pressure was 77/109 mm[Hg], and she had a GAD-7 score of 2.
+- Immunizations for Influenza and meningococcal MCV4P were completed on December 20, 2022.
+
+Course of Action:
+1. Continue monitoring the patient's growth and development, including height, weight, and BMI.
+2. Continue managing generalized anxiety disorder, considering periodic assessments of mental health.
+3. Keep up with recommended immunizations to ensure the patient's protection against preventable diseases.
+4. Schedule a medication review due to the patient's current situation and medication history.
+5. Encourage the patient to maintain a healthy lifestyle, including a balanced diet and regular physical activity.
+6. Address any acute or chronic medical concerns as they arise and provide appropriate treatment.
+
+This comprehensive summary provides an overview of the patient's medical history, diagnosis, treatment, and important clinical information, helping guide further care and management.

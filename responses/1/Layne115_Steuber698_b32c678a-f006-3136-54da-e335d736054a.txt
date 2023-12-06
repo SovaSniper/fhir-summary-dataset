@@ -1,0 +1,28 @@
+Patient B32C678A-F006-3136-54DA-E335D736054A, a female born on December 19, 1995, currently resides at 632 Gorczany Tunnel Suite 83, Baltimore, MD 21226. This clinical summary provides an overview of her medical history, treatment course, and relevant clinical information.
+
+Medical History:
+- The patient has a history of generalized anxiety disorder, which was first diagnosed in February 2014 (GAD-7 score of 4) and has been monitored periodically.
+- She has a history of intermittent episodes of viral infections, including streptococcal sore throat and viral sinusitis, in 2014 and 2015.
+- In 2016, the patient experienced a burn injury and was subsequently transferred to a skilled nursing facility.
+- She struggled with dependent drug abuse in 2017.
+- In July 2017, the patient underwent an appendectomy for acute appendicitis.
+- The patient had a normal pregnancy in 2017.
+- In February 2018, she received multiple immunizations.
+- Throughout 2018, the patient continued to receive care for anxiety and other general medical concerns.
+- In March 2020, she was diagnosed with acute viral pharyngitis during a normal pregnancy.
+- In October 2020, the patient transitioned to part-time employment.
+
+Current Clinical Information:
+- The patient's vital signs, as of her most recent visit on September 29, 2023, indicate a stable condition with a BMI of 24.28, a blood pressure of 133/70 mm[Hg], a heart rate of 91 bpm, and a respiratory rate of 15 breaths per minute.
+- Her anxiety symptoms have improved, with a GAD-7 score of 3, and she reports low-level pain (score 1).
+- The Patient Health Questionnaire 2 item (PHQ-2) indicates mild depressive symptoms (score 2), and the Drug Abuse Screening Test-10 (DAST-10) shows no signs of drug abuse (score 0).
+- The patient's immunizations are up to date, with the most recent influenza vaccine administered in February 2021.
+
+Recommendations and Course of Action:
+1. Continue monitoring the patient's mental health, including anxiety and depressive symptoms. Consider periodic assessments and potential adjustments to her treatment plan.
+2. Encourage the patient to maintain a healthy lifestyle, including regular exercise and a balanced diet, to manage her BMI and overall well-being.
+3. Address any employment-related concerns or stressors that may impact the patient's health and mental well-being.
+4. Schedule regular follow-up appointments to ensure the patient's ongoing medical and psychological needs are met.
+5. Educate the patient on preventive measures to reduce the risk of viral infections, given her history of recurrent viral illnesses.
+
+This comprehensive clinical summary aims to provide a clear overview of the patient's medical history, treatment course, and current clinical status, allowing healthcare providers to engage effectively with the patient and guide her ongoing care.

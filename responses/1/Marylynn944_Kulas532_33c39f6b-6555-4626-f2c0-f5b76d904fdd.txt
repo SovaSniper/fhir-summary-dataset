@@ -1,0 +1,28 @@
+**Clinical Summary for Patient 33c39f6b-6555-4626-f2c0-f5b76d904fdd (Marylynn Kulas)**
+
+**Patient Information:**
+Patient Name: Marylynn Kulas
+Gender: Female
+Date of Birth: November 9, 1997
+Address: 454 Goyette Heights, Lincoln, ID 00000
+
+**Medical History:**
+Marylynn Kulas, a 25-year-old female, presented with a history of Generalized Anxiety Disorder (GAD) since December 2013. She reported occasional mild anxiety symptoms (GAD-7 score of 2) and had a history of acute viral pharyngitis in January 2016. She also experienced episodes of pain (rated 1 to 3 on a 0-10 scale) and reported stress, limited social contact, and employment changes during her medical history.
+
+**Current Clinical Status:**
+Marylynn's recent physical examination on September 30, 2023, showed stable vital signs, with a blood pressure of 103/62 mm[Hg], heart rate of 82/min, and respiratory rate of 12/min. She reported a pain severity score of 2. Her BMI is 25.35 kg/m², indicating overweight. Laboratory findings indicated a stable hemoglobin level (14.41 g/dL) and leukocyte count (9.23 10*3/uL).
+
+**Immunization History:**
+Marylynn has received influenza vaccinations regularly, the last one being on January 15, 2023.
+
+**Diagnosis and Treatment Plan:**
+Marylynn has a history of GAD, which has been relatively stable with occasional mild symptoms. She is currently experiencing mild pain and reports stress, which may contribute to her symptoms. Given her stable vital signs and laboratory results, it is crucial to address her anxiety and stress levels. A review of her medication is due, and considering her recent increase in DAST-10 score (9), indicating potential substance misuse, a comprehensive assessment of her mental health and social support system is warranted. Encourage Marylynn to seek therapy and consider medication adjustments if necessary.
+
+**Recommendations:**
+1. **Mental Health Support:** Marylynn should be referred to a mental health professional for counseling and therapy to manage her anxiety and stress effectively.
+2. **Medication Review:** A thorough review of her current medications is essential. Consider adjusting her anxiety medication if her symptoms are not adequately controlled.
+3. **Substance Misuse Assessment:** Given her elevated DAST-10 score, conduct a detailed assessment of her substance misuse patterns. Provide appropriate support and interventions, including substance abuse counseling if necessary.
+4. **Lifestyle Modifications:** Encourage Marylynn to adopt a healthy lifestyle, including regular exercise, a balanced diet, and sufficient sleep, to manage stress and improve overall well-being.
+5. **Regular Follow-ups:** Schedule regular follow-up appointments to monitor her progress, adjust treatment plans as needed, and provide continuous support.
+
+This summary aims to guide further discussions and interventions to address Marylynn's mental health concerns effectively. Collaboration between healthcare providers, mental health professionals, and support networks will be essential for her holistic care and well-being.

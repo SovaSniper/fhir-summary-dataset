@@ -1,0 +1,52 @@
+Patient ID: a96d172a-aadb-6ff5-2508-ca1bb1afcca7
+Name: Towne435 Gerard367
+Gender: Male
+Date of Birth: September 19, 2018
+Address: 929 Larkin Promenade Apt 92, Delta charter, MI 00000
+
+**Medical Summary:**
+
+Patient a96d172a-aadb-6ff5-2508-ca1bb1afcca7, a male born on September 19, 2018, has been under continuous medical observation and care, with the following key clinical findings over the course of his life:
+
+**1. Growth and Development:**
+   - Body Height: Steadily increasing from 51.3 cm to 106.1 cm, following age-appropriate percentiles.
+   - Body Weight: Progressing from 4.4 kg to 20.6 kg, maintaining growth within acceptable percentiles.
+   - Head Occipital-frontal Circumference: Head size has increased from 34.9 cm to 48.91 cm, with consistent percentile tracking.
+
+**2. Vital Signs:**
+   - Blood Pressure: Within the normal range, varying slightly over time (88-98 mm[Hg] systolic, 109-118 mm[Hg] diastolic).
+   - Heart Rate: Remains within the normal range (70-96 /min).
+   - Respiratory Rate: Steady at around 13-16 /min.
+
+**3. Hematological Profile:**
+   - Hemoglobin, Hematocrit, and Erythrocyte counts remain within normal limits.
+   - Platelet counts have been consistently normal, with variation in platelet indices over time.
+
+**4. Immunizations:**
+   - The patient has received age-appropriate vaccinations, including Hep B, Hib, rotavirus, IPV, DTaP, PCV 13, varicella, MMR, Hep A, and influenza vaccines.
+
+**5. Allergic Reactions:**
+   - The patient experienced an acute allergic reaction, treated with predniSONE 5 MG Oral Tablet in April 2019.
+
+**6. Ongoing Conditions:**
+   - Otitis media diagnosed in May 2019 and again in February 2020.
+   - Viral sinusitis diagnosed in August 2020.
+
+**7. Allergy Testing:**
+   - IgE antibody levels for various allergens have been measured, indicating sensitivities to multiple allergens at different times.
+
+**8. Pain Severity:**
+   - The patient's reported pain severity has varied over time, ranging from 0 to 4 on a 0-10 verbal numeric rating scale.
+
+**Course of Action:**
+
+1. Continue to monitor growth and development, ensuring the patient stays within appropriate percentiles.
+2. Maintain routine blood pressure, heart rate, and respiratory rate checks during follow-up visits.
+3. Stay up-to-date with recommended immunizations as per the current vaccination schedule.
+4. Manage and treat any acute conditions, such as otitis media or viral sinusitis, promptly.
+5. Address reported pain and allergy symptoms as needed, with appropriate medications and interventions.
+6. Consider a thorough allergy management plan given the patient's sensitivities.
+7. Encourage a healthy lifestyle, including a balanced diet and regular physical activity.
+8. Schedule regular follow-up appointments to assess the patient's ongoing health and address any concerns.
+
+Please note that this summary is based on the available medical data up to August 30, 2023. Continual monitoring and timely medical assessments are essential for the patient's well-being and overall health.

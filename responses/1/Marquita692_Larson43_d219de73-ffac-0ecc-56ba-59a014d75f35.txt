@@ -1,0 +1,23 @@
+Patient: Marquita Larson
+Date of Birth: December 9, 2019
+Gender: Female
+Address: 555 Crist Vista Unit 21, Humboldt, TN 38343
+
+**Medical History:**
+Marquita Larson, a female born on December 9, 2019, has been regularly monitored over the past few years. Her developmental progress has been recorded as follows:
+
+- In December 2019, Marquita's height was 51.7 cm, with a reported pain severity score of 4/10. Her weight was 3.9 kg, and her weight-for-length percentile was 43.622%. The head occipital-frontal circumference percentile was 53.82%. Her blood pressure was 73/136 mm[Hg], heart rate was 82/min, and respiratory rate was 15/min.
+
+- In January 2020, Marquita's height increased to 55.3 cm, with a pain severity score of 4/10. Her weight was 4.6 kg, and her weight-for-length percentile decreased to 41.315%. The head occipital-frontal circumference percentile remained at 53.82%. Blood pressure was 75/135 mm[Hg], heart rate 82/min, and respiratory rate 14/min.
+
+- In March 2020, she received various immunizations. Her height was 60.5 cm, and pain severity reduced to 2/10. Her weight was 5.9 kg, and her weight-for-length percentile was 28.348%. The head occipital-frontal circumference was 40.6 cm. Blood pressure was 74/132 mm[Hg], heart rate 89/min, and respiratory rate 13/min.
+
+- In May 2020, more immunizations were administered. Marquita's height was 64.5 cm, pain severity remained at 2/10, and her weight was 7.1 kg, with a weight-for-length percentile of 43.883%. The head occipital-frontal circumference was 42.21 cm. Blood pressure was 76/133 mm[Hg], heart rate 64/min, and respiratory rate 13/min.
+
+- In August 2020, Marquita received additional immunizations, and her height was 69.3 cm, with a pain severity score of 3/10. Her weight was 8.4 kg, and her weight-for-length percentile increased to 62.396%. The head occipital-frontal circumference was 43.85 cm. Blood pressure was 73/131 mm[Hg], heart rate 74/min, and respiratory rate 14/min.
+
+- In November 2020, her height reached 73.3 cm, and pain severity was reduced to 1/10. Her weight was 9.5 kg, with a weight-for-length percentile of 68.667%. The head occipital-frontal circumference was 45 cm. Blood pressure was 72/121 mm[Hg], heart rate 85/min, and respiratory rate 14/min.
+
+- In February 2021, Marquita received further immunizations, and her height was 76.8 cm, with no reported pain. Her weight was 10.3 kg, and her weight-for-length percentile was 63.047%. The head occipital-frontal circumference was 45.87 cm. Blood pressure was 74/134 mm[Hg], heart rate 95/min, and respiratory rate 12/min.
+
+- In May 2021, she was diagnosed with viral sinusitis, and her height was 79.9 cm, with a pain severity score of 3/10. Her weight was 11 kg, and her weight-for-length percentile was 63.815%. The head occipital-frontal circumference was 46.54 cm. Blood pressure was 74/135 mm[Hg], heart rate

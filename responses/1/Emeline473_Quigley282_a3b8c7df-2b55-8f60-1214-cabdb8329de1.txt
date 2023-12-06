@@ -1,0 +1,22 @@
+Patient: Quigley282 Emeline473
+Date of Birth: December 3, 2005
+Address: 323 Hauck Gardens, Greeley, CO 80543
+Gender: Female
+
+Medical History Summary:
+
+Ms. Emeline473 has been under our care since her early childhood. She presented initially in November 2013 with viral sinusitis, which resolved with appropriate treatment. Over the years, her medical history has shown a few episodes of acute bronchitis, viral sinusitis, and acute viral pharyngitis, which were managed successfully with conservative measures.
+
+Her growth and development have been consistent with her age and sex, with her most recent measurements indicating a height of 157.3 cm and a weight of 67 kg. Her BMI percentile remains high, consistently above the 90th percentile for her age and sex.
+
+Ms. Emeline473 has been up to date with her immunizations, including seasonal influenza, HPV, meningococcal, and the COVID-19 vaccine. Her tobacco smoking status remains negative throughout her medical history.
+
+Clinical Observations and Recommendations:
+
+1. Growth and Development: Ms. Emeline473's growth and development have been steady, with her current height and weight within expected ranges. However, her BMI percentile consistently remains above the 90th percentile. We recommend discussing dietary habits and physical activity to ensure a healthy lifestyle.
+
+2. Pain Severity: Ms. Emeline473 has reported varying pain severity levels over time, with the latest score being 4 out of 10. We recommend further evaluation to determine the cause of her pain and appropriate management.
+
+3. Blood Pressure: Her blood pressure measurements have fluctuated but generally fall within a normal range for her age. Regular monitoring is advised to detect any potential changes or trends.
+
+4. Heart Rate and Respiratory Rate: Heart rate and respiratory rate have remained within

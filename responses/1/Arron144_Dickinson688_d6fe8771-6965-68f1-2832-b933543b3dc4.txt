@@ -1,0 +1,43 @@
+**Patient Summary for Arron Dickinson**
+
+**Patient Information:**
+- **Name:** Arron Dickinson
+- **Gender:** Male
+- **Date of Birth:** May 21, 2010
+- **Address:** 984 Gulgowski Esplanade Apt 57, Las Vegas, NV 89129
+
+**Medical History:**
+
+- **2012-04-27:** The patient was diagnosed with Otitis media.
+
+- **2013-10-25:** The patient's growth and development were assessed. At this time, the patient's height was 96.8 cm, and weight was 15.7 kg. Blood pressure was 83/119 mm[Hg], heart rate was 82 /min, and respiratory rate was 13 /min. 
+
+- **2014-04-25:** Immunization against Influenza was completed.
+
+- **2015-05-01:** Immunizations completed for varicella, IPV, Influenza, DTaP, and MMR. The patient was diagnosed with Otitis media again.
+
+- **2016-05-06:** The patient's height was 114.9 cm, and weight was 20.1 kg. Blood pressure was 82/118 mm[Hg], heart rate was 90 /min, and respiratory rate was 15 /min.
+
+- **2017-05-12:** The patient's height was 120.7 cm, and weight was 22.7 kg. Blood pressure was 79/119 mm[Hg], heart rate was 78 /min, and respiratory rate was 13 /min.
+
+- **2018-05-18:** Medication review was due. The patient's height was 126.3 cm, and weight was 25.6 kg. Blood pressure was 83/104 mm[Hg], heart rate was 78 /min, and respiratory rate was 14 /min.
+
+- **2019-05-24:** The patient was diagnosed with Viral sinusitis and Acute viral pharyngitis. Body temperature was 37.448°C.
+
+- **2020-03-13:** The patient's height was 130.8 cm, and weight was 29.2 kg. Blood pressure was 76/119 mm[Hg], heart rate was 81 /min, and respiratory rate was 13 /min.
+
+- **2022-02-28:** Immunization against SARS-COV-2 (COVID-19) vaccine was completed.
+
+- **2022-06-03:** Medication review was due. The patient's height was 140.3 cm, and weight was 34.6 kg. Blood pressure was 75/121 mm[Hg], heart rate was 92 /min, and respiratory rate was 13 /min. The patient's Generalized anxiety disorder 7 item (GAD-7) score was 0.
+
+- **2023-06-16:** The patient's height was 146.8 cm, and weight was 41 kg. Blood pressure was 82/118 mm[Hg], heart rate was 79 /min, and respiratory rate was 12 /min. The patient's Generalized anxiety disorder 7 item (GAD-7) score was 0.
+
+**Clinical Summary and Recommendations:**
+
+Arron Dickinson is a male patient with a history of recurrent otitis media and viral infections. He has undergone regular growth assessments, immunizations, and medication reviews. His growth parameters and vital signs are within normal ranges for his age. Notably, he has received the necessary immunizations, including the COVID-19 vaccine. Additionally, his Generalized anxiety disorder 7 item (GAD-7) score is consistently low.
+
+Given his current status and age-appropriate development, it is recommended to continue regular check-ups to monitor growth and development. Routine immunizations and health assessments should be maintained. Moreover, given the patient's history of otitis media, he should be monitored for any recurrent ear infections and managed accordingly.
+
+Regarding the patient's anxiety, it is encouraging to note that his GAD-7 scores have been consistently low. However, his anxiety status should continue to be assessed during routine visits, and if any concerns arise, appropriate interventions or counseling may be considered.
+
+In conclusion, Arron Dickinson's overall health is stable, and he is up-to-date with immunizations. Ongoing follow-up appointments for growth and development monitoring are recommended, along with vigilance for any ear-related issues or changes in his anxiety status. Regular communication with the patient's caregivers is essential to ensure comprehensive care and address any emerging concerns.

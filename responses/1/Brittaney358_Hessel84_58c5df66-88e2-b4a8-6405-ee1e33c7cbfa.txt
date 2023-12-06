@@ -1,0 +1,49 @@
+Patient 58c5df66-88e2-b4a8-6405-ee1e33c7cbfa, also known as Brittaney358 Hessel84, is a 32-year-old female born on October 7, 1990, residing at 435 Leuschke Manor Apt 76, Cicero, IL 60804. Her medical history and treatment course have been documented over the years, providing valuable insights for ongoing care:
+
+**Medical History:**
+- **1990-2020**: Patient's medical history shows a series of visits for various conditions and routine check-ups. Notable findings include a diagnosis of viral sinusitis in 2012 and 2014, part-time employment in 2014, and full-time employment in 2008, 2018, and 2021.
+
+- **2020-2023**: Recent medical history includes a normal pregnancy in 2021 and the completion of SARS-COV-2 (COVID-19) vaccinations in May and June 2021. The patient also had a Liletta 52 MG Intrauterine System in place since August 2021.
+
+- **2023**: The patient has been experiencing contact dermatitis, with affected areas detailed as 22.30% on the upper extremities and 14.39% on the lower extremities.
+
+**Clinical Assessment:**
+- **Height**: 170.3 cm
+- **Weight**: Fluctuating between 70.6 kg and 78.9 kg
+- **BMI**: Ranging from 24.33 to 27.21 kg/m2
+- **Blood Pressure**: Varies, with the latest reading at 75 mm[Hg] systolic and 121 mm[Hg] diastolic
+- **Heart Rate**: Typically around 83-95 /min
+- **Respiratory Rate**: Typically around 13-14 /min
+- **Blood Test Results**: Show normal levels of hemoglobin, hematocrit, MCV, MCH, MCHC, platelet count, and other parameters.
+- **Glucose**: 74.74 mg/dL
+- **Urea Nitrogen**: 18.14 mg/dL
+- **Creatinine**: 1.06 mg/dL
+- **Cholesterol Levels**: Elevated with a total cholesterol of 187.68 mg/dL and LDL cholesterol of 102.13 mg/dL
+- **Generalized Anxiety**: Patient reported a GAD-7 score of 3 and a PHQ-2 score of 2.
+
+**Immunizations:**
+- Influenza, seasonal, injectable, preservative-free: Completed in 2015, 2018, 2021
+- SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative-free: Completed in 2021
+- Td (adult), 5 Lf tetanus toxoid, preservative-free, adsorbed: Completed in 2021
+
+**Allergies:**
+- The patient has demonstrated IgE antibody levels for various allergens, including peanuts, walnuts, codfish, shrimp, wheat, egg whites, soybeans, cow milk, white oak, common ragweed, cat dander, American house dust mites, Cladosporium herbarum, honey bee, and latex.
+
+**Recommendations and Course of Action:**
+1. **Contact Dermatitis Management**: Given the recent diagnosis of contact dermatitis, it is crucial to address the skin condition. Provide guidance on skincare routines, allergen avoidance, and appropriate topical treatments. Consider referral to a dermatologist for further evaluation.
+
+2. **Prediabetes Monitoring**: The patient has an elevated Hemoglobin A1c level of 5.95%. Initiate close monitoring of blood glucose levels and lifestyle modifications, including dietary changes and regular exercise, to manage prediabetes effectively.
+
+3. **Cholesterol Management**: The elevated LDL cholesterol levels warrant dietary adjustments and potentially medication if lifestyle changes are ineffective. Recommend a consultation with a healthcare provider for cholesterol management.
+
+4. **Anxiety Assessment**: The patient has reported symptoms of anxiety (GAD-7 score of 3). Consider a thorough evaluation of her mental health and the option of counseling or therapy to address anxiety-related concerns.
+
+5. **Allergy Evaluation**: Given the documented allergen sensitivities, consider referring the patient to an allergist for a comprehensive evaluation and guidance on allergen avoidance strategies.
+
+6. **Medication Review**: The patient is on Liletta 52 MG Intrauterine System. Ensure regular monitoring and discuss contraceptive options as needed.
+
+7. **Regular Follow-up**: Schedule regular follow-up appointments to monitor the patient's progress, adjust treatments as necessary, and address any emerging health concerns.
+
+8. **Patient Education**: Provide education on maintaining a healthy lifestyle, including proper diet, exercise, and stress management.
+
+In conclusion, Patient 58c5df66-88e2-b4a8-6405-ee1e33c7cbfa has a complex medical history with recent diagnoses of prediabetes, contact dermatitis, and elevated cholesterol levels. Effective management involves a multi-disciplinary approach, including dermatology, endocrinology, cardiology, and mental health support. Regular follow-up and patient education are essential for achieving and maintaining optimal health.

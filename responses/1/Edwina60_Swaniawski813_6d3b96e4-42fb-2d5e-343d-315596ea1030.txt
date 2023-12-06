@@ -1,0 +1,29 @@
+Patient Summary for Swaniawski813 Edwina60 (DOB: 1997-01-08)
+
+**Medical History:**
+- The patient has a history of viral sinusitis, sprain of ankle, and normal pregnancies in 2015 and 2016.
+- She reported higher education, full-time employment, and stress in 2014.
+- There was an episode of humiliation, fear, rape, and kick in 2015, documented with the HARK questionnaire.
+- The patient reported generalized anxiety disorder and mild depressive symptoms based on GAD-7 and PHQ-9 scores.
+- Notably, the patient disclosed drug misuse in 2019 as indicated by a DAST-10 score of 5.
+- In 2022, the patient's BMI increased to 24.55, indicating overweight status.
+
+**Current Clinical Status:**
+- Height: 157.1 cm, Weight: 60.6 kg, BMI: 24.55 kg/m²
+- Blood Pressure: 88/122 mm[Hg], Heart Rate: 89/min, Respiratory Rate: 14/min
+- Tobacco Smoking Status: Negative
+- The patient's PHQ-2 and PHQ-9 scores indicate moderate depressive symptoms.
+
+**Treatment and Interventions:**
+- The patient received the seasonal influenza vaccine in 2014, 2015, 2016, and 2022.
+- In 2019, the patient was administered medroxyprogesterone acetate (150 MG/ML) injection.
+- The patient received SARS-COV-2 (COVID-19) vaccines in 2021 and 2022.
+
+**Recommendations:**
+1. **Mental Health Follow-Up:** Given the patient's history of anxiety, depression, and past drug misuse, a referral to a mental health specialist is advised for further evaluation and potential therapy or counseling sessions.
+2. **Weight Management:** The patient's BMI has increased, indicating overweight status. Encourage a balanced diet and regular exercise regimen to promote a healthy weight.
+3. **Regular Medication Review:** Given the patient's history of medication use, a thorough review of current medications and their effectiveness is recommended to ensure optimal management.
+4. **Regular Check-Ups:** Suggest bi-annual check-ups to monitor blood pressure, BMI, and general health status. Perform regular screenings for mental health concerns.
+5. **Lifestyle Modification:** Encourage stress management techniques, such as mindfulness or relaxation exercises, to help mitigate anxiety and depressive symptoms.
+
+Please consider the above recommendations in the patient's ongoing care plan. Should there be any concerns or new developments, do not hesitate to reach out for further assistance.

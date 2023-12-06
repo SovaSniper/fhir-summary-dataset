@@ -1,0 +1,27 @@
+Patient 4bd4af45-ab80-20ab-0d0d-1be7bcbd32d6, Ms. Librada Howell, a 17-year-old female born on July 5, 2005, residing at 1012 Wilkinson Promenade Suite 28, Dyersburg, TN 38024, presents a complex medical history. Over the years, she has been evaluated for various conditions:
+
+1. **Initial Assessment (2013):** At the age of 7, Ms. Howell had a reported height of 137.6 cm, a weight of 62.3 kg, and a BMI at the 99.63rd percentile for her age and sex. Blood pressure was 87/117 mmHg, heart rate was 96/min, and respiratory rate was 14/min. Her initial pain score was 2 on the 0-10 verbal numeric rating scale. She was not a tobacco smoker, and immunizations were up-to-date, including the seasonal flu vaccine.
+
+2. **Acute Bronchitis (2014):** In 2014, Ms. Howell was diagnosed with acute bronchitis, indicating a prior respiratory issue.
+
+3. **Child Attention Deficit Disorder (2015):** In July 2015, she was diagnosed with Child Attention Deficit Disorder, indicating cognitive and behavioral concerns.
+
+4. **Viral Sinusitis (2016):** In May 2016, Ms. Howell experienced viral sinusitis.
+
+5. **Generalized Anxiety Disorder (2018):** In 2018, Ms. Howell was diagnosed with Generalized Anxiety Disorder (GAD-7 score of 2) and provided treatment for this condition.
+
+6. **Medication Review (2019):** She experienced a medication review in 2019, suggesting ongoing treatment and monitoring of her conditions.
+
+7. **Generalized Anxiety Disorder (2020):** Her GAD-7 score remained elevated in 2020, indicating continued anxiety management.
+
+8. **Medication Review (2021):** Another medication review was indicated in 2021.
+
+9. **Viral Sinusitis (2022):** In January 2022, she was treated for viral sinusitis once again.
+
+10. **Generalized Anxiety Disorder (2023):** Her GAD-7 score remained significant in 2023, indicating ongoing mental health challenges.
+
+11. **High School Equivalency & Full-time Employment (2023):** Ms. Howell achieved a significant milestone by receiving her high school equivalency certificate and securing full-time employment.
+
+The latest observation on August 29, 2023, reveals her height at 167.7 cm, weight at 94.6 kg, and BMI at the 97.23rd percentile for her age and sex. Her blood pressure was 89/118 mmHg, heart rate was 81/min, and respiratory rate was 16/min. She reported no pain and scored 0 on the 0-10 verbal numeric rating scale. Her tobacco smoking status was negative, and she had a low Patient Health Questionnaire 2 item (PHQ-2) score of 0, suggesting improvement in her mental health. She also showed a low score on the Drug Abuse Screening Test-10 (DAST-10) at 1.
+
+Given this information, it's imperative to continue monitoring her mental health, manage her generalized anxiety disorder, and assess her ongoing medication needs. Additionally, maintaining a healthy lifestyle, including addressing her BMI and blood pressure, remains essential. Collaborative care involving mental health professionals, primary care physicians, and specialists is recommended to ensure Ms. Howell's overall well-being.

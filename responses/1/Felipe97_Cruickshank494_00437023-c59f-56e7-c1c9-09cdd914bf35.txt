@@ -1,0 +1,28 @@
+Patient 00437023-c59f-56e7-c1c9-09cdd914bf35, Mr. Felipe Cruickshank, is a 42-year-old male residing at 989 Boehm Path Apt 3, Palisade, CO 81526, born on April 27, 1981. We have compiled a comprehensive clinical summary of his medical history, treatment course, and relevant clinical information to guide his ongoing care.
+
+Medical History:
+1. In 1996, Mr. Cruickshank had a history and physical note that does not mention any significant findings.
+2. In 1998, another history and physical note did not reveal any concerning medical conditions.
+3. In 1999, he reported being unemployed, possibly indicating a change in his employment status.
+4. In 2006, he transitioned to part-time employment but was noted to misuse drugs.
+5. In 2012, Mr. Cruickshank was diagnosed with acute bronchitis.
+6. Subsequent records indicate he was employed full-time and underwent a medication review.
+7. He reported chronic pain, including chronic low back and neck pain.
+8. Mr. Cruickshank underwent drug abuse screening in 2014 and showed a need for further evaluation.
+9. His pain levels varied over the years, with occasional fluctuations.
+10. In 2015, he had a high BMI and abnormal lipid profile.
+11. Generalized anxiety disorder was noted in 2015, and he scored low on the HARK questionnaire.
+12. Mr. Cruickshank continued to experience pain and anxiety, with occasional changes in weight and BMI.
+13. In 2019, he was diagnosed with acute viral pharyngitis.
+14. Part-time employment continued, and he reported being a victim of intimate partner abuse.
+15. Mr. Cruickshank's BMI remained elevated, and his cholesterol levels were borderline.
+16. He experienced an episode of acute bronchitis in 2019.
+17. In 2020, he reported an increase in pain, became unemployed, and experienced changes in his body weight and BMI.
+18. Anxiety levels remained low, and he scored one on the PHQ-2 questionnaire.
+19. Mr. Cruickshank received COVID-19 vaccinations in 2021.
+20. In 2022, he had a laceration on his foot.
+21. In 2023, he experienced another episode of acute viral pharyngitis, became unemployed again, and reported stress. His BMI remained elevated.
+
+Clinical Information:
+- Mr. Cruickshank has a history of chronic pain, anxiety, drug misuse, and a fluctuating employment status.
+- He

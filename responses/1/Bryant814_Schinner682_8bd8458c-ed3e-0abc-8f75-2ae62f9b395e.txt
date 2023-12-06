@@ -1,0 +1,37 @@
+Patient Summary for Schinner682 Bryant814:
+
+Patient Information:
+- Name: Schinner682 Bryant814
+- Gender: Male
+- Date of Birth: January 23, 1976
+- Address: 181 Hyatt Skyway, Gateway, AK 00000
+
+Medical History:
+- The patient's medical history spans several years, with multiple visits for various conditions and evaluations.
+- Notable events include a history of chronic pain, including chronic low back and neck pain, which has been assessed using the PEG 3-item pain scale. The patient's pain scores varied over time.
+- The patient has a history of obesity with a body mass index (BMI) consistently above 30, along with reports of stress.
+- Employment status fluctuated from part-time to full-time, and the patient experienced social isolation at times.
+- The patient had a history of generalized anxiety disorder, with varying GAD-7 scores.
+- The patient also had limited social contact and was unemployed at various points in their medical history.
+- Reports of violence in the environment were noted during some periods.
+- The patient received several immunizations, including influenza and hepatitis A.
+- The patient tested positive for SARS-CoV-2 (COVID-19) and received the COVID-19 vaccine.
+
+Current Status (as of the most recent visit on June 30, 2023):
+- The patient is currently unemployed and reports limited social contact, stress, and ongoing generalized anxiety disorder.
+- His BMI remains above 29, indicating obesity.
+- Blood pressure, heart rate, and respiratory rate are within normal ranges.
+- The patient's recent PHQ-2 score is 1, indicating mild depressive symptoms.
+- The DAST-10 score is 1, indicating low risk for drug abuse.
+- The patient has received recent immunizations and is up to date on influenza and COVID-19 vaccines.
+
+Recommendations and Course of Action:
+- The patient's chronic pain and obesity require ongoing management. Consider referral to a pain specialist and a weight management program.
+- Monitor the patient's mental health, as he has a history of generalized anxiety disorder and mild depressive symptoms.
+- Encourage the patient to seek social support to combat social isolation.
+- Continue monitoring the patient's COVID-19 status and ensure he receives any necessary booster shots.
+- Provide education on stress management and healthy lifestyle choices, including diet and exercise, to address the patient's obesity.
+- Regularly assess and address the patient's pain levels and consider physical therapy or other interventions.
+- Schedule regular follow-up appointments to monitor the patient's progress and adjust the treatment plan as needed.
+
+This summary provides an overview of the patient's medical history, current status, and recommended course of action for his ongoing care.

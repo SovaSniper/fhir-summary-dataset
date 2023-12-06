@@ -1,0 +1,33 @@
+Patient Summary for Gibson Arden
+
+Name: Gibson Arden
+DOB: November 4, 1980
+Address: 717 Bahringer Wynd, Emporia, KS 66801
+
+Medical History:
+Mr. Arden has a significant medical history dating back to 1980. His records indicate periodic visits, including diagnoses for chronic pain and low back pain. He has reported elevated PEG scores, indicating moderate pain levels. Notably, he received a high school equivalency certificate and has experienced bouts of social isolation.
+
+Treatment Course:
+Over the years, Mr. Arden has been prescribed various medications and received influenza vaccinations regularly. He has been consistently employed, transitioning from part-time to full-time work. His BMI has remained elevated, indicating obesity. Additionally, he has reported generalized anxiety, as evidenced by GAD-7 scores.
+
+Current Status (As of September 2023):
+- Height: 173.1 cm, Weight: 90.6 kg, BMI: 30.24 kg/m2
+- Blood Pressure: 86/134 mm[Hg], Heart Rate: 94 /min, Respiratory Rate: 16 /min
+- Total AUDIT-C Score: 2, Total GAD-7 Score: 2, PHQ-2 Score: 1
+- HARK Score: 0
+
+Recommendations:
+1. **Medication Review**: Due to the prolonged treatment course, it is recommended to conduct a comprehensive medication review to assess the efficacy of current medications and potentially adjust or update the regimen.
+2. **Chronic Pain Management**: Given the persistent nature of Mr. Arden's chronic pain and low back pain, a multidisciplinary approach may be beneficial, including physical therapy, pain management techniques, and potential consultation with a specialist.
+3. **Weight Management**: Given the elevated BMI and obesity, lifestyle modifications such as dietary adjustments and regular exercise should be discussed. Referral to a nutritionist or dietitian may be beneficial.
+4. **Anxiety Management**: Considering Mr. Arden's reported anxiety levels, counseling and/or pharmacotherapy options should be explored. A mental health professional can provide further evaluation and guidance.
+5. **Social Support**: Given previous instances of social isolation, it is essential to encourage engagement in social activities and potentially connect Mr. Arden with local support groups or resources.
+6. **Influenza Vaccination**: Continue to recommend and administer annual influenza vaccinations to maintain immunization coverage.
+
+Please review the patient's history and consider the outlined recommendations for Mr. Gibson Arden's ongoing care. If further information or clarification is needed, please do not hesitate to contact me.
+
+Sincerely,
+
+[Your Name]
+[Your Title]
+[Contact Information]

@@ -1,0 +1,52 @@
+Patient 0977ca95-8f6c-57d5-0079-936f56295d95, a male born on April 28, 2015, residing at 304 Armstrong Highlands Apt 84, Waterloo, IA 50701, has a medical history that spans from birth to the present. The patient's medical history is summarized below:
+
+**Birth to 6 Months:**
+- At birth, the patient had a height of 52.2 cm and a weight of 3.2 kg, within normal ranges for age and sex.
+- The patient's vital signs, including blood pressure, heart rate, and respiratory rate, were within normal limits.
+- The patient had completed the recommended immunizations for their age, including Hep B, adolescent or pediatric.
+
+**6 to 12 Months:**
+- The patient's growth continued within normal parameters, with height and weight tracking as expected for age and sex.
+- The patient received additional immunizations, including Hib (PRP-OMP), rotavirus, monovalent, IPV, DTaP, and Pneumococcal conjugate PCV 13.
+
+**12 to 18 Months:**
+- The patient's growth trajectory remained consistent, and vital signs were normal.
+- Immunizations for Hib, rotavirus, IPV, DTaP, and Pneumococcal conjugate PCV 13 were continued.
+
+**18 to 24 Months:**
+- The patient's growth and vital signs remained stable, with only slight fluctuations.
+- The patient received additional immunizations, including Hep B, adolescent or pediatric.
+
+**24 to 36 Months:**
+- The patient's growth showed steady progress, and vital signs were stable.
+- Immunizations included DTaP and Influenza.
+
+**36 to 48 Months:**
+- The patient experienced an episode of Streptococcal sore throat, with a body temperature of 38.188°C.
+- Growth and vital signs were relatively consistent.
+- No additional immunizations were recorded during this period.
+
+**48 to 60 Months:**
+- The patient's growth and vital signs remained within normal ranges.
+- A diagnosis of Otitis media was made during this period.
+- Immunizations for Hib (PRP-OMP), varicella, MMR, Pneumococcal conjugate PCV 13, and Hep A were administered.
+
+**60 to 72 Months:**
+- The patient's growth continued, and vital signs remained stable.
+- The patient received DTaP immunization.
+
+**72 to 84 Months:**
+- The patient's growth and vital signs were consistent with previous observations.
+- No additional immunizations were administered.
+
+**84 to 96 Months:**
+- The patient's growth continued within normal parameters.
+- Medication review was due, as recorded in the patient's situation.
+- No new immunizations were reported.
+
+**96 to 108 Months:**
+- Growth and vital signs remained stable.
+- Medication review was due, indicating a need for evaluation of the patient's medication regimen.
+
+**108 to 120 Months:**
+- The patient's growth and vital

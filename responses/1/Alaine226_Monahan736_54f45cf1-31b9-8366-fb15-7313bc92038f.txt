@@ -1,0 +1,46 @@
+Patient Summary for Monahan736 Alaine226 (Female, DOB: 2002-02-11)
+
+Patient Identification:
+- Patient ID: 54f45cf1-31b9-8366-fb15-7313bc92038f
+- Name: Monahan736 Alaine226
+- Gender: Female
+- Date of Birth: February 11, 2002
+- Address: 1006 Schimmel Common Unit 54, San Antonio, TX 78209
+
+Medical History:
+- The patient's medical history spans from birth to the present.
+- Notable medical events include a sprain of the ankle in 2013 and a sprain of the wrist in 2015.
+- The patient received immunizations for influenza and HPV in 2014 and 2015.
+
+Current Clinical Information (as of the latest entry):
+- Height: 149.9 cm
+- Weight: 55 kg
+- BMI: 24.46 kg/m2 (76.58th percentile for age and sex)
+- Blood Pressure: 70/111 mm[Hg]
+- Heart Rate: 83 beats/min
+- Respiratory Rate: 16 breaths/min
+- Pain Severity: Reported as 2 on a 0-10 verbal numeric rating scale
+- Medication Review: Due (Situation)
+- Tobacco Smoking Status: Not Reported
+
+Diagnoses and Conditions:
+- Generalized Anxiety Disorder (GAD) assessed using the GAD-7 scale.
+- Acute Bronchitis in 2018.
+- Housing Unsatisfactory, Part-Time Employment, Social Isolation, and Stress noted in 2020.
+- Risk activity involvement (finding) in 2015.
+- Fall Risk level assessed using the Morse Fall Scale.
+- Received a certificate of high school equivalency.
+
+Immunizations:
+- The patient received various immunizations over the years, including influenza, HPV, and COVID-19 vaccines.
+
+Advice and Course of Action:
+1. Continue monitoring the patient's anxiety levels, considering interventions or therapy if necessary.
+2. Encourage regular check-ups and ensure the patient's medication reviews are up-to-date.
+3. Address any unresolved pain issues, providing appropriate pain management strategies.
+4. Assess and provide guidance for the patient's social and employment situation.
+5. Continue with recommended immunizations per current guidelines.
+6. Monitor vital signs and BMI regularly.
+7. Keep an eye on the patient's overall well-being and mental health, considering support as needed.
+
+This comprehensive summary is designed to assist healthcare providers in understanding the patient's medical history, current health status, and potential areas of concern. It is essential to engage with the patient, address any specific health issues, and provide ongoing care as appropriate.

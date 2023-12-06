@@ -1,0 +1,32 @@
+Patient 6228a5c0-357e-43e7-ce11-ea928460de9a, identified as Bogan287 Lavette209, is a female born on December 10, 1969, residing at 549 Kohler Gate Unit 34, Grand Island, NE 68803. This comprehensive clinical summary covers the patient's medical history, treatment course, and relevant clinical information to guide ongoing care.
+
+Medical History:
+- The patient's medical history indicates a series of visits, with records dating back to December 10, 1969. She has been regularly seen for medication reviews, with various diagnoses and findings recorded over the years.
+
+Diagnoses and Findings:
+- Notable diagnoses include localized, primary osteoarthritis of the hand, history of tubal ligation, obesity (BMI > 30), and acute bronchitis.
+- The patient has a history of generalized anxiety disorder, with fluctuating scores on the Generalized Anxiety Disorder 7 item (GAD-7) scale.
+- She has a history of alcohol use, as indicated by the Alcohol Use Disorder Identification Test - Consumption (AUDIT-C) scores.
+- The patient has a history of limited social contact, limited employment, and reports of stress.
+- She has received immunizations for influenza and zoster vaccine, live, on multiple occasions.
+
+Current Clinical Data (as of the most recent visit on December 28, 2022):
+- The patient's current vital signs include a height of 156 cm, a weight of 73.3 kg, and a BMI of 30.12 kg/m².
+- Blood pressure readings vary but are currently 86 mm/Hg systolic and 126 mm/Hg diastolic.
+- The patient's heart rate is 88/min, and respiratory rate is 12/min.
+- Laboratory results indicate cholesterol levels within the normal range, with an LDL cholesterol level of 168.06 mg/dL.
+- The patient's most recent GAD-7 score is 1, suggesting mild anxiety.
+- The PHQ-2 score is 0, indicating minimal depression symptoms.
+- The AUDIT-C score is 1, suggesting low alcohol consumption.
+- The patient has received the seasonal influenza vaccine in December 2022.
+
+Clinical Advice and Course of Action:
+1. Continue monitoring the patient's vital signs and body weight regularly to track any changes in her health status.
+2. Encourage the patient to maintain a healthy lifestyle, including a balanced diet and regular physical activity, to manage her obesity and cholesterol levels.
+3. Evaluate and manage the patient's anxiety symptoms with appropriate interventions, which may include counseling and/or medication adjustment.
+4. Continue to assess the patient's alcohol consumption and provide counseling or support if needed.
+5. Address the patient's limited social contact and stress by exploring social support networks and stress management techniques.
+6. Schedule regular follow-up appointments to ensure ongoing care and medication reviews as needed.
+7. Educate the patient about preventive measures and vaccinations to maintain her overall health, including seasonal influenza and zoster vaccines.
+
+In summary, Patient 6228a5c0-357e-43e7-ce11-ea928460de9a has a history of various medical conditions and mental health concerns. It is crucial to provide ongoing care, address her anxiety, manage her obesity, and monitor her overall well-being. Encouraging a healthy lifestyle and offering appropriate support are essential components of her care plan. Regular follow-up appointments will help track progress and adjust treatments as needed.

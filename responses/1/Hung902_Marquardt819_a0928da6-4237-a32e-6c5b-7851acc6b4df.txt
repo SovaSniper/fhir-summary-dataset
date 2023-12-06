@@ -1,0 +1,38 @@
+Patient Summary for Marquardt819 Hung902
+
+Patient ID: a0928da6-4237-a32e-6c5b-7851acc6b4df
+Name: Marquardt819 Hung902
+Gender: Male
+Date of Birth: May 25, 2003
+Address: 421 Ledner Overpass, Dale City, VA 22193
+
+Medical History:
+The patient's medical history includes regular medication reviews and check-ups over the years. Notable diagnoses and conditions include:
+1. Acute bronchitis in June 2014.
+2. Generalized anxiety disorder since June 2017.
+3. Chronic pain, including low back and neck pain, documented from July 2020.
+4. Stress-related symptoms documented from November 2021.
+
+Clinical Information:
+The patient's vital signs and health metrics have been consistently within acceptable ranges:
+- Height has steadily increased from 137.1 cm in 2003 to 169.8 cm in 2021.
+- Body weight has increased from 36.7 kg in 2003 to 63.2 kg in 2021.
+- Blood pressure, heart rate, and respiratory rate have been within normal limits.
+- Blood tests, including CBC panel, have generally shown normal results.
+
+Immunization:
+The patient has completed recommended immunizations, including Tdap, influenza, HPV, meningococcal, and COVID-19 vaccinations.
+
+Current Status:
+As of the most recent observation in July 2022, the patient reports minimal pain, with a pain severity score of 0. Generalized anxiety disorder symptoms are relatively controlled, with a GAD-7 score of 4. The patient has reported minimal alcohol use, with an AUDIT-C score of 2. The PHQ-2 score is 2, suggesting some depressive symptoms. The total score on the HARK questionnaire is 0, indicating no recent experiences of humiliation, fear, rape, or being kicked.
+
+Recommendations and Action Plan:
+1. Continue regular check-ups and medication reviews to manage chronic conditions, including anxiety and pain.
+2. Monitor and manage stress-related symptoms and depressive tendencies.
+3. Encourage a healthy lifestyle, including diet and exercise, to maintain a stable BMI.
+4. Continue recommended vaccinations and stay updated on COVID-19 booster shots as advised.
+5. Consider counseling or therapy to address any ongoing mental health concerns.
+6. Encourage the patient to reach out for support and maintain a strong social network.
+7. Regularly assess the patient's alcohol consumption and provide guidance on moderation if needed.
+
+This comprehensive summary provides an overview of the patient's medical history, current health status, and recommendations for ongoing care and management. It is essential to maintain regular communication with the patient to ensure their well-being and address any emerging health concerns.

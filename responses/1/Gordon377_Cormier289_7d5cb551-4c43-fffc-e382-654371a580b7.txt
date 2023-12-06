@@ -1,0 +1,57 @@
+Patient Summary for Cormier289 Gordon377
+
+Patient Information:
+- Name: Cormier289 Gordon377
+- Gender: Male
+- Date of Birth: March 29, 2010
+- Address: 1044 Hermiston Union Suite 42, Cullman, AL 35179
+
+Medical History:
+- March 29, 2010: The patient's medical history begins with a diagnosis report and physical examination.
+- May 2, 2010: Follow-up assessment.
+- December 6, 2010: Another follow-up examination.
+- March 7, 2011: Ongoing monitoring and assessment.
+- June 5, 2011: Continuation of medical history and physical examinations.
+- March 3, 2014: Diagnosis of Otitis media.
+- March 29, 2014: Follow-up assessment for Otitis media.
+- March 3, 2015: Routine checkup and immunizations.
+- March 9, 2015: Completion of multiple vaccinations.
+- March 9, 2015: Follow-up assessment.
+- March 14, 2016: Observation and examination, medication review due.
+- March 20, 2017: Follow-up examination.
+- March 26, 2018: Follow-up examination.
+- April 1, 2019: Diagnosis of Concussion injury of brain.
+- December 20, 2019: Diagnosis of Acute bronchitis.
+- January 16, 2020: Observation and examination.
+- January 27, 2020: Observation and medication review due.
+- February 3, 2020: Follow-up examination.
+- February 10, 2020: Follow-up examination.
+- April 5, 2020: Diagnosis of Viral sinusitis.
+- May 11, 2020: Medication review due.
+- April 11, 2021: Completion of various immunizations.
+- April 11, 2021: CBC panel - Blood by Automated count.
+- October 12, 2021: Follow-up examination.
+- November 17, 2021: Immunization for SARS-COV-2 (COVID-19).
+- April 10, 2022: Observation and examination.
+- April 17, 2022: Completion of various immunizations.
+- April 18, 2022: Patient Health Questionnaire-9: Modified for Teens.
+- May 1, 2022: Observation and examination.
+- April 23, 2023: Observation and examination.
+- April 23, 2023: Diagnosis of Generalized anxiety disorder.
+- April 24, 2023: Generalized anxiety disorder assessment.
+
+Clinical Findings:
+- The patient's current height is 149.2 cm, weight is 45 kg, and BMI is 20.2 kg/m2.
+- Blood pressure ranges from 74/105 mmHg to 74/109 mmHg.
+- Heart rate varies from 60/min to 84/min, and respiratory rate from 13/min to 16/min.
+- Immunizations for various diseases have been completed.
+- The patient has a history of injuries, including a fracture of bone and rib.
+- Recent assessments show symptoms of anxiety, as indicated by a GAD-7 score of 0.
+
+Clinical Recommendations:
+- Continue routine check-ups and follow-up appointments to monitor growth and development.
+- Ensure that the patient stays up-to-date with vaccinations.
+- Address any concerns related to past injuries, such as fractures.
+- Evaluate and manage symptoms of anxiety, possibly through counseling or therapy.
+
+Please consult the patient's complete medical records for a more detailed history and specific treatment plans.

@@ -1,0 +1,31 @@
+Patient Summary for Feeney44 Jc393
+
+Patient Information:
+- Name: Feeney44 Jc393
+- Gender: Male
+- Date of Birth: April 25, 1994
+- Address: 776 Little Glen, Boise City, ID 83709
+
+Medical History:
+- Patient has a long medical history dating back to birth.
+- Over the years, the patient has had multiple medication reviews, with the most recent one due.
+- Various diagnoses have been recorded, including viral sinusitis, acute viral pharyngitis, and laceration of the forearm.
+- The patient has a history of generalized anxiety disorder with fluctuating severity, as indicated by GAD-7 scores.
+- The patient's alcohol consumption has been assessed with AUDIT-C and DAST-10 scores.
+- Immunizations for influenza, Td (adult), Hep B, and meningococcal MCV4P were completed in 2016, and two doses of SARS-COV-2 (COVID-19) vaccine were administered in 2021.
+- Employment status has varied from full-time to part-time over the years.
+- The patient's vital signs and laboratory results have been recorded periodically, showing some fluctuations but generally within normal ranges.
+
+Current Status and Recommendations:
+- The patient currently reports a pain severity score of 3/10, higher than previous reports, indicating the need for pain management assessment and intervention.
+- Generalized anxiety disorder remains a concern, with the patient scoring 2 on the most recent GAD-7 assessment. Referral to a mental health specialist or adjustment of anxiety medications should be considered.
+- Weight gain has been noted, with the patient's BMI increasing to 29.76 kg/m2. Dietary counseling and exercise recommendations should be provided.
+- Blood pressure has increased, and it is now in the hypertensive range. Lifestyle modifications and antihypertensive medication may be needed.
+- The patient's employment status has changed to full-time, suggesting a need for work-related health assessments and stress management strategies.
+- Immunization status appears up-to-date.
+- Leukocyte count and erythrocyte values are slightly elevated but within the normal range. Continued monitoring is advised.
+- The patient's MCV and MCH values have increased, indicating possible anemia or other hematological issues. Further investigation is warranted.
+- Platelet indices are within normal limits.
+- Tobacco smoking status should be reviewed and smoking cessation support offered if applicable.
+
+In conclusion, Mr. Feeney44 Jc393 has a complex medical history with various diagnoses and ongoing health concerns, including anxiety, weight management, hypertension, and potential hematological issues. A comprehensive assessment and individualized treatment plan are crucial to address these issues effectively. Close monitoring and regular follow-ups are recommended to track progress and adjust the treatment course as needed. Collaborating with specialists, such as mental health professionals and nutritionists, may also be beneficial in managing his overall health and well-being.

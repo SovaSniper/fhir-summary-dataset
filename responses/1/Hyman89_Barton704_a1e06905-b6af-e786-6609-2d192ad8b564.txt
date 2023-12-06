@@ -1,0 +1,57 @@
+Patient A1E06905-B6AF-E786-6609-2D192AD8B564, Mr. Barton704 Hyman89, born on April 22, 2005, resides at 597 Schimmel Highlands Apt 32, Farmington, AR 72701. His medical history and treatment course are summarized as follows:
+
+Medical History:
+1. In 2010, Mr. Hyman was observed with a height of 135 cm, a reported pain severity score of 4, and a weight of 40.7 kg. His BMI was 22.32 kg/m², and his blood pressure was 65/114 mm[Hg]. His heart rate was 76 /min, and respiratory rate was 13 /min.
+
+2. In 2013, he had a height of 140.5 cm, reported pain severity score of 1, and weight of 48.1 kg. BMI was 24.37 kg/m², blood pressure was 70/107 mm[Hg], heart rate was 71 /min, and respiratory rate was 14 /min.
+
+3. Immunizations for influenza were completed in 2013 and 2014.
+
+4. In 2015, Mr. Hyman had a height of 145.7 cm, reported pain severity score of 1, and weight of 56.5 kg. BMI was 26.61 kg/m², blood pressure was 66/104 mm[Hg], heart rate was 89 /min, and respiratory rate was 12 /min. Laboratory tests showed normal leukocytes and erythrocyte counts.
+
+5. In 2016, he experienced a fracture of the forearm.
+
+6. Immunizations for Tdap, influenza, HPV, and meningococcal MCV4P were completed in 2016.
+
+7. In 2017, he had a height of 157.8 cm, reported pain severity score of 1, and weight of 67.2 kg. BMI was 27 kg/m², blood pressure was 70/110 mm[Hg], heart rate was 65 /min, and respiratory rate was 15 /min. His GAD-7 score was 1.
+
+8. Immunizations for influenza and HPV were completed in 2017.
+
+9. In 2018, Mr. Hyman underwent an appendectomy and had a height of 165.7 cm, reported pain severity score of 4, and weight of 79.3 kg. BMI was 28.9 kg/m², blood pressure was 68/116 mm[Hg], heart rate was 81 /min, and respiratory rate was 14 /min. GAD-7 and PHQ scores indicated mild anxiety and depression.
+
+10. Immunizations for influenza and HPV were completed in 2018.
+
+11. In 2019, Mr. Hyman had a height of 169.4 cm, reported pain severity score of 0, and weight of 85 kg. BMI was 29.64 kg/m², blood pressure was 66/118 mm[Hg], heart rate was 93 /min, and respiratory rate was 12 /min. His mental health scores improved.
+
+12. Immunizations for influenza and meningococcal MCV4P were completed in 2019.
+
+13. In 2020, he experienced chronic pain and reported various pain scores.
+
+14. In 2021, he had a height of 177.1 cm, reported pain severity score of 3, and weight of 97.4 kg. BMI was 31.08 kg/m², blood pressure was 65/110 mm[Hg], heart rate was 90 /min, and respiratory rate was 12 /min. Laboratory tests showed elevated leukocyte and platelet counts.
+
+15. Immunizations for influenza were completed in 2021.
+
+16. In 2022, Mr. Hyman had a height of 180.1 cm, reported pain severity score of 1, and weight of 90 kg. BMI was 27.73 kg/m², blood pressure was 64/107 mm[Hg], heart rate was 75 /min, and respiratory rate was 14 /min. His mental health improved.
+
+17. Immunizations for influenza and meningococcal MCV4P were completed in 2022.
+
+18. In 2023, Mr. Hyman continues to experience chronic pain with varying severity.
+
+Recommendations and Course of Action:
+1. Continue to monitor and manage chronic pain and mental health. Consider consulting a pain specialist and psychiatrist for a comprehensive treatment plan.
+
+2. Regularly review medications to assess their effectiveness and adjust as needed.
+
+3. Encourage a healthy lifestyle, including weight management and regular exercise, to address the high BMI.
+
+4. Periodically assess blood pressure and ensure it remains within a healthy range.
+
+5. Stay up-to-date with recommended immunizations and preventive care.
+
+6. Given the chronic low back pain, consider physical therapy and pain management techniques.
+
+7. Continue monitoring and addressing mental health concerns, including anxiety and depression, with therapy or medication as appropriate.
+
+8. Conduct further investigations if chronic pain persists or worsens.
+
+Please schedule a follow-up appointment to discuss these recommendations and to address any new developments in Mr. Hyman's health.

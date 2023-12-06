@@ -1,0 +1,55 @@
+Patient a77d479d-5dfd-98f8-3ba8-4cf38f0c1690, Mr. Jarred Stroman, a 23-year-old male born on November 24, 1999, and residing at 493 Ruecker Arcade Unit 4, Virginia Beach, VA 23457, presents with a complex medical history. 
+
+Medical History:
+1. Viral Sinusitis (2013): Mr. Stroman was diagnosed with viral sinusitis in December 2013.
+
+2. Child Attention Deficit Disorder (2014): He was diagnosed with child attention deficit disorder in February 2014.
+
+3. Streptococcal Sore Throat (2014): In April 2014, he suffered from streptococcal sore throat.
+
+4. Generalized Anxiety Disorder (GAD) (2014): Mr. Stroman was diagnosed with GAD in September 2014.
+
+5. Acute Bronchitis (2014): In September 2014, he also had an episode of acute bronchitis.
+
+6. Generalized Anxiety Disorder (GAD) Recurrence (2014): His GAD persisted, and he had recurrent episodes throughout the year.
+
+7. Chronic Pain and Neck Pain (2017): In 2017, Mr. Stroman developed chronic pain and chronic neck pain. 
+
+8. Housing, Education, Employment, and Stress Factors (2018): Various social determinants, such as housing, higher education, full-time employment, and stress, were noted in his medical history.
+
+9. Pain Severity and Ongoing Pain Management (2018): His pain severity fluctuated over time, and he received ongoing pain management.
+
+10. Improved Mental Health (2019): In 2019, Mr. Stroman showed significant improvement in his mental health, with reduced anxiety and pain.
+
+11. COVID-19 Vaccination (2021): He received two doses of the COVID-19 vaccine in November 2021.
+
+Current Clinical Information:
+As of the latest observation on January 26, 2022, Mr. Stroman's vital signs indicate:
+- Height: 180 cm
+- Weight: 78.8 kg
+- Body Mass Index (BMI): 24.33 kg/m2
+- Blood Pressure: 78/152 mm[Hg]
+- Heart Rate: 79/min
+- Respiratory Rate: 15/min
+- Hemoglobin: 12.909 g/dL
+- White Blood Cell Count: 10.409 10*3/uL
+- Platelet Count: 447.35 10*3/uL
+
+His anxiety levels remain mild, with a GAD-7 score of 2. He also reports some pain, with a pain severity score of 1 on a 0-10 scale. Notably, Mr. Stroman is fully vaccinated against COVID-19.
+
+Course of Action:
+1. Continue monitoring: Given Mr. Stroman's history of generalized anxiety disorder and chronic pain, it is essential to continue monitoring his mental health and pain levels regularly.
+
+2. Pain management: Collaborate with a pain management specialist to address his ongoing pain and consider adjusting his treatment plan as needed.
+
+3. Mental health support: Offer ongoing support for his generalized anxiety disorder, which has shown improvement but still requires monitoring.
+
+4. Lifestyle assessment: Assess the impact of social determinants, including housing, education, and employment, on his overall well-being and provide appropriate resources and guidance.
+
+5. Vaccination: Ensure he receives any necessary booster doses of the COVID-19 vaccine as recommended by current guidelines.
+
+6. Address tobacco smoking status: Continue discussing tobacco smoking status with Mr. Stroman and provide guidance and resources for smoking cessation if needed.
+
+7. Regular check-ups: Schedule regular follow-up appointments to track his progress and adjust treatment plans accordingly.
+
+This summary provides an overview of Mr. Stroman's medical history, current clinical status, and a clear course of action to guide his ongoing care effectively. It is crucial to maintain open communication with the patient and involve specialists as needed to optimize his health outcomes.

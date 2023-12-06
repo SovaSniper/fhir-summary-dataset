@@ -1,0 +1,27 @@
+**Patient Summary: Gottlieb798 Janel230 (DOB: 1997-07-25), Female**
+
+*Medical History:*
+- Initial presentation on 2013-07-14 noted a medication review due situation, with a reported pain severity score of 2/10. Height: 163.8 cm, Weight: 55.5 kg, BMI: 20.71 kg/m².
+- Generalized Anxiety Disorder (GAD-7) diagnosed on 2014-09-12 (score 2). Etonogestrel 68 MG drug implant initiated.
+- Significant life events in 2015, including completing high school equivalency, full-time employment, and reporting intimate partner abuse. GAD-7 score increased to 7.
+- Pregnancy in 2018 marked by normal prenatal visits.
+- Post-pregnancy, on 2019-02-08, noted medication review due, full-time employment, and reports of violence in the environment. GAD-7 score: 3.
+- Subsequent visits documented periodic GAD-7 assessments, AUDIT-C scores, and immunizations.
+
+*Current Presentation (2023-02-08):*
+- Sterilization requested, history of tubal ligation noted.
+- Vital signs: Height 164.1 cm, Weight 69.4 kg, BMI 25.76 kg/m². Blood pressure: 68/126 mm[Hg], Heart rate: 67/min, Respiratory rate: 16/min.
+- GAD-7 score: 3.
+- Immunization completed: Influenza, seasonal, injectable, preservative-free on 2022-09-30.
+
+*Clinical Impression and Recommendations:*
+The patient presents with a complex medical history, including a history of anxiety, intimate partner abuse, pregnancy, and recent sterilization. The GAD-7 scores fluctuate but indicate ongoing anxiety symptoms. It's crucial to address mental health concerns and ensure ongoing support. Given the recent sterilization, discussions regarding family planning and mental health support post-procedure are essential.
+
+*Course of Action:*
+1. Mental Health Assessment: Conduct a thorough mental health evaluation to assess the current state of anxiety and explore appropriate interventions or therapy options.
+2. Follow-Up on Sterilization: Ensure comprehensive counseling post-tubal ligation, addressing potential emotional impacts and confirming understanding of irreversible nature.
+3. Family Planning: Discuss future family planning options considering the patient's mental health, providing resources for informed decisions.
+4. Ongoing Monitoring: Schedule regular follow-ups to monitor mental health, addressing any emerging concerns promptly.
+5. Collaborative Care: Engage with mental health professionals and consider a multidisciplinary approach to holistic patient care.
+
+This summary aims to guide further interactions and facilitate a patient-centered approach to address both physical and mental health aspects effectively.

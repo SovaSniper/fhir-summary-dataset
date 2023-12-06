@@ -1,0 +1,43 @@
+Patient 01dceba3-c6cc-db53-004e-e45397408fef, Ms. Adelle Murphy, a 62-year-old female born on June 2, 1961, and residing at 637 Simonis Key Suite 7, Moss Point, MS 39562, presents with a comprehensive medical history. 
+
+Medical History:
+1. **1975-07-04**: No significant medical condition was noted at this time.
+2. **1978-07-21**: No significant medical condition was noted at this time.
+3. **1979-07-27**: No significant medical condition was noted at this time.
+4. **1980-08-01**: No significant medical condition was noted at this time.
+5. **1998-08-21**: Body mass index (BMI) indicated obesity (30+).
+6. **2001-06-08**: No significant medical condition was noted at this time.
+7. **2004-07-02**: No significant medical condition was noted at this time.
+8. **2007-06-22**: No significant medical condition was noted at this time.
+9. **2012-06-08**: Diagnosed with ischemic heart disease and stress.
+10. **2013-06-14**: Abnormal findings in diagnostic imaging of the heart and coronary circulation.
+11. **2013-06-26**: History of coronary artery bypass grafting.
+12. **2013-06-28**: Chronic pain, including chronic low back and neck pain.
+13. **2014-02-02**: Medication review due; transitioned to part-time employment.
+14. **2014-06-20**: Continued part-time employment, with improvements in pain severity and body mass index.
+15. **2015-06-26**: Maintained part-time employment, with stable health conditions.
+16. **2015-07-24**: Treated for viral sinusitis and acute viral pharyngitis.
+17. **2016-05-08**: Experienced stress and severe anxiety.
+18. **2016-07-01**: Transitioned to full-time employment; anxiety management.
+19. **2017-07-07**: Diagnosed with essential hypertension while unemployed.
+20. **2018-07-13**: Maintained full-time employment, managed anxiety and hypertension.
+21. **2019-07-19**: Medication review due, continued full-time employment, no significant health changes.
+22. **2020-07-24**: Ongoing full-time employment, stable anxiety, and lipid profile.
+23. **2021-01-29**: Received COVID-19 vaccination.
+24. **2021-06-09**: Medication review due, social isolation, stress, and victim of intimate partner abuse noted.
+25. **2021-07-30**: Not in the labor force, experiencing pain severity and anxiety.
+26. **2022-08-05**: Continued not in the labor force, stable health conditions.
+27. **2023-08-11**: Maintained not in the labor force, stable health conditions, and lipid profile.
+
+Advice and Course of Action:
+Ms. Adelle Murphy has a complex medical history, with notable diagnoses of ischemic heart disease, chronic pain, obesity, generalized anxiety disorder, and a history of abuse. It is crucial to address her mental health concerns and ensure she has access to appropriate support services. Given her medical history, the following actions are recommended:
+
+1. Continuation of regular medical check-ups to monitor her physical health, especially her heart disease and obesity.
+2. A comprehensive pain management plan to address her chronic pain, involving consultation with a pain specialist.
+3. Psychological counseling and therapy to manage anxiety and cope with past trauma.
+4. Regular medication reviews to ensure optimal medication management.
+5. Continued monitoring of her lipid profile and blood pressure to manage cardiovascular risk.
+6. Encouraging a healthy lifestyle with a focus on weight management, exercise, and a balanced diet.
+7. Social support and interventions to address her history of abuse and social isolation.
+
+It is essential to provide holistic care for Ms. Murphy, addressing both her physical and mental health needs, and to ensure her safety and well-being in the context of her past trauma. Collaboration with mental health professionals and social services is recommended for her ongoing care.

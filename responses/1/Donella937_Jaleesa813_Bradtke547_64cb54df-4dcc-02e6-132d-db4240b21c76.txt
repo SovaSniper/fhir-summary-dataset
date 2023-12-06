@@ -1,0 +1,52 @@
+Patient Summary for Donella Bradtke
+
+Patient Information:
+- Name: Donella Bradtke
+- Gender: Female
+- Date of Birth: October 21, 1949
+- Address: 1071 Kilback Boulevard Apt 78, Erie CO 80026
+
+Medical History:
+- The patient has a long medical history with several notable findings and diagnoses.
+- In 1967, she was found to have received higher education.
+- In 1972, she was diagnosed with full-time employment.
+- In 1974, the patient underwent tubal ligation.
+- Stress findings were noted in various assessments starting from 1974 and continuing through the years.
+- In 1991, she was diagnosed with essential hypertension.
+- Obesity with a BMI over 30, social isolation, and stress findings were noted in 1995.
+- In 2013, the patient had limited social contact.
+- The patient's stress and anxiety symptoms were consistently observed over the years.
+- A history of intimate partner abuse was documented in 2013.
+
+Recent Health Information:
+- The patient's current height is 169.3 cm, and her weight is 86.3 kg, resulting in a BMI of 30.11 kg/m2.
+- Blood pressure readings have ranged between 64/107 mm[Hg] to 76/116 mm[Hg] in recent assessments.
+- Heart rate averaged around 75-96 beats per minute, and respiratory rate ranged from 12-16 breaths per minute.
+- The patient reported a pain severity score of 0-3 on a 0-10 verbal numeric rating scale.
+- Mental health assessments have shown generalized anxiety disorder symptoms with scores ranging from 0-13.
+- Fall risk assessments using the Morse Fall Scale varied from 11-75.
+- Alcohol Use Disorder Identification Test (AUDIT-C) scores ranged from 0-2.
+- The patient received influenza and pneumococcal vaccinations in 2014, 2016, and 2019, as well as the SARS-COV-2 (COVID-19) vaccine in 2021 and 2022.
+- Other assessments included lipid panels and CBC panels.
+- Viral sinusitis was diagnosed in 2023.
+
+Clinical Recommendations:
+1. Mental Health Support: Given the patient's long history of stress, anxiety, and a history of intimate partner abuse, it is crucial to prioritize her mental well-being. A referral to a mental health specialist for therapy and counseling should be made. Continued monitoring of her anxiety and stress levels is essential.
+
+2. Blood Pressure Management: The patient has a history of essential hypertension. Regular monitoring of blood pressure and appropriate medication management should be maintained to control hypertension and reduce cardiovascular risk.
+
+3. Weight Management: The patient is obese with a BMI over 30. A weight management plan, including dietary counseling and exercise recommendations, should be discussed to improve her overall health.
+
+4. Fall Risk Assessment: The patient has fluctuating fall risk scores. Fall prevention strategies should be implemented, and physical therapy or balance exercises may be beneficial.
+
+5. Medication Review: The patient's medication review is overdue. A comprehensive review of her current medications, their interactions, and potential side effects should be conducted to optimize her medication regimen.
+
+6. Social Support: Given the patient's history of limited social contact, efforts should be made to encourage social engagement and support networks to combat social isolation.
+
+7. Vaccination: The patient should continue to receive recommended vaccinations as per her age and health status.
+
+8. Sinusitis Management: Appropriate treatment and follow-up for the diagnosed viral sinusitis in 2023 should be provided.
+
+9. Domestic Violence Support: Given the history of intimate partner abuse, the patient should be connected with resources for domestic violence support and counseling.
+
+This comprehensive summary outlines Donella Bradtke's medical history, recent health information, and clinical recommendations. The patient's mental health, blood pressure management, weight management, fall risk, medication review, social support, vaccinations, and sinusitis management should be priorities in her ongoing care. Additionally, providing support for her history of intimate partner abuse is crucial.

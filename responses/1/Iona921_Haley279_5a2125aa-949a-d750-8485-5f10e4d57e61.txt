@@ -1,0 +1,119 @@
+Patient ID: 5a2125aa-949a-d750-8485-5f10e4d57e61
+Name: Haley279 Iona921
+Gender: Female
+Date of Birth: March 31, 2019
+Address: 1018 Will Alley Unit 55, Blackwell, OK 74631
+
+**Medical History Summary:**
+
+This comprehensive clinical summary covers the medical history and treatment course of patient Haley279 Iona921, a female born on March 31, 2019. Throughout her development, she has been monitored for various health parameters.
+
+**Summary of Observations:**
+
+1. **March 31, 2019:**
+   - Body Height: 53.1 cm
+   - Pain Severity (0-10): Reported 3
+   - Body Weight: 4.7 kg
+   - Weight-for-length: 87.56%
+   - Head Occipital-frontal Circumference: 35.85 cm
+   - Blood Pressure: 85/121 mm[Hg]
+   - Heart Rate: 93/min
+   - Respiratory Rate: 12/min
+   - Leukocytes in Blood: 9.45 10*3/uL
+   - Erythrocytes in Blood: 4.75 10*6/uL
+   - Hemoglobin in Blood: 12.85 g/dL
+   - Diagnosis: CBC panel - Blood by Automated count
+
+2. **May 5, 2019:**
+   - Body Height: 56.7 cm
+   - Pain Severity (0-10): Reported 3
+   - Body Weight: 5.7 kg
+   - Weight-for-length: 83.39%
+   - Head Occipital-frontal Circumference: 38.98 cm
+   - Blood Pressure: 81/119 mm[Hg]
+   - Heart Rate: 97/min
+   - Respiratory Rate: 13/min
+   - Diagnosis: History and physical note
+
+3. **July 7, 2019:**
+   - Body Height: 61.9 cm
+   - Pain Severity (0-10): Reported 3
+   - Body Weight: 7.3 kg
+   - Weight-for-length: 89.59%
+   - Head Occipital-frontal Circumference: 41.39 cm
+   - Blood Pressure: 88/118 mm[Hg]
+   - Heart Rate: 93/min
+   - Respiratory Rate: 15/min
+   - Immunizations Completed: Hep B, adolescent or pediatric; Hib (PRP-OMP); Rotavirus, monovalent; IPV; DTaP; Pneumococcal conjugate PCV 13
+   - Diagnosis: Viral sinusitis
+
+4. **September 8, 2019:**
+   - Body Height: 65.9 cm
+   - Pain Severity (0-10): Reported 2
+   - Body Weight: 8.6 kg
+   - Weight-for-length: 92.95%
+   - Head Occipital-frontal Circumference: 42.97 cm
+   - Blood Pressure: 90/123 mm[Hg]
+   - Heart Rate: 84/min
+   - Respiratory Rate: 14/min
+   - Immunizations Completed: Hib (PRP-OMP); Rotavirus, monovalent; IPV; DTaP; Pneumococcal conjugate PCV 13
+   - Diagnosis: Medication review due
+
+5. **December 8, 2019:**
+   - Body Height: 70.8 cm
+   - Pain Severity (0-10): Reported 4
+   - Body Weight: 10.2 kg
+   - Weight-for-length: 95.91%
+   - Head Occipital-frontal Circumference: 44.6 cm
+   - Blood Pressure: 82/119 mm[Hg]
+   - Heart Rate: 89/min
+   - Respiratory Rate: 15/min
+   - Immunizations Completed: IPV; Influenza, seasonal, injectable, preservative-free; DTaP; Pneumococcal conjugate PCV 13; Hep B, adolescent or pediatric
+   - Diagnosis: Medication review due
+
+6. **March 8, 2020:**
+   - Body Height: 78.4 cm
+   - Pain Severity (0-10): Reported 1
+   - Body Weight: 12.5 kg
+   - Weight-for-length: 98.74%
+   - Head Occipital-frontal Circumference: 46.62 cm
+   - Blood Pressure: 90/135 mm[Hg]
+   - Heart Rate: 79/min
+   - Respiratory Rate: 14/min
+   - Immunizations Completed: Hib (PRP-OMP); Varicella; MMR; Pneumococcal conjugate PCV 13; Hep A, ped/adol, 2 dose
+   - Diagnosis: Medication review due
+
+7. **June 7, 2020:**
+   - Body Height: 81.7 cm
+   - Pain Severity (0-10): Reported 1
+   - Body Weight: 13.4 kg
+   - Weight-for-length: 98.51%
+   - Head Occipital-frontal Circumference: 47.31 cm
+   - Blood Pressure: 83/121 mm[Hg]
+   - Heart Rate: 74/min
+   - Respiratory Rate: 14/min
+   - Immunizations Completed: DTaP
+   - Diagnosis: Medication review due
+
+8. **September 6, 2020:**
+   - Condition: Otitis media
+   - Body Height: 87.4 cm
+   - Pain Severity (0-10): Reported 0
+   - Body Weight: 14.9 kg
+   - Weight-for-length: 98.91%
+   - Head Occipital-frontal Circumference: 48.33 cm
+   - Blood Pressure: 87/122 mm[Hg]
+   - Heart Rate: 79/min
+   - Respiratory Rate: 12/min
+   - Immunizations Completed: Influenza, seasonal, injectable, preservative-free
+
+9. **March 7, 2021:**
+   - Body Height: 91.8 cm
+   - Pain Severity (0-10): Reported 4
+   - Body Weight: 15.9 kg
+   - Weight-for-length: 97.30%
+   - Head Occipital-frontal Circumference: 49.07 cm
+   - Blood Pressure: 85/125 mm[Hg]
+   - Heart Rate: 94/min
+   - Respiratory Rate: 15/min
+   - Immunizations Completed: Hep A, ped/adol, 2 dose; Influenza, seasonal

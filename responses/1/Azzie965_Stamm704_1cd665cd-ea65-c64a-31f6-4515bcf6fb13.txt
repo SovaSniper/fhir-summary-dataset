@@ -1,0 +1,130 @@
+Patient 1cd665cd-ea65-c64a-31f6-4515bcf6fb13, a female born on October 20, 2019, resides at 897 Brown Heights Apt 37, Boston, MA 02210. The patient's medical history reveals a series of observations and medical events:
+
+1. **October 20, 2019:**
+   - Body Height: 49.4 cm
+   - Pain Severity (0-10 verbal numeric rating): Reported as 1
+   - Body Weight: 3.2 kg
+   - Weight-for-Length: 43.281%
+   - Head Occipital-frontal Circumference: 33.31 cm
+   - Blood Pressure: 69/98 mm[Hg]
+   - Heart Rate: 83/min
+   - Respiratory Rate: 13/min
+   - Tobacco Smoking Status: Not a smoker
+   - Completed Hep B vaccination.
+
+2. **November 24, 2019:**
+   - Body Height: 53 cm
+   - Pain Severity (0-10 verbal numeric rating): Reported as 3
+   - Body Weight: 3.9 kg
+   - Weight-for-Length: 21.188%
+   - Head Occipital-frontal Circumference: 36.72 cm
+   - Blood Pressure: 73/85 mm[Hg]
+   - Heart Rate: 63/min
+   - Respiratory Rate: 13/min
+   - Completed Hep B vaccination.
+
+3. **January 26, 2020:**
+   - Body Height: 58 cm
+   - Pain Severity (0-10 verbal numeric rating): Reported as 3
+   - Body Weight: 5.1 kg
+   - Weight-for-Length: 22.579%
+   - Head Occipital-frontal Circumference: 39.3 cm
+   - Blood Pressure: 67/86 mm[Hg]
+   - Heart Rate: 94/min
+   - Respiratory Rate: 16/min
+   - Completed Hib, rotavirus, IPV, DTaP, and PCV 13 vaccinations.
+
+4. **March 29, 2020:**
+   - Body Height: 61.9 cm
+   - Pain Severity (0-10 verbal numeric rating): Reported as 0
+   - Body Weight: 6.1 kg
+   - Weight-for-Length: 25.754%
+   - Head Occipital-frontal Circumference: 40.95 cm
+   - Blood Pressure: 65/99 mm[Hg]
+   - Heart Rate: 86/min
+   - Respiratory Rate: 13/min
+   - Completed Hib, rotavirus, IPV, DTaP, and PCV 13 vaccinations.
+
+5. **June 28, 2020:**
+   - Body Height: 66.5 cm
+   - Pain Severity (0-10 verbal numeric rating): Reported as 0
+   - Body Weight: 7.4 kg
+   - Weight-for-Length: 32.896%
+   - Head Occipital-frontal Circumference: 42.61 cm
+   - Blood Pressure: 68/90 mm[Hg]
+   - Heart Rate: 71/min
+   - Respiratory Rate: 13/min
+   - Completed IPV, Influenza, DTaP, PCV 13, and Hep B vaccinations.
+   - Suspected COVID-19 (Condition).
+
+6. **September 27, 2020:**
+   - Presented with symptoms of cough, sore throat, fatigue, fever, and loss of taste, and diagnosed with COVID-19.
+   - Body Temperature: 39.681°C
+   - Respiratory Rate: 18.758/min
+   - Heart Rate: 142.85/min
+   - Oxygen Saturation in Arterial Blood: 81.31%
+   - Blood Pressure: 67/99 mm[Hg]
+   - Completed respiratory pathogen testing.
+   
+7. **October 18, 2020:**
+   - Body Height: 73.6 cm
+   - Pain Severity (0-10 verbal numeric rating): Reported as 1
+   - Body Weight: 9.1 kg
+   - Weight-for-Length: 37.755%
+   - Head Occipital-frontal Circumference: 44.58 cm
+   - Blood Pressure: 71/93 mm[Hg]
+   - Heart Rate: 63/min
+   - Respiratory Rate: 14/min
+   - Completed Hib, varicella, MMR, PCV 13, and Hep A vaccinations.
+
+8. **December 27, 2020:**
+   - Body Height: 76.6 cm
+   - Pain Severity (0-10 verbal numeric rating): Reported as 1
+   - Body Weight: 9.7 kg
+   - Weight-for-Length: 34.405%
+   - Head Occipital-frontal Circumference: 45.22 cm
+   - Blood Pressure: 72/76 mm[Hg]
+   - Heart Rate: 82/min
+   - Respiratory Rate: 13/min
+   - Completed DTaP vaccination.
+
+9. **March 28, 2021:**
+   - Body Height: 81.9 cm
+   - Pain Severity (0-10 verbal numeric rating): Reported as 3
+   - Body Weight: 10.7 kg
+   - Weight-for-Length: 30.556%
+   - Head Occipital-frontal Circumference: 46.14 cm
+   - Blood Pressure: 72/89 mm[Hg]
+   - Heart Rate: 93/min
+   - Respiratory Rate: 12/min
+   - Completed Influenza vaccination.
+
+10. **September 26, 2021:**
+    - Body Height: 85.9 cm
+    - Pain Severity (0-10 verbal numeric rating): Reported as 4
+    - Body Weight: 11.9 kg
+    - Weight-for-Length: 44.997%
+    - Head Occipital-frontal Circumference: 46.75 cm
+    - Blood Pressure: 72/98 mm[Hg]
+    - Heart Rate: 75/min
+    - Respiratory Rate: 13/min
+    - Completed Hep A vaccination.
+
+11. **March 27, 2022:**
+    - Body Height: 89.8 cm
+    - Pain Severity (0-10 verbal numeric rating): Reported as 2
+    - Body Weight: 13.2 kg
+    - Weight-for-Length: 60.846%
+    - Head Occipital-frontal Circumference: 47.17 cm
+    - Blood Pressure: 71/97 mm[Hg]
+    - Heart Rate: 81/min
+    - Respiratory Rate: 15/min
+    - Completed Influenza vaccination.
+
+12. **September 25, 2022:**
+    - Body Height: 93 cm
+    - Pain Severity (0-10 verbal numeric rating): Reported as 2
+    - Body Weight: 14 kg
+    - Weight-for-Length: 67.727%
+    - Head Occipital-frontal Circumference: 47.2 cm
+    - Blood Pressure: 66/97 mm

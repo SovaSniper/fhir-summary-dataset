@@ -1,0 +1,27 @@
+Patient Information:
+- Patient ID: b6be114f-be66-3391-3729-a964e1dab2d3
+- Name: Klocko335, Candice681
+- Gender: Female
+- Date of Birth: January 20, 2012
+- Address: 1025 O'Reilly Port Unit 86, Birmingham, AL 35023
+
+Summary:
+Candice681, a female born on January 20, 2012, has a comprehensive medical history. Her growth and development have been closely monitored throughout the years. At her initial observation, her body height was 87.7 cm, and her weight was 13.1 kg. She maintained appropriate weight-for-length and percentiles. Various vaccinations were administered over the years, including influenza, hepatitis A, DTaP, MMR, and varicella.
+
+In 2014, she was diagnosed with viral sinusitis and was observed to have a head occipital-frontal circumference percentile of 77.24%. Her vital signs, including blood pressure, heart rate, and respiratory rate, remained within normal ranges.
+
+In 2016, she was diagnosed with acute viral pharyngitis. Her immunization status was up-to-date, and she had consistently maintained her growth parameters, blood pressure, and other vital signs.
+
+Throughout the years, she had occasional pain, usually scoring between 1 and 4 on the verbal numeric rating scale. Her BMI percentiles remained relatively stable, with the latest measurement in 2022 showing a percentile of 18.026%.
+
+Candice681's most recent visit in 2023 showed an improvement in her pain severity, now reported as 1 on the numeric rating scale. She received vaccinations for Tdap, HPV, and meningococcal MCV4P. Her CBC panel indicated normal values, and her vital signs remained within acceptable ranges. She continues to grow and develop appropriately, with a height of 149.2 cm and a weight of 34.6 kg.
+
+Recommendations:
+1. Continue regular growth and development monitoring, including height, weight, BMI, and head circumference.
+2. Maintain up-to-date vaccinations as per the recommended schedule for her age.
+3. Continue assessing and managing pain as needed.
+4. Monitor blood pressure, heart rate, and respiratory rate during routine check-ups.
+5. Periodic medication reviews should be conducted as indicated by the patient's history.
+6. Encourage a healthy lifestyle and nutrition to support her growth and development.
+
+It's important to address any concerns or changes in her health promptly, and further evaluation or treatment may be necessary if any issues arise. Regular follow-up visits with her healthcare provider are essential to ensure her continued well-being.

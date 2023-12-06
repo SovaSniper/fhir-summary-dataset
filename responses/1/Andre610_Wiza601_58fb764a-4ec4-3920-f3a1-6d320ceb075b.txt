@@ -1,0 +1,35 @@
+Patient Summary for Wiza601 Andre610 (DOB: 1980-02-20)
+
+Patient Information:
+- Name: Wiza601 Andre610
+- Gender: Female
+- Date of Birth: February 20, 1980
+- Address: 705 Reinger Trace, Festus, MO 63048
+
+Medical History:
+
+This comprehensive patient summary provides a detailed overview of Wiza601 Andre610's medical history, including diagnoses, treatments, and relevant clinical information.
+
+Diagnoses:
+1. **Miscarriage in First Trimester (1999):** Patient experienced a miscarriage in the first trimester.
+2. **Anemia (2005):** Patient was diagnosed with anemia.
+3. **Sepsis and Septic Shock (2002):** The patient suffered from sepsis and septic shock in 2002.
+4. **Alcoholism and Daily Tobacco Smoking (2005):** The patient has a history of alcoholism and smokes tobacco daily.
+5. **Normal Pregnancy (2008):** The patient had a normal pregnancy in 2008.
+6. **Prediabetes (1999) and Prediabetes (2020):** The patient was diagnosed with prediabetes in 1999 and again in 2020.
+7. **Obesity (2017 and 2022):** The patient's BMI indicated obesity in both 2017 and 2022.
+8. **Acute Bronchitis (2019):** The patient was diagnosed with acute bronchitis in 2019.
+9. **Generalized Anxiety Disorder (GAD-7 Scores):** The patient had GAD-7 scores of 2 in 2014, 3 in 2019, and 3 in 2022.
+
+Clinical Information:
+
+1. **Medication Review Due:** The patient's medication review is due, and this should be prioritized.
+2. **Served in Armed Forces:** The patient has a history of serving in the armed forces.
+3. **Received Certificate of High School Equivalency:** The patient achieved a high school equivalency certificate.
+4. **Unemployed:** The patient has a history of unemployment.
+5. **Stress:** The patient reported stress as a finding.
+6. **Limited Social Contact:** The patient has limited social contact.
+7. **Reports of Violence in the Environment:** There are reports of violence in the patient's environment.
+8. **Full-Time Employment (2019):** The patient transitioned to full-time employment in 2019.
+9. **Part-Time Employment (2017):** The patient had a period of part-time employment in 2017.
+10.

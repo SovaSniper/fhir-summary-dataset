@@ -1,0 +1,33 @@
+Patient Summary for Darius626 Mraz590
+
+Patient Information:
+- Name: Darius626 Mraz590
+- Gender: Male
+- Date of Birth: November 21, 2008
+- Address: 800 O'Keefe Branch Suite 83, Athol MA 01331
+
+Medical History:
+Darius626 Mraz590 is a male patient born in 2008. His medical history includes regular immunizations, occasional respiratory and viral infections, a history of a bone fracture, and diagnoses of acute viral pharyngitis, viral sinusitis, and generalized anxiety disorder. Over the years, his height and weight have shown steady growth, and his BMI percentile has ranged from 36.861% to 87.09%, indicating variations within a healthy range. He has a history of experiencing mild to moderate pain, typically rated between 0 and 4 on the 0-10 verbal numeric rating scale. Darius626 has also reported symptoms related to generalized anxiety disorder, with a GAD-7 score fluctuating between 0 and 8.
+
+Treatment Course:
+- Immunizations: Darius626 has received regular immunizations, including varicella, IPV, seasonal influenza, DTaP, MMR, Tdap, HPV, meningococcal MCV4P, and two doses of SARS-COV-2 (COVID-19) vaccine.
+- Infections: He has had episodes of acute viral pharyngitis, viral sinusitis, and acute bronchitis, for which he received appropriate treatment and recovered.
+- Fracture: In the past, Darius626 experienced a fracture of the clavicle.
+- Anxiety: He has been diagnosed with generalized anxiety disorder and has reported varying levels of anxiety symptoms.
+
+Clinical Information:
+- Vital Signs: Darius626's vital signs, including blood pressure, heart rate, and respiratory rate, have generally been within normal ranges for his age.
+- Blood Tests: Blood tests have shown normal values for leukocytes, erythrocytes, hemoglobin, hematocrit, MCV, MCH, MCHC, platelets, and other parameters.
+
+Current Status:
+As of the most recent visit in May 2023, Darius626's height is 161 cm, and he weighs 47.1 kg, with a BMI percentile of 29.286%. His blood pressure, heart rate, and respiratory rate remain within normal ranges. He has reported minimal pain (score 1) and mild anxiety symptoms (GAD-7 score 0). He has received the latest influenza vaccine.
+
+Recommendations and Course of Action:
+1. Continue regular immunizations and ensure age-appropriate vaccinations.
+2. Monitor Darius626's growth and BMI percentile to ensure he stays within a healthy range.
+3. Address anxiety symptoms and provide appropriate counseling or treatment as needed.
+4. Continue to manage any acute infections promptly.
+5. Encourage a healthy lifestyle, including a balanced diet and regular exercise.
+6. Provide ongoing mental health support and monitor the response to treatment.
+
+Overall, Darius626 Mraz590 appears to be in relatively good health, but it is essential to continue monitoring his physical and mental well-being, given his history of anxiety and occasional infections. Regular follow-up appointments and communication with his healthcare provider are recommended to address any evolving healthcare needs.

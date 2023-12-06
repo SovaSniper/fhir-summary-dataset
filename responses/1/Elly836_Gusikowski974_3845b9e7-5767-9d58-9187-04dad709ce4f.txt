@@ -1,0 +1,84 @@
+Patient 3845b9e7-5767-9d58-9187-04dad709ce4f, also known as Elly836, is a female born on June 15, 2020, residing at 1027 Krajcik Rest Apt 71, Greenville, DE 19807. Her medical history and treatment course are summarized as follows:
+
+1. **Initial Assessment (June 15, 2020):**
+   - Body Height: 52 cm
+   - Body Weight: 3.6 kg
+   - Pain Severity: Reported 1/10
+   - Head Occipital-frontal Circumference: 35.01 cm
+   - Blood Pressure: 88/122 mm[Hg]
+   - Heart Rate: 61/min
+   - Respiratory Rate: 13/min
+   - Immunization: Completed Hep B, adolescent or pediatric
+
+2. **Follow-up 1 (July 20, 2020):**
+   - Body Height: 55.6 cm
+   - Body Weight: 4.3 kg
+   - Pain Severity: Reported 1/10
+   - Head Occipital-frontal Circumference: 38.24 cm
+   - Blood Pressure: 90/117 mm[Hg]
+   - Heart Rate: 84/min
+   - Respiratory Rate: 14/min
+   - Immunization: Completed Hib (PRP-OMP), rotavirus, monovalent, IPV, DTaP, Pneumococcal conjugate PCV 13
+
+3. **Follow-up 2 (September 21, 2020):**
+   - Body Height: 60.8 cm
+   - Body Weight: 5.6 kg
+   - Pain Severity: Reported 3/10
+   - Head Occipital-frontal Circumference: 40.71 cm
+   - Blood Pressure: 87/119 mm[Hg]
+   - Heart Rate: 97/min
+   - Respiratory Rate: 14/min
+   - Immunization: Completed Hib (PRP-OMP), rotavirus, monovalent, IPV, DTaP, Pneumococcal conjugate PCV 13
+
+4. **Follow-up 3 (November 23, 2020):**
+   - Body Height: 64.7 cm
+   - Body Weight: 6.7 kg
+   - Pain Severity: Reported 4/10
+   - Head Occipital-frontal Circumference: 42.32 cm
+   - Blood Pressure: 88/105 mm[Hg]
+   - Heart Rate: 69/min
+   - Respiratory Rate: 16/min
+   - Immunization: Completed Hib (PRP-OMP), rotavirus, monovalent, IPV, DTaP, Pneumococcal conjugate PCV 13
+
+5. **Follow-up 4 (November 30, 2020):**
+   - Diagnosis: Streptococcal sore throat
+   - Body Temperature: 38.624°C
+
+6. **Follow-up 5 (December 7, 2020):**
+   - Body Height: 66.4 cm
+   - Body Weight: 7.2 kg
+   - Pain Severity: Reported 4/10
+   - Head Occipital-frontal Circumference: 42.94 cm
+   - Blood Pressure: 88/113 mm[Hg]
+   - Heart Rate: 64/min
+   - Respiratory Rate: 14/min
+   - Immunization: Completed IPV, Influenza, seasonal, injectable, preservative-free, DTaP, Pneumococcal conjugate PCV 13, Hep B, adolescent or pediatric
+
+7. **Follow-up 6 (December 28, 2020):**
+   - Diagnosis: Viral sinusitis
+   - Pain Severity: Reported 1/10
+   - Body Weight: 8 kg
+   - Head Occipital-frontal Circumference: 43.96 cm
+   - Blood Pressure: 84/111 mm[Hg]
+   - Heart Rate: 82/min
+   - Respiratory Rate: 13/min
+
+8. **Follow-up 7 (February 22, 2021):**
+   - Body Height: 73.5 cm
+   - Body Weight: 9 kg
+   - Pain Severity: Reported 3/10
+   - Head Occipital-frontal Circumference: 45.11 cm
+   - Blood Pressure: 89/110 mm[Hg]
+   - Heart Rate: 61/min
+   - Respiratory Rate: 14/min
+   - Immunization: Completed Hib (PRP-OMP), varicella, MMR, Pneumococcal conjugate PCV 13, Hep A, ped/adol, 2 dose
+
+9. **Follow-up 8 (May 24, 2021):**
+   - Body Height: 77.1 cm
+   - Body Weight: 9.8 kg
+   - Pain Severity: Reported 2/10
+   - Head Occipital-frontal Circumference: 45.98 cm
+   - Blood Pressure: 86/106 mm[Hg]
+   - Heart Rate: 84/min
+   - Respiratory Rate: 16/min
+   - Immunization: Completed Hib (PRP-OMP), varicella, MMR, Pneumoc

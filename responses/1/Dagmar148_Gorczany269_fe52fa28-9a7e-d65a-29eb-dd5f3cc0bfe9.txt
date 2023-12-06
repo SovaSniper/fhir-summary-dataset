@@ -1,0 +1,32 @@
+Patient fe52fa28-9a7e-d65a-29eb-dd5f3cc0bfe9, also known as Dagmar148, is a female born on May 22, 2011, residing at 357 Skiles Avenue, Houma, LA 70364. Her medical history and treatment course are summarized as follows:
+
+**Medical History:**
+- In 2013, the patient was diagnosed with Otitis media.
+- The patient has had regular medication reviews due to her medical situation.
+- She has had a history of seasonal influenza immunizations, with the latest dose in 2022.
+- The patient also received immunizations for Hepatitis A, varicella, IPV, DTaP, MMR, and meningococcal MCV4P.
+- In 2015, she experienced an injury to her knee and a rupture of the patellar tendon, which may require ongoing monitoring and treatment.
+- In 2018, the patient was diagnosed with acute bronchitis.
+- The patient had episodes of acute viral pharyngitis in 2019 and viral sinusitis in 2019.
+- In 2021, she was diagnosed with acute bronchitis again.
+- The patient has a history of generalized anxiety disorder, as indicated by the GAD-7 and PHQ-9 scores.
+
+**Current Clinical Information:**
+- The patient's current height is 156.4 cm, and her weight is 36.6 kg, with a BMI of 14.95 kg/m², percentile 5.8912%.
+- Blood pressure measurements have been within the normal range, with the latest reading at 68 mm[Hg] / 113 mm[Hg].
+- The patient has been fully vaccinated for HPV, influenza, meningococcal MCV4P, and received the SARS-COV-2 (COVID-19) vaccine.
+- The most recent pain severity score reported is 2 out of 10.
+- Heart rate is stable at 85 /min, and respiratory rate is 13 /min.
+- Laboratory values, including leukocytes, erythrocytes, hemoglobin, hematocrit, MCV, MCH, MCHC, platelets, and platelet distribution, are within normal ranges.
+
+**Course of Action:**
+1. Continue monitoring and managing the patient's generalized anxiety disorder, ensuring emotional well-being and providing necessary support.
+2. Maintain a regular schedule of pediatric check-ups and immunizations to ensure she remains up-to-date with her vaccinations and to address any potential health concerns.
+3. Given the history of knee injury and patellar tendon rupture, consider a referral to an orthopedic specialist for further evaluation and potential rehabilitation or surgical intervention.
+4. Continue to manage and monitor any respiratory conditions, such as bronchitis, to ensure optimal lung health.
+5. Encourage a healthy lifestyle, including a balanced diet and regular physical activity, to support her growth and development.
+6. Educate the patient and her family on maintaining good hygiene practices and preventing viral infections.
+7. Conduct periodic follow-up assessments to track her growth, vital signs, and overall health status.
+8. Discuss any new treatments or medications if necessary, and ensure medication reviews are performed regularly as needed.
+
+This summary provides a comprehensive overview of the patient's medical history, current clinical information, and a clear course of action for ongoing care and management. It is essential to maintain open communication with the patient and her family to address any questions or concerns and ensure her continued well-being.

@@ -1,0 +1,47 @@
+Patient Summary for Keneth579 (Patient ID: 4ffd91fc-c926-d01a-c17f-3cf838193158)
+
+Patient Information:
+- Name: Keneth579
+- Gender: Male
+- Date of Birth: July 10, 2011
+- Address: 530 Runolfsson Gardens, Montgomery, IN 47558
+
+Medical History:
+Keneth579 has a comprehensive medical history spanning from birth to the present day. Notable observations include height, weight, BMI, pain severity, and vital signs. Over the years, Keneth579 has received various immunizations according to the recommended schedule.
+
+Diagnosis History:
+1. July 10, 2011: Initial history and physical note recorded.
+2. August 14, 2011: Follow-up history and physical note.
+3. October 16, 2011: Continued medical evaluation.
+4. June 17, 2012: Regular check-up.
+5. September 16, 2012: Routine monitoring.
+6. December 9, 2012: Routine assessment.
+7. December 16, 2012: Observation noted height, weight, BMI, and blood pressure.
+8. December 15, 2013: Pain severity reported as 3 on a 0-10 scale.
+9. June 15, 2014: Height, weight, and BMI recorded; immunization completed.
+10. December 14, 2014: Pain severity reported as 2.
+11. June 14, 2015: Growth measurements and immunization completed.
+12. June 19, 2016: Updated measurements, immunizations, and blood parameters.
+13. June 25, 2017: Regular examination, height, and weight recorded.
+14. July 1, 2018: Diagnosis of viral sinusitis.
+15. March 5, 2019: Growth measurements and vital signs noted.
+16. July 7, 2019: Height, weight, and vital signs reported.
+17. July 12, 2020: Pain severity reported as 4; growth measurements.
+18. July 18, 2021: Growth measurements, vital signs, and blood parameters.
+19. July 24, 2022: Updated CBC panel, height, weight, and vital signs.
+20. July 23, 2023: Height, weight, vital signs, and psychological assessments reported.
+
+Current Status:
+Keneth579's current height is 150.4 cm, weight is 36.3 kg, and BMI is 16.02 kg/m2. Blood pressure is 93/133 mm[Hg], heart rate is 93/min, and respiratory rate is 12/min. Pain severity is reported as 0. Psychological assessments indicate generalized anxiety disorder (GAD-7 score: 2) and mild depression (PHQ-9 Teen score: 2).
+
+Immunizations:
+Keneth579 has received age-appropriate immunizations, including those for influenza, HPV, meningococcal, DTaP, MMR, IPV, Hep A, varicella, and COVID-19.
+
+Clinical Recommendations:
+1. Continue routine follow-up appointments to monitor growth and development.
+2. Address the generalized anxiety disorder and mild depression with appropriate counseling or therapy.
+3. Consider a pain management plan for reported pain episodes.
+4. Maintain up-to-date immunizations as per recommended schedules.
+5. Regularly assess and manage blood pressure and other vital signs.
+
+This summary provides an overview of Keneth579's medical history and current status, serving as a basis for ongoing care and treatment decisions. Please consult with the patient for a more detailed assessment and tailored treatment plan.

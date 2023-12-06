@@ -1,0 +1,93 @@
+Patient ID: bc25cde0-d647-d13d-0e70-4e59010a2cde
+Name: Dare640 Genia944
+Gender: Female
+Date of Birth: August 26, 2017
+Address: 609 Schuppe Glen Apt 84, Sunrise Manor, NV 00000
+
+Clinical Summary:
+
+This comprehensive clinical summary outlines the medical history, treatment course, and relevant clinical information for Patient Dare640 Genia944, a female born on August 26, 2017. The patient's condition and vital statistics have been monitored at various time points:
+
+- **Initial Assessment (2017-08-26):**
+  - Height: 55.3 cm
+  - Weight: 4.2 kg
+  - Pain Severity: Reported 2/10
+  - Blood Pressure: 80/130 mm[Hg]
+  - Heart Rate: 96/min
+  - Respiratory Rate: 13/min
+  - Tobacco Smoking Status: Non-smoker
+  - Immunizations: Completed Hepatitis B (2017-08-26)
+
+- **Follow-up (2017-09-30):**
+  - Height: 58.8 cm
+  - Weight: 5 kg
+  - Pain Severity: Reported 0/10
+  - Blood Pressure: 82/130 mm[Hg]
+  - Heart Rate: 80/min
+  - Respiratory Rate: 14/min
+  - Immunizations: Completed Hepatitis B
+
+- **Follow-up (2017-12-02):**
+  - Height: 63.9 cm
+  - Weight: 6.4 kg
+  - Pain Severity: Reported 0/10
+  - Blood Pressure: 88/141 mm[Hg]
+  - Heart Rate: 63/min
+  - Respiratory Rate: 12/min
+  - Immunizations: Completed Hib, Rotavirus, IPV, DTaP, Pneumococcal PCV 13
+
+- **Otitis Media Diagnosis (2018-04-23):**
+  - Height: 73 cm
+  - Weight: 9 kg
+  - Pain Severity: Reported 1/10
+  - Blood Pressure: 87/128 mm[Hg]
+  - Heart Rate: 69/min
+  - Respiratory Rate: 12/min
+  - Immunizations: Completed IPV, Influenza, DTaP, Pneumococcal PCV 13, Hepatitis B
+
+- **Follow-up (2018-05-05):**
+  - Height: 77.2 cm
+  - Weight: 10.1 kg
+  - Pain Severity: Reported 1/10
+  - Blood Pressure: 82/131 mm[Hg]
+  - Heart Rate: 99/min
+  - Respiratory Rate: 14/min
+
+- **Follow-up (2018-08-04):**
+  - Height: 80.9 cm
+  - Weight: 11 kg
+  - Pain Severity: Reported 3/10
+  - Blood Pressure: 86/140 mm[Hg]
+  - Heart Rate: 66/min
+  - Respiratory Rate: 14/min
+  - Immunizations: Completed Hib, Varicella, MMR, Pneumococcal PCV 13, Hepatitis A
+
+- **Follow-up (2018-11-03):**
+  - Height: 84.2 cm
+  - Weight: 11.8 kg
+  - Pain Severity: Reported 1/10
+  - Blood Pressure: 83/136 mm[Hg]
+  - Heart Rate: 64/min
+  - Respiratory Rate: 13/min
+  - Immunizations: Completed DTaP
+
+- **Follow-up (2019-02-02):**
+  - Height: 90.2 cm
+  - Weight: 13 kg
+  - Pain Severity: Reported 3/10
+  - Blood Pressure: 83/132 mm[Hg]
+  - Heart Rate: 96/min
+  - Respiratory Rate: 13/min
+  - Immunizations: Completed Influenza, DTaP
+
+- **Follow-up (2019-08-03):**
+  - Height: 94.9 cm
+  - Weight: 14.1 kg
+  - Pain Severity: Reported 2/10
+  - Blood Pressure: 80/137 mm[Hg]
+  - Heart Rate: 77/min
+  - Respiratory Rate: 16/min
+  - Immunizations: Completed Hepatitis A, Influenza
+
+- **Follow-up (2020-02-01):**
+  - Height: 99.2 cm

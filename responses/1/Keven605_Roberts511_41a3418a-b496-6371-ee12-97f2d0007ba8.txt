@@ -1,0 +1,31 @@
+Patient 41a3418a-b496-6371-ee12-97f2d0007ba8, a 23-year-old male residing at 995 Hodkiewicz Lane, Denver, CO 80207, presents a detailed medical history for review and ongoing care.
+
+Medical History:
+1. The patient's medical history includes a diagnosis of Viral Sinusitis in August 2014, with subsequent medication reviews due.
+2. In August 2015, the patient had a follow-up visit, reporting an increase in pain severity and a slight decrease in body weight. The Patient Health Questionnaire-9 (PHQ-9) for Teens reported a score of 3.
+3. In August 2016, the patient's height, weight, and BMI remained relatively stable, but blood pressure increased slightly. The PHQ-9 for Teens reported a score of 1, indicating a mild level of depressive symptoms. Immunizations against influenza and meningococcal disease were administered.
+4. In August 2017, the patient reported generalized anxiety disorder, with a GAD-7 score of 1. Height, weight, and BMI remained stable. Immunization against influenza was completed.
+5. In August 2018, the patient continued to report symptoms of generalized anxiety disorder, with a GAD-7 score of 3. Height and weight increased slightly. The Alcohol Use Disorder Identification Test (AUDIT-C) reported a score of 4, indicating potential alcohol-related concerns.
+6. In August 2019, the patient reported acute bronchitis, with a decrease in blood pressure and a decrease in pain severity. GAD-7 score was 3, and AUDIT-C score remained at 4.
+7. In November 2019, the patient reported limited social contact, with a GAD-7 score of 3. PHQ-2 score was 2, indicating some depressive symptoms. AUDIT-C score decreased to 0.
+8. In January and February 2021, the patient received SARS-COV-2 (COVID-19) vaccinations.
+9. In September 2022, the patient reported an increase in leukocytes, a decrease in hemoglobin, and an increase in platelet parameters. The HARK score was 0, while the DAST-10 score was 2, suggesting possible drug abuse concerns. Immunizations against influenza, tetanus, hepatitis B, and meningococcal disease were administered.
+
+Current Clinical Status:
+The patient's current vital signs include a height of 191.4 cm, weight of 78.7 kg, a BMI of 21.48 kg/m2, blood pressure of 95/141 mm[Hg], heart rate of 92/min, and respiratory rate of 15/min. Laboratory findings indicate abnormalities in blood parameters, including leukocytes, hemoglobin, and platelets.
+
+Clinical Advice:
+1. Given the patient's fluctuating mental health concerns, including generalized anxiety disorder, it is advisable to refer the patient to a mental health professional for further evaluation and management.
+2. The patient should be screened for potential substance abuse issues, and appropriate interventions or referrals should be made if necessary.
+3. The abnormalities in blood parameters should be further evaluated to rule out any underlying medical conditions. A hematologist or internist may be consulted.
+4. Continue to monitor the patient's overall health, and consider preventive measures such as regular immunizations and health education regarding healthy lifestyle choices.
+5. Encourage the patient to maintain a healthy weight and monitor blood pressure regularly.
+
+Course of Action:
+1. Schedule a follow-up appointment with a mental health specialist to assess and manage the patient's anxiety and depressive symptoms.
+2. Arrange for a comprehensive substance abuse assessment if indicated by further clinical evaluation.
+3. Refer the patient to a hematologist or internist for a thorough investigation of the abnormal blood parameters.
+4. Continue to monitor the patient's overall health with regular check-ups and screenings.
+5. Provide health education and counseling to promote a healthy lifestyle, including nutrition, exercise, and stress management.
+
+This summary provides an overview of the patient's medical history, current clinical status, and actionable recommendations for ongoing care and management.

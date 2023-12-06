@@ -1,0 +1,35 @@
+**Patient Summary for Freddie Morissette**
+
+*Patient Information:*
+- **Name:** Freddie Morissette
+- **Gender:** Male
+- **Date of Birth:** October 29, 1998
+- **Address:** 502 Cummerata Ville Unit 15, Norwalk, CT 06853
+
+*Medical History:*
+Freddie Morissette presents with a history of generalized anxiety disorder (GAD) since December 2013. He has consistently reported low scores on the GAD-7 assessment, indicating mild symptoms. Notable episodes include a facial laceration in December 2014, and acute bronchitis in December 2015, both of which were appropriately managed.
+
+*Physical Attributes:*
+- **Height:** Ranging from 179 to 184.9 cm
+- **Weight:** Fluctuating between 85.5 to 100 kg
+- **BMI:** Varies from 26.68 to 29.37 kg/m2, consistently above the 90th percentile for age and sex
+- **Blood Pressure:** Within normal limits, ranging from 73/132 mm[Hg] to 80/137 mm[Hg]
+- **Heart Rate:** Steady between 65 to 96 bpm
+- **Respiratory Rate:** Consistently within normal range, averaging around 14/min
+
+*Psychological Assessments:*
+- Freddie's GAD-7 scores consistently indicate mild anxiety symptoms. PHQ-9 scores have shown fluctuations, reaching a maximum of 26, indicative of moderate depressive symptoms at times. PHQ-2 scores have remained low. Notable absence of substance abuse issues, as indicated by DAST-10 scores.
+
+*Tobacco and Immunization History:*
+- Freddie is a non-smoker.
+- He has received regular influenza vaccinations, as well as meningococcal, Td, and Hep B immunizations.
+
+*Recommendations and Course of Action:*
+1. Given the persistent mild symptoms of generalized anxiety disorder, consider continued monitoring and offer psychoeducation regarding coping strategies.
+2. For fluctuating depressive symptoms, offer psychotherapy or consider referral to a mental health specialist.
+3. Encourage regular exercise and maintain a balanced diet to manage weight, given BMI consistently above the 90th percentile.
+4. Advise regular follow-ups for preventive care and vaccination updates.
+5. Offer resources for stress management and social engagement, especially given Freddie's history of social isolation.
+6. Monitor blood pressure and general health parameters at regular intervals.
+
+Please feel free to reach out for any further clarifications or to discuss a more detailed treatment plan.

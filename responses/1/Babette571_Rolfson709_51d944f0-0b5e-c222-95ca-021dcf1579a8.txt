@@ -1,0 +1,43 @@
+Patient Summary for Rolfson709 Babette571:
+
+Patient ID: 51d944f0-0b5e-c222-95ca-021dcf1579a8
+Name: Babette571
+Gender: Female
+Date of Birth: July 23, 1996
+Address: 407 Breitenberg Union, Burlington, VT 05401
+
+Medical History:
+1. Diagnosis of Generalized Anxiety Disorder (GAD-7 score: 4) in 2014 and 2022.
+2. Reported a history of stress and social isolation.
+3. Occasional reports of pain (rated 1 to 4 on a 0-10 scale).
+4. Received seasonal influenza immunization in 2014, 2015, 2018, 2021, and 2022.
+5. Immunizations in 2018 also included Td, Hep B, and meningococcal MCV4P.
+6. Received COVID-19 mRNA vaccines in 2021.
+
+Treatment Course:
+- Medication review is due.
+- Received medroxyprogesterone acetate injection in 2022.
+- History of intimate partner abuse in 2018.
+
+Current Health Status:
+- BMI in the range of 18.02 to 21.78 kg/m², varying with weight.
+- Blood pressure readings fluctuate within a normal range.
+- Heart rate between 61 to 84 beats per minute.
+- Respiratory rate stable at 14-16 breaths per minute.
+- Hematological parameters within normal limits.
+- Occasional reports of low scores on the HARK and DAST-10 questionnaires.
+- PHQ-2 scores vary from 1 to 2.
+- GAD-7 score consistent at 4.
+- Employment status has changed from full-time to part-time.
+- Most recent diagnosis of acute bronchitis.
+
+Clinical Advice and Course of Action:
+1. Continue monitoring mental health and consider counseling or therapy for anxiety management.
+2. Discuss medication review with the patient to assess the need for any adjustments.
+3. Encourage the patient to maintain a healthy lifestyle and manage stress through relaxation techniques.
+4. Promote regular immunizations and boosters, including COVID-19 vaccines as recommended.
+5. Continue to assess for signs of intimate partner abuse and provide support as needed.
+6. Monitor the patient's respiratory symptoms and provide appropriate treatment for acute bronchitis.
+7. Regularly review and update the patient's medical history and treatment plan.
+
+This comprehensive summary provides an overview of the patient's medical history, treatment course, and current health status, enabling healthcare providers to engage effectively with the patient and guide their ongoing care.

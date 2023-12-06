@@ -1,0 +1,78 @@
+Patient ID: ee500302-26af-c4dd-6e93-b7c2c2bd2a96
+Name: Kelly Cruickshank
+Gender: Male
+Date of Birth: April 22, 1969
+Address: 896 Farrell Quay, Glasgow, DE 00000
+
+Clinical Summary:
+
+Mr. Kelly Cruickshank is a 54-year-old male with a complex medical history. His primary concern is chronic sinusitis, but his medical history includes several other relevant conditions and findings that should be taken into consideration when planning his ongoing care.
+
+Medical History:
+1. Chronic Sinusitis: Mr. Cruickshank has been diagnosed with chronic sinusitis, which requires ongoing management and treatment to alleviate symptoms and improve his quality of life.
+
+2. Previous Diagnoses:
+   - Housing Unsatisfactory: A previous finding indicating potential housing-related challenges.
+   - High School Equivalency: Obtained a certificate of high school equivalency.
+   - Not in Labor Force: Not currently employed.
+   - Victim of Intimate Partner Abuse: A history of intimate partner abuse has been documented.
+
+3. Stress: Multiple instances of stress have been noted in Mr. Cruickshank's medical history, which may impact his overall well-being.
+
+4. Obesity: He has a history of obesity, with a body mass index (BMI) consistently exceeding 30, indicating a need for weight management.
+
+5. Essential Hypertension: Mr. Cruickshank was diagnosed with essential hypertension, requiring ongoing monitoring and management.
+
+6. Medication Review Due: Regular medication reviews are recommended due to changes in his health status.
+
+7. Full-Time Employment: Mr. Cruickshank transitioned to full-time employment during his medical history.
+
+8. Generalized Anxiety Disorder: He has reported symptoms of generalized anxiety, which should be addressed as part of his care plan.
+
+9. Anemia: A previous diagnosis of anemia has been noted.
+
+10. Metabolic Syndrome and Prediabetes: Mr. Cruickshank has been diagnosed with metabolic syndrome and prediabetes, which require monitoring and lifestyle interventions.
+
+11. Social Isolation: Social isolation has been documented as part of his medical history.
+
+12. Acute Viral Pharyngitis: He experienced an episode of acute viral pharyngitis.
+
+13. Viral Sinusitis: Mr. Cruickshank had episodes of viral sinusitis in the past.
+
+14. Substance Abuse Screening: Several substance abuse screenings, including HARK and DAST-10, have been conducted, with mostly low scores.
+
+15. Immunizations: He has received influenza and zoster vaccines.
+
+16. COVID-19 Vaccination: Mr. Cruickshank received the SARS-COV-2 (COVID-19) vaccine.
+
+Current Health Status:
+- Mr. Cruickshank's BMI is 27.46 kg/m2, indicating overweight status.
+- Blood pressure readings have fluctuated over time but are currently within acceptable ranges.
+- Lipid profile, glucose levels, kidney function, and electrolyte levels are generally within normal limits.
+- He is a non-smoker.
+- Recent AUDIT-C scores indicate low alcohol consumption.
+- He is currently unemployed and experiencing social isolation.
+- His anxiety levels have fluctuated, with recent GAD-7 scores indicating mild anxiety.
+- Hemoglobin A1c levels have improved, indicating better blood sugar control.
+- Vaccinations are up to date.
+
+Course of Action:
+1. **Chronic Sinusitis Management:** Continue to manage chronic sinusitis with appropriate medical therapy, including antibiotics, decongestants, and nasal irrigation. Consider referral to an ENT specialist for further evaluation if necessary.
+
+2. **Weight Management:** Encourage Mr. Cruickshank to work on weight reduction through dietary modifications and regular exercise to achieve a healthier BMI.
+
+3. **Hypertension Control:** Monitor and manage essential hypertension with lifestyle changes and medication as needed.
+
+4. **Anxiety Management:** Consider counseling or therapy to address anxiety symptoms and improve overall mental well-being.
+
+5. **Metabolic Syndrome and Prediabetes:** Develop a comprehensive plan for managing metabolic syndrome and prediabetes, including dietary changes, exercise, and regular monitoring.
+
+6. **Social Support:** Address social isolation by connecting Mr. Cruickshank with support networks, community resources, or counseling services.
+
+7. **Medication Review:** Schedule regular medication reviews to ensure optimal drug therapy and adherence.
+
+8. **Immunizations:** Keep vaccinations up to date and consider additional vaccines as recommended.
+
+9. **Follow-Up:** Schedule regular follow-up appointments to monitor progress and adjust the treatment plan as needed.
+
+Mr. Kelly Cruickshank's complex medical history requires a holistic approach to his care, focusing on both physical and mental well-being while addressing his chronic sinusitis as the primary concern. Collaboration with specialists and healthcare providers may be necessary for comprehensive management.

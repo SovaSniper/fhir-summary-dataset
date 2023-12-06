@@ -1,0 +1,31 @@
+Patient Summary for Marvin195 Joslyn677
+
+Patient ID: 81e46471-97da-0d2a-85f9-4926a334f0cb
+Name: Marvin195 Joslyn677
+Gender: Female
+Date of Birth: October 25, 1985
+Address: 657 Smith Dam Suite 25, Tucson, AZ 85629
+
+Medical History:
+Marvin195 Joslyn677, a 37-year-old female, presents with a history of recurrent viral sinusitis, dating back to her initial diagnosis in November 1985. She has experienced multiple episodes of viral sinusitis over the years, with documented diagnoses in 1986, 1990, 1996, 1998, 2007, and 2017. Additionally, she has a history of higher education, transitioning from part-time to full-time employment, and stress in 2003 and 2004. In 2011, she underwent tubal ligation and sustained a fracture subluxation of the wrist. She reported limited social contact and social isolation in 2015, which coincided with a medication review. Her medical records indicate fluctuating BMI values, with the latest measurement at 30.22 kg/m2 in 2022, categorizing her as obese. She has been consistently monitored for her blood pressure, with the most recent reading indicating hypertension (151/86 mm[Hg]) in 2017.
+
+Current Health Status:
+The most recent medical note from September 17, 2023, reports a diagnosis of viral sinusitis, suggesting ongoing sinus issues. Her vital signs at this visit were within normal limits, with a blood pressure reading of 133/77 mm[Hg], a heart rate of 73 bpm, and a respiratory rate of 14 breaths per minute. She has also been assessed for mental health conditions, scoring a 1 on the PHQ-2 and GAD-7 assessments in January 2023. Her AUDIT-C score indicates low alcohol use risk, with a score of 1.
+
+Immunizations:
+Marvin195 Joslyn677 has received recommended immunizations, including influenza vaccines in 2014, 2017, and 2020. She also received the Td (adult) vaccine in 2017 and both doses of the SARS-COV-2 (COVID-19) vaccine in 2021.
+
+Recommendations:
+1. **Sinusitis Management:** Given her recurrent sinusitis, further evaluation and management of her sinus condition are warranted. Consideration of a referral to an ENT specialist may be necessary for a comprehensive assessment.
+
+2. **Blood Pressure Management:** Monitor and manage her hypertension with regular follow-up appointments. Lifestyle modifications and possible medication adjustments should be discussed.
+
+3. **Weight Management:** Given her obesity, Marvin195 Joslyn677 should be counseled on lifestyle changes, including diet and exercise, to help reduce her BMI and lower her risk of associated health conditions.
+
+4. **Mental Health Support:** Continue to monitor her mental health, especially her anxiety. Offer counseling or therapy as needed to address her mental health concerns.
+
+5. **Substance Use Assessment:** Assess her alcohol consumption periodically and provide support or intervention if necessary.
+
+6. **Follow-Up:** Schedule regular follow-up appointments to track her progress in managing her health conditions and to address any emerging concerns.
+
+It's important to engage in shared decision-making with Marvin195 Joslyn677, considering her medical history, current health status, and individual preferences when developing a comprehensive care plan. Collaborate with her to set achievable health goals and ensure her ongoing care is optimized.

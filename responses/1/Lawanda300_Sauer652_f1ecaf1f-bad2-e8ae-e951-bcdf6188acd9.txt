@@ -1,0 +1,48 @@
+Patient ID: f1ecaf1f-bad2-e8ae-e951-bcdf6188acd9
+Name: Lawanda Sauer
+Gender: Female
+Date of Birth: April 24, 2007
+Address: 913 Sipes Bypass, St. Joseph, MO 64504
+
+Clinical Summary:
+
+Lawanda Sauer is a 16-year-old female with a medical history that includes atopic dermatitis, seasonal allergic rhinitis, viral sinusitis, and acute bacterial sinusitis. She has been regularly monitored, and her vital signs, growth parameters, and immunizations have been well-documented throughout her medical history.
+
+Atopic Dermatitis:
+Lawanda was diagnosed with atopic dermatitis in May 2007 when she was just a month old. This condition has been managed, and it is important to continue monitoring her skin health and providing appropriate dermatological care as needed.
+
+Seasonal Allergic Rhinitis:
+She was diagnosed with seasonal allergic rhinitis in March 2010. Her symptoms should be closely monitored during allergy seasons, and appropriate medications and interventions should be prescribed as necessary.
+
+Viral Sinusitis and Acute Bacterial Sinusitis:
+Lawanda has had episodes of viral sinusitis in the past, with the most recent diagnosis in September 2023. She also had an episode of acute bacterial sinusitis in July 2015. Regular follow-up to manage her sinus health and provide prompt treatment for any sinus-related issues is essential.
+
+Growth and Vital Signs:
+Lawanda's growth and vital signs have been tracked consistently over the years. She has shown steady growth in height and weight, and her BMI percentile has remained within normal ranges. Her blood pressure, heart rate, and respiratory rate have also been stable.
+
+Immunizations:
+Lawanda has received appropriate immunizations, including influenza vaccines, Tdap, HPV, meningococcal MCV4P, and others, as per recommended schedules. Ensuring she stays up-to-date with vaccinations is crucial.
+
+Psychological Health:
+She has a history of generalized anxiety disorder, as indicated by her GAD-7 scores. Lawanda's mental health should be closely monitored, and appropriate psychological support and interventions should be offered.
+
+Allergies:
+Lawanda has been tested for various allergens, and her IgE levels for common allergens have been recorded. These results can guide allergen avoidance strategies and treatment plans.
+
+Medication:
+Lawanda was prescribed prednisone 5 MG oral tablets in May 2022 for an acute allergic reaction. Her medication history should be reviewed regularly, and any potential adverse effects or drug interactions should be considered.
+
+Current Status:
+As of her most recent visit in September 2023, Lawanda has presented with viral sinusitis again. She reports mild pain and is experiencing generalized anxiety. Her vital signs are within normal limits, and her BMI percentile is stable. Further assessment, appropriate treatment for her current sinusitis, and continued management of her anxiety are indicated.
+
+Course of Action:
+1. Immediate treatment and management of viral sinusitis.
+2. Regular follow-up appointments to monitor sinus health and address allergic rhinitis as needed.
+3. Ongoing management of atopic dermatitis with a dermatologist.
+4. Routine check-ups to monitor growth parameters, vital signs, and immunization status.
+5. Psychological support and therapy for generalized anxiety disorder.
+6. Periodic review of her medication history and potential adjustments.
+7. Allergy management based on her allergen sensitivities.
+8. Maintain open communication with Lawanda and her caregivers to address any concerns and provide education on managing her conditions.
+
+This comprehensive summary should serve as a reference for Lawanda's medical history and guide her ongoing care. Close monitoring and a proactive approach to her healthcare will help ensure her well-being and quality of life.

@@ -1,0 +1,43 @@
+Patient e63c9034-68fe-e9ac-9fea-debc193adf72, Jacalyn740 Schmitt836, is a female born on September 28, 2017, residing at 691 Considine Promenade Suite 1, Mehlville, MO 00000. 
+
+**Medical History:**
+The patient's medical history includes regular check-ups and immunizations as per age-appropriate guidelines. Notable medical conditions and events include:
+1. **Otitis Media (2017-11-02):** The patient was diagnosed with otitis media in November 2017.
+2. **Viral Sinusitis (2018-03-15):** The patient was diagnosed with viral sinusitis in March 2018.
+3. **Acute Viral Pharyngitis (2020-03-05):** The patient was diagnosed with acute viral pharyngitis in March 2020.
+
+**Immunization History:**
+The patient has received a series of immunizations, including Hep B, adolescent or pediatric, Hib (PRP-OMP), rotavirus, monovalent, IPV, DTaP, Pneumococcal conjugate PCV 13, varicella, MMR, Hep A, ped/adol, and Influenza, seasonal, injectable, preservative-free. The last immunization was received on September 14, 2023.
+
+**Clinical Observations:**
+Throughout the patient's medical history, several clinical observations were recorded, including:
+- Body Height ranging from 52.7 cm to 116.6 cm.
+- Pain severity scores varying from 0 to 4.
+- Body Weight ranging from 3.9 kg to 20.8 kg.
+- Blood pressure measurements in the range of 71 mm[Hg] to 86 mm[Hg] (systolic) and 93 mm[Hg] to 107 mm[Hg] (diastolic).
+- Heart rate varying from 63 /min to 97 /min.
+- Respiratory rate ranging from 12 /min to 15 /min.
+- Immunization status, with the patient completing recommended vaccinations.
+
+**Laboratory Results:**
+The patient's laboratory results include:
+- Leukocytes in Blood: 6.3639 10*3/uL.
+- Erythrocytes in Blood: 4.3531 10*6/uL.
+- Hemoglobin in Blood: 12.581 g/dL.
+- Hematocrit of 41.792%.
+- MCV: 85.774 fL.
+- MCH: 30.937 pg.
+- MCHC: 34.209 g/dL.
+- Platelet count: 211.33 10*3/uL.
+- Platelet distribution width: 474.17 fL.
+- Platelet mean volume: 9.8089 fL.
+
+**Recommendations:**
+1. Continue regular well-child check-ups and follow the recommended immunization schedule for age-appropriate vaccinations.
+2. Monitor for any signs of recurrent ear infections and sinusitis, and consult a healthcare provider if symptoms reoccur.
+3. Maintain a healthy lifestyle with a balanced diet and regular physical activity.
+4. Keep a record of pain severity and report any unusual pain or discomfort to the healthcare provider.
+5. Continue monitoring growth parameters such as height, weight, and head circumference.
+6. Ensure compliance with prescribed medications or treatments as needed.
+
+This comprehensive summary provides an overview of the patient's medical history, treatment course, clinical observations, and recommendations for ongoing care. Regular follow-ups with a healthcare provider are crucial to monitor the patient's health and development.

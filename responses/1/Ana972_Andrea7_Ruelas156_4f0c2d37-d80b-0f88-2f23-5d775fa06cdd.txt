@@ -1,0 +1,39 @@
+Patient ID: 4f0c2d37-d80b-0f88-2f23-5d775fa06cdd
+Name: Ana Ruelas
+Gender: Female
+Date of Birth: April 26, 1982
+Address: 284 Stracke Burg, North Richland Hills, TX 76034
+
+Summary:
+Ana Ruelas is a female patient born in 1982, residing in North Richland Hills, TX. Her medical history reveals several notable events. In 2000, she obtained a high school equivalency certificate. In 2007, she was diagnosed with stress. Subsequent history and physical notes in 2013 show that she had a medication review due. Her vital signs at that time included a height of 170.9 cm, a weight of 71.5 kg, a BMI of 24.47 kg/m2, and a blood pressure of 73/96 mm[Hg]. Her cholesterol levels were elevated, with total cholesterol at 212.32 mg/dL, triglycerides at 149.59 mg/dL, and LDL cholesterol at 130.66 mg/dL. She had received immunizations for influenza and tetanus. She was using the Etonogestrel implant for contraception.
+
+In 2014, Ana was diagnosed with acute viral pharyngitis, with a body temperature of around 37.45°C. In 2016, her medical records showed improvements, with normal vital signs, reduced cholesterol levels, and good mental health scores. Immunizations against influenza were continued.
+
+In 2018, Ana experienced intimate partner abuse, and she reported pain and increased body weight. Her blood pressure was elevated, and she had a history of generalized anxiety disorder. She received an influenza vaccine.
+
+In 2020, Ana's records indicated that she was under stress and had generalized anxiety disorder. She received the SARS-CoV-2 (COVID-19) vaccine. Her vital signs were relatively stable, but her BMI had increased. Her mental health scores showed mild anxiety.
+
+In 2021, Ana became pregnant, and her vital signs remained stable. She received additional immunizations and continued her contraceptive treatment with the Liletta intrauterine system.
+
+In 2022, Ana's medical history revealed a diagnosis of sepsis and acute respiratory distress syndrome. She received medications for her condition, including piperacillin/tazobactam, vancomycin, and norepinephrine. Blood culture results were performed. Her vital signs showed a drop in blood pressure and increased lactate levels, indicating a severe condition.
+
+Clinical Course of Action:
+1. **Immediate Medical Attention**: Given Ana's recent diagnosis of sepsis and acute respiratory distress syndrome, it is crucial to provide her with immediate medical attention and intensive care. Close monitoring of her vital signs, blood pressure, and oxygen saturation is necessary.
+
+2. **Infection Management**: Continue the administration of piperacillin/tazobactam and vancomycin to address the underlying infection.
+
+3. **Fluid and Hemodynamic Support**: Maintain norepinephrine to support blood pressure and perfusion. Keep a close eye on lactate levels to assess her response to treatment.
+
+4. **Consultation with Specialists**: Collaborate with critical care specialists and infectious disease specialists to ensure comprehensive management.
+
+5. **Psychosocial Support**: Given Ana's history of stress, anxiety, and intimate partner abuse, consider involving a mental health professional to provide emotional support and counseling.
+
+6. **Post-Recovery Care**: After recovery from the acute condition, evaluate Ana's overall health, including cholesterol levels and mental health. Provide guidance on maintaining a healthy lifestyle and addressing any remaining health concerns.
+
+7. **Contraceptive Counseling**: If Ana intends to continue using contraception, discuss her options and potential changes in contraceptive methods considering her health status.
+
+8. **Immunizations**: Ensure that Ana is up-to-date with all recommended vaccinations, including those for COVID-19 and other preventable diseases.
+
+9. **Regular Follow-up**: Establish a schedule for regular follow-up appointments to monitor her progress and address any ongoing medical or mental health needs.
+
+This summary provides an overview of Ana Ruelas's medical history, recent diagnosis, and a course of action to guide her care. It is essential to address her acute condition promptly and comprehensively while also addressing her long-term health and well-being.

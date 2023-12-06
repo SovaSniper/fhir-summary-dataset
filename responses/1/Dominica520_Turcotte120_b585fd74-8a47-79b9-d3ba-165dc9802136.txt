@@ -1,0 +1,37 @@
+Patient b585fd74-8a47-79b9-d3ba-165dc9802136, Dominica520 Turcotte120, is a female born on May 29, 2013. The patient's medical history is as follows:
+
+In October 2013, the patient presented with Otitis media, with a reported pain severity score of 4/10. At that time, she had a height of 66.1 cm and a weight of 7.6 kg. Blood pressure was 71/106 mm[Hg], heart rate was 63/min, and respiratory rate was 14/min. The patient received several immunizations on November 6, 2013, including Hib, rotavirus, IPV, DTaP, and Pneumococcal conjugate PCV 13.
+
+In February 2014, the patient's Otitis media improved, with a reported pain severity score of 1/10. Her height was 75.1 cm, and her weight was 10.2 kg. Blood pressure was 74/106 mm[Hg], heart rate was 73/min, and respiratory rate was 13/min. Immunizations administered included IPV, Influenza, DTaP, Pneumococcal conjugate PCV 13, and Hep B.
+
+In May 2014, the patient continued to progress positively, with a pain severity score of 2/10. Her height was 78.7 cm, and her weight was 11.1 kg. Blood pressure was 75/114 mm[Hg], heart rate was 90/min, and respiratory rate was 13/min. Immunizations administered included Hib, varicella, MMR, Pneumococcal conjugate PCV 13, and Hep A.
+
+In November 2014, the patient's condition remained stable, with a pain severity score of 3/10. Her height was 87.7 cm, and her weight was 13 kg. Blood pressure was 76/111 mm[Hg], heart rate was 83/min, and respiratory rate was 13/min. Immunization included Influenza.
+
+In May 2015, the patient's condition improved further, with a pain severity score of 2/10. Her height was 92.1 cm, and her weight was 14.1 kg. Blood pressure was 60/109 mm[Hg], heart rate was 74/min, and respiratory rate was 12/min. Immunizations included Hep A.
+
+In January 2016, the patient presented with Viral sinusitis. Her height was 96.3 cm, and her weight was 15.7 kg. Blood pressure was 70/103 mm[Hg], heart rate was 70/min, and respiratory rate was 15/min. Immunizations included Influenza.
+
+In May 2016, the patient's condition worsened, with a pain severity score of 3/10. Her height was 99.9 cm, and her weight was 17.5 kg. Blood pressure was 72/115 mm[Hg], heart rate was 67/min, and respiratory rate was 15/min.
+
+In November 2016, the patient's condition remained stable, with a pain severity score of 3/10. Her height was 103.4 cm, and her weight was 18.6 kg. Blood pressure was 75/112 mm[Hg], heart rate was 93/min, and respiratory rate was 14/min. Immunizations included Influenza.
+
+In May 2017, the patient's condition worsened again, with a pain severity score of 4/10. Her height was 110.6 cm, and her weight was 20.8 kg. Blood pressure was 75/115 mm[Hg], heart rate was 70/min, and respiratory rate was 13/min. Immunizations included varicella, IPV, Influenza, DTaP, and MMR.
+
+In May 2018, the patient was diagnosed with Otitis media again. Her height was 118 cm, and her weight was 24.4 kg. Blood pressure was 73/111 mm[Hg], heart rate was 84/min, and respiratory rate was 15/min. Blood tests showed normal values. Immunizations included Influenza.
+
+In May 2019, the patient's condition improved significantly, with a pain severity score of 0/10. Her height was 125 cm, and her weight was 29.5 kg. Blood pressure was 73/96 mm[Hg], heart rate was 98/min, and respiratory rate was 13/min. Immunizations included Influenza.
+
+In May 2020, the patient presented with a Sprain of the ankle. Her height was 131.4 cm, and her weight was 34.1 kg. Blood pressure was 72/115 mm[Hg], heart rate was 61/min, and respiratory rate was 14/min. Immunizations included Influenza.
+
+In May 2021, the patient's condition improved, with a pain severity score of 1/10. Her height was 137.4 cm, and her weight was 37.7 kg. Blood pressure was 75/115 mm[Hg], heart rate was 69/min, and respiratory rate was 14/min. Immunizations included Influenza.
+
+In July 2022, the patient was diagnosed with Child attention deficit disorder. Her height was 138.3 cm, and her weight was 38.5 kg. Blood pressure was 72/100 mm[Hg], heart rate was 78/min, and respiratory rate was 15/min.
+
+In August 2022, a medication review was due, and the patient reported a pain severity score of 3/10. Her height was 138.7 cm, and her weight was 38.8 kg. Blood pressure was 75/107 mm[Hg], heart rate was 87/min, and respiratory rate was 12/min.
+
+In September 2022, the patient was diagnosed with Acute bronchitis. No medication review was reported at this time.
+
+In May 2023, the patient presented with a Laceration of the hand. Her height was 142.8 cm, and her weight was 43.2 kg. Blood pressure was 74/104 mm[Hg], heart rate was 75/min, and respiratory rate was 15/min. Immunizations included Influenza.
+
+Overall, the patient has shown growth and development consistent with her age. However, she has experienced recurrent otitis media and other minor medical issues. It is recommended to continue monitoring her growth, providing necessary immunizations, and addressing any acute medical conditions promptly. For the recent laceration, appropriate wound care and follow-up should be ensured. The patient's parents should be advised to maintain regular check-ups and seek medical attention as needed for any health concerns or symptoms.

@@ -1,0 +1,41 @@
+Patient ID: b2ea75bb-3a4f-5187-f30d-bd5815223583
+Name: Cheryll Harber
+Gender: Female
+Date of Birth: August 15, 1975
+Address: 686 Littel Fort Unit 91, Oak Grove, OR 97222
+
+Clinical Summary:
+
+Cheryll Harber, a 47-year-old female, presents a comprehensive medical history spanning several decades. She has experienced various medical conditions and events throughout her life. Notable milestones in her medical history include:
+
+1. **Diagnoses:** Cheryll has been diagnosed with acute viral pharyngitis in 2015, viral sinusitis in 2019, otitis media in 2019, and is currently experiencing viral sinusitis again in 2021.
+
+2. **Medication Review:** She is due for a medication review, which should be promptly scheduled to assess her current medication regimen.
+
+3. **Obesity:** Cheryll has a history of obesity with a BMI consistently above 30, which requires ongoing monitoring and lifestyle management.
+
+4. **Pregnancy History:** In 2003, she experienced a miscarriage in the first trimester, which may have psychological implications.
+
+5. **Injury:** Cheryll suffered a whiplash injury to her neck in 2012 and a sprain of the ankle in 2016. Her neck injury may require ongoing evaluation and treatment.
+
+6. **Immunizations:** She has received necessary immunizations, including seasonal influenza and Hepatitis A.
+
+7. **Psychological Health:** Cheryll has reported stress in her medical history. Regular monitoring of her mental health, including PHQ-2 and DAST-10 scores, is recommended.
+
+8. **Cholesterol Levels:** Her lipid panel has shown fluctuations, with LDL levels below the recommended range, warranting continued monitoring.
+
+9. **Blood Pressure:** Cheryll has experienced variations in blood pressure levels. Recent readings show systolic and diastolic pressure within acceptable ranges.
+
+10. **Physical Health:** Her recent physical measurements include a height of 169.8 cm, weight of 78.7 kg, and a BMI of 27.3 kg/m2. These values indicate the need for lifestyle management and regular monitoring.
+
+11. **Heart Rate and Respiratory Rate:** Recent measurements of heart rate (64-94 bpm) and respiratory rate (12-16 bpm) are within normal limits.
+
+12. **Blood Tests:** Hematological parameters, including leukocytes, erythrocytes, hemoglobin, and platelets, are within the normal range.
+
+13. **Tobacco Smoking Status:** Cheryll's tobacco smoking status should be considered when evaluating her overall health.
+
+14. **Alcohol Consumption:** AUDIT-C scores indicate low-risk alcohol consumption.
+
+15. **Psychological Evaluation:** Her HARK questionnaire scores show no indication of violence or abuse, and her PHQ-2 scores suggest minimal depression symptoms.
+
+In light of this information, it is recommended that Cheryll undergo a thorough medical examination to assess her current health status, medication management, and any ongoing issues related to her past injuries. Lifestyle modifications, including weight management and stress reduction strategies, should be discussed and implemented as necessary. Regular follow-ups are essential to monitor her overall well-being and address any emerging health concerns. Additionally, Cheryll should continue to receive recommended immunizations and undergo periodic cholesterol level checks. Her mental health should be closely monitored and any signs of stress or depression should be addressed promptly.

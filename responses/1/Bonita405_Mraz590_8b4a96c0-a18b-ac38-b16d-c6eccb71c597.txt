@@ -1,0 +1,39 @@
+Patient Summary for Mraz590 Bonita405 (DOB: 2019-05-19)
+
+Patient Information:
+- Name: Mraz590 Bonita405
+- Gender: Female
+- Date of Birth: May 19, 2019
+- Address: 544 Lehner Center, Montgomery, AL 36117
+
+Medical History and Treatment Course:
+- The patient's medical history indicates regular check-ups and immunizations, starting from May 2019.
+- The patient's growth and development have been monitored over time.
+- Initial observations on May 19, 2019, showed a body height of 50.4 cm, body weight of 3 kg, and a pain severity score of 2.
+- Immunizations for Hepatitis B, adolescent or pediatric, were completed on May 19, 2019.
+- Subsequent visits on June 23, 2019, and August 25, 2019, indicated continuous growth and development, with pain scores decreasing to 0.
+- Additional immunizations, including Hib (PRP-OMP), rotavirus (monovalent), IPV, DTaP, and PCV 13, were completed on August 25, 2019.
+- The patient continued to thrive with increasing height and weight on October 27, 2019.
+- Immunizations for IPV, Influenza (seasonal, injectable, preservative-free), DTaP, PCV 13, and Hep B, adolescent or pediatric, were administered on January 26, 2020.
+- Regular check-ups continued, with the patient's height reaching 75 cm and weight 8.8 kg on April 26, 2020.
+- Immunizations for Hib (PRP-OMP), varicella, MMR, PCV 13, and Hep A, ped/adol, 2 dose, were completed on July 26, 2020.
+- The patient's growth continued, with a height of 83.4 cm and weight of 10.3 kg on October 25, 2020.
+- An influenza (seasonal, injectable, preservative-free) immunization was administered on April 25, 2021.
+- The patient was diagnosed with otitis media on October 5, 2021, and had been growing steadily with a height of 87.5 cm and weight of 11.1 kg on October 24, 2021.
+- An immunization for Hep A, ped/adol, 2 doses, was administered on October 24, 2021.
+- The patient was diagnosed with acute viral pharyngitis on April 24, 2022.
+- The latest observations on October 4, 2022, showed a height of 94.8 cm and weight of 12.6 kg.
+- On October 23, 2022, the patient's height was 98.1 cm, and the weight was 13.7 kg.
+- An influenza (seasonal, injectable, preservative-free) immunization was administered on April 23, 2023.
+
+Clinical Recommendations and Action Plan:
+- The patient's growth and development have been generally within normal percentiles.
+- Immunization schedules have been followed according to guidelines.
+- The patient's recent diagnosis of acute viral pharyngitis may require symptom management and monitoring.
+- The patient's pain scores have been variable, with a recent score of 1. Further evaluation may be needed if pain persists or worsens.
+- Continue regular check-ups and immunizations as per the recommended schedule.
+- Provide guidance to the parents or guardians regarding nutrition, growth, and development milestones.
+- Encourage parents or guardians to seek medical attention if any concerning symptoms or issues arise.
+- Schedule a follow-up appointment to assess the patient's progress and address any ongoing concerns.
+
+Please note that this summary provides an overview of the patient's medical history and treatment course up to the present date. Further evaluation and monitoring are essential for the patient's ongoing care and well-being.

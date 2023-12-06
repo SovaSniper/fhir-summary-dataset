@@ -1,0 +1,58 @@
+Patient Summary for Kiehn525 Carmen818 (DOB: February 4, 2015)
+
+Patient Demographics:
+- Name: Kiehn525 Carmen818
+- Gender: Male
+- Date of Birth: February 4, 2015
+- Address: 456 Bauch Trail, Colorado Springs, CO 80918
+
+Medical History:
+- The patient's medical history spans from February 4, 2015, to the present.
+
+Diagnoses:
+1. CBC Panel - Blood by Automated Count (February 4, 2015):
+   - No specific medical conditions were noted at this time.
+
+2. Acute Bronchitis (January 13, 2016 and April 13, 2016):
+   - The patient was diagnosed with acute bronchitis on two occasions.
+
+3. Acute Viral Pharyngitis (January 26, 2022):
+   - The patient was diagnosed with acute viral pharyngitis.
+
+4. Viral Sinusitis (May 31, 2022):
+   - The patient was diagnosed with viral sinusitis.
+
+Medication Review:
+- A medication review is due. Please evaluate the patient's current medications and update the treatment plan as needed.
+
+Immunization History:
+- The patient has received various immunizations per the recommended schedule, including Hep B, adolescent or pediatric, Hib, rotavirus, IPV, DTaP, Pneumococcal conjugate PCV 13, Hep A, varicella, MMR, and seasonal influenza vaccines.
+
+Clinical Observations:
+- The patient's clinical parameters have been monitored regularly, including body height, body weight, pain severity, head occipital-frontal circumference, blood pressure, heart rate, respiratory rate, and various blood parameters.
+- Notable observations include weight-for-length percentiles, head circumference percentiles, and age-appropriate blood pressure readings.
+- Pain severity ranged from 1 to 4 on a 0-10 verbal numeric rating scale.
+
+Current Status (As of October 31, 2022):
+- The patient is currently 7 years old.
+- Body height: 132.1 cm
+- Body weight: 31 kg
+- Body mass index (BMI): 17.75 kg/m2
+- Blood pressure: 68 mm[Hg] (systolic) / 134 mm[Hg] (diastolic)
+- Heart rate: 92 /min
+- Respiratory rate: 15 /min
+- The patient is not a tobacco smoker.
+- Immunization status: Up-to-date with seasonal influenza vaccine as of February 1, 2023.
+
+Recommendations and Action Plan:
+1. Medication Review: Conduct a comprehensive medication review to assess the patient's current medications and adjust the treatment plan as necessary.
+
+2. Immunization: Continue to ensure the patient remains up-to-date with age-appropriate immunizations.
+
+3. Monitoring: Continue regular monitoring of the patient's clinical parameters, including growth, blood pressure, and pain severity.
+
+4. Health Education: Provide appropriate health education and guidance to the patient and caregivers, especially regarding acute respiratory conditions and preventive measures.
+
+5. Follow-up: Schedule a follow-up appointment for a detailed assessment and to address any specific medical concerns.
+
+This comprehensive summary provides an overview of the patient's medical history, diagnoses, medications, immunization history, and current clinical status. It serves as a valuable reference for healthcare providers to guide ongoing care and treatment for Kiehn525 Carmen818.

@@ -1,0 +1,39 @@
+Patient: Eddie505
+Date of Birth: April 27, 2018
+Address: 833 Franecki Extension Unit 39, El Paso, TX 79935
+Gender: Male
+
+**Medical Summary:**
+
+Eddie505, a male born on April 27, 2018, has been consistently monitored and assessed over the years. His medical history and treatment course reveal the following key observations:
+
+**2018:**
+- Height: 55.2 cm
+- Weight: 4.7 kg
+- Pain Severity (0-10): Reported 2
+- Immunization: Completed Hep B, adolescent or pediatric
+
+**2018-04-27:**
+- CBC panel performed
+- Height: 59.1 cm
+- Weight: 5.7 kg
+- Pain Severity (0-10): Reported 3
+- Blood pressure: 90/100 mm[Hg]
+
+**2018-06-01:**
+- Height: 64.6 cm
+- Weight: 7.4 kg
+- Pain Severity (0-10): Reported 0
+- Immunization: Completed Hib, rotavirus, IPV, DTaP, PCV 13
+
+**2018-08-03:**
+- Height: 68.7 cm
+- Weight: 8.8 kg
+- Pain Severity (0-10): Reported 1
+- Immunization: Completed Hib, rotavirus, IPV, DTaP, PCV 13
+
+**2018-10-05:**
+- Height: 73.7 cm
+- Weight: 10.4 kg
+- Pain Severity (0-10): Reported 2
+- Immunization: Completed IPV, Influenza, DTaP, PCV 

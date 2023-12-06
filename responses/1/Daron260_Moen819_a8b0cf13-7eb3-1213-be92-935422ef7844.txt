@@ -1,0 +1,41 @@
+**Patient Summary for Daron Moen**
+
+**Patient Information:**
+- Name: Daron Moen
+- Gender: Male
+- Date of Birth: December 4, 2013
+- Address: 530 Dare Corner Apt 7, Colchester VT 00000
+
+**Medical History:**
+- Daron Moen's medical history indicates a generally healthy growth and development pattern. He has been regularly immunized and has received appropriate screenings and evaluations.
+
+**Key Observations:**
+- **Body Height:** Progressed from 52.1 cm at birth to 132.3 cm at the latest visit (December 2022).
+- **Body Weight:** Increased from 4 kg at birth to 25.9 kg at the latest visit.
+- **Pain Severity:** Generally low, with occasional reports of higher scores, most notably reported as 4 in the initial visit and 4 in the latest visit.
+- **Blood Pressure:** Has remained within normal ranges for age and sex throughout the recorded visits.
+- **Heart Rate:** Varied between 60 and 96 beats per minute, within normal ranges for age.
+- **Respiratory Rate:** Within the normal range of 12 to 16 breaths per minute.
+- **Tobacco Smoking Status:** Non-smoker, as expected for age.
+
+**Immunization History:**
+- Daron has received a comprehensive series of immunizations per the recommended schedule. Noteworthy vaccinations include Hep B, Hib, rotavirus, IPV, DTaP, PCV 13, varicella, MMR, Hep A, and seasonal influenza.
+
+**Diagnoses and Conditions:**
+1. Otitis media (2014-02-02)
+2. Acute viral pharyngitis (2014-11-12)
+3. Viral sinusitis (2018-02-21, 2018-02-28, 2019-11-20)
+4. Medication review due (situation) - Indicates the need for a medication review. It's advised to evaluate the current medication regimen for potential adjustments or updates.
+
+**Recommendations:**
+1. Continue regular well-child check-ups to monitor growth, development, and overall health.
+2. Given the history of ear and throat infections, consider periodic ear and throat examinations.
+3. Maintain up-to-date immunizations per the recommended schedule.
+4. Conduct a medication review to ensure appropriateness and adjust dosage if needed.
+5. Educate the patient and family on preventive measures for common childhood infections.
+
+**Additional Notes:**
+- Daron's growth parameters (height, weight, head circumference) have generally followed a healthy progression within expected percentiles for age and sex.
+- No signs of acute pain or distress have been reported during recent visits.
+
+This comprehensive summary is intended to provide a concise yet informative overview of Daron Moen's medical history, observations, and recommendations. Please review this information to guide further care for the patient. If additional information is needed, please refer to the detailed record.

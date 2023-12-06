@@ -1,0 +1,77 @@
+Patient Summary for Arlette667 Weimann465
+
+Patient ID: 480947e7-d75b-513c-df9a-85a2ad74443e
+Name: Arlette667 Weimann465
+Gender: Female
+Date of Birth: August 8, 1939
+Address: 643 Casper Terrace Suite 2, Bend, OR 97702
+
+Medical History:
+Arlette667 Weimann465 is a female patient born on August 8, 1939. Her medical history reveals a series of observations and conditions over the years, providing a comprehensive overview of her health status.
+
+Initial Evaluation (1939-08-08):
+- Body Height: 52.9 cm
+- Pain Severity (0-10 verbal numeric rating): Reported 3
+- Body Weight: 4.6 kg
+- Weight-for-Length: 82.534%
+- Head Occipital-Frontal Circumference: 35.66 cm
+- Blood Pressure: 64 mm[Hg] / 134 mm[Hg]
+- Heart Rate: 97 /min
+- Respiratory Rate: 16 /min
+
+Follow-up (1939-09-12):
+- Body Height: 56.5 cm
+- Pain Severity: Reported 2
+- Body Weight: 5.5 kg
+- Weight-for-Length: 72.95%
+- Head Occipital-Frontal Circumference: 38.82 cm
+- Blood Pressure: 74 mm[Hg] / 137 mm[Hg]
+- Heart Rate: 82 /min
+- Respiratory Rate: 15 /min
+
+Subsequent Visits:
+- The patient's height, weight, and vital signs continued to increase with each visit, indicating normal growth and development.
+- The pain severity varied from 1 to 4 on the numeric rating scale.
+
+Medical Conditions:
+1. Acute Viral Pharyngitis (1940-04-16):
+   - Body Temperature: 37.121°C
+
+2. Viral Sinusitis (1941-01-16)
+
+3. Acute Bronchitis (1941-05-08)
+
+4. Seizure Disorder (1947-08-05):
+   - History of a single seizure.
+
+5. History of Appendectomy (1944-08-08)
+
+Course of Action:
+1. Regular Growth Monitoring:
+   - Continue monitoring the patient's growth parameters, including height, weight, and head circumference, to ensure proper development.
+
+2. Vaccination:
+   - The patient received the influenza vaccine in 1945 and 1946. Ensure up-to-date vaccinations as per current guidelines.
+
+3. Seizure Management:
+   - Continue to monitor and manage the patient's seizure disorder as per the prescribed treatment plan.
+
+4. Medication Review:
+   - Medication review is due; evaluate the patient's current medications and adjust if necessary.
+
+5. Blood Pressure Management:
+   - Maintain regular monitoring of blood pressure and heart rate, ensuring they remain within the normal range.
+
+6. Respiratory Health:
+   - Continue to monitor respiratory rate and provide necessary treatment for respiratory conditions.
+
+7. Smoking Status:
+   - Keep track of the patient's tobacco smoking status and provide appropriate counseling if needed.
+
+8. Address Appendectomy History:
+   - Continue to consider the patient's history of appendectomy when evaluating abdominal symptoms.
+
+9. End-of-Life Care:
+   - Note the cause of death (1948-10-12) and provide appropriate support and care to the patient's family as needed.
+
+This summary provides a comprehensive overview of Arlette667 Weimann465's medical history, current conditions, and recommended actions for ongoing care. Please refer to the patient's detailed medical records for further information and treatment specifics.

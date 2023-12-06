@@ -1,0 +1,56 @@
+Patient Summary for Jerde200 Chance908
+
+Patient Information:
+- Patient ID: 35e89f7e-a333-7d5e-3267-393c572e77c5
+- Name: Jerde200 Chance908
+- Gender: Male
+- Date of Birth: April 29, 1991
+- Address: 622 Aufderhar Stravenue Apt 87, Honolulu, HI 00000
+
+Medical History:
+- Chronic Pain: The patient has a history of chronic pain.
+- Impacted Molars: The patient was diagnosed with impacted molars.
+- Chronic Intractable Migraine without Aura: The patient has been diagnosed with chronic intractable migraine without aura.
+- Risk Activity Involvement: The patient has a history of risk activity involvement.
+- Medication Review Due: A medication review is due.
+- Served in Armed Forces: The patient served in the armed forces.
+- Received Certificate of High School Equivalency: The patient received a certificate of high school equivalency.
+- Stress: The patient has a history of stress.
+- Full-Time Employment: The patient has been employed full-time.
+- Dependent Drug Abuse: The patient has a history of dependent drug abuse.
+- Limited Social Contact: The patient has limited social contact.
+- Drug Overdose: The patient experienced a drug overdose.
+- Concussion Injury of Brain: The patient had a concussion injury of the brain.
+- Social Isolation: The patient has experienced social isolation.
+- Reports of Violence in the Environment: The patient has reported violence in the environment.
+- Viral Sinusitis: The patient was diagnosed with viral sinusitis.
+- Injury of Neck (Whiplash): The patient sustained an injury to the neck, diagnosed as whiplash.
+- Patient Transfer to Skilled Nursing Facility: The patient was transferred to a skilled nursing facility.
+- Acute Viral Pharyngitis: The patient had episodes of acute viral pharyngitis.
+- Victim of Intimate Partner Abuse: The patient has been a victim of intimate partner abuse.
+
+Clinical Information:
+- Body Height: 166.8 cm
+- Body Weight: Ranged from 61.9 kg to 71.6 kg
+- Body Mass Index (BMI): Ranged from 22.26 kg/m² to 25.74 kg/m²
+- Blood Pressure: Ranged from 66/131 mm[Hg] to 73/132 mm[Hg]
+- Heart Rate: Ranged from 63/min to 88/min
+- Respiratory Rate: Ranged from 12/min to 16/min
+- Cholesterol Levels: Elevated cholesterol levels with LDL levels of 210.95 mg/dL.
+- Triglycerides: Elevated triglyceride levels at 113.91 mg/dL.
+- Mental Health: Patient reported PHQ-2 scores ranging from 1 to 8.
+- Immunizations: The patient received influenza and COVID-19 vaccinations.
+
+Course of Action:
+1. Address Chronic Pain: Develop a comprehensive pain management plan to address the patient's chronic pain, involving both pharmacological and non-pharmacological interventions.
+2. Monitor Migraines: Continuously monitor and manage the patient's chronic intractable migraines with appropriate medications and lifestyle modifications.
+3. Medication Review: Conduct a thorough medication review to assess efficacy and potential interactions, making necessary adjustments.
+4. Mental Health Support: Offer mental health support for the patient's stress and history of drug abuse, including counseling and therapy.
+5. Social Engagement: Encourage the patient to increase social engagement and seek support from friends and family.
+6. Assess Concussion Effects: Continuously assess and manage the effects of the concussion injury on the patient's well-being.
+7. Address Victim of Abuse: Provide resources and support for the patient's experience of intimate partner abuse.
+8. Cardiovascular Health: Implement lifestyle changes and medications to manage cholesterol levels and reduce cardiovascular risk.
+9. Immunizations: Ensure the patient remains up-to-date with recommended immunizations.
+10. Regular Follow-ups: Schedule regular follow-up appointments to monitor the patient's progress, adjust treatments as needed, and provide ongoing support.
+
+This comprehensive summary provides a clear course of action for the patient's healthcare team to effectively engage with the patient and guide their ongoing care.

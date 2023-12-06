@@ -1,0 +1,45 @@
+Patient 20372ad7-417d-3fab-c257-a45ec0c9d713, Corwin846 Elmer371, is a male born on November 14, 1965, residing at 411 Hilll Row Suite 61, Bloomington, MN 55439. This comprehensive clinical summary outlines the patient's medical history, treatment course, and provides relevant clinical information and recommendations for ongoing care.
+
+**Medical History:**
+- In 1984, the patient received higher education.
+- In 1985 and 1991, the patient was diagnosed with full-time employment.
+- In 1994, the patient's body mass index (BMI) indicated obesity (BMI 30+).
+- In 2000 and 2003, the patient experienced stress due to full-time employment.
+- In 2008, the patient had appendicitis and a history of appendectomy.
+- In 2009, the patient continued to experience stress and became a victim of intimate partner abuse.
+- In 2011, a medication review was due, and the patient was not in the labor force.
+
+**Current Clinical Information:**
+- The patient's vital signs show a height of 174.5 cm, a weight of 92 kg, and a BMI of 30.21 kg/m2.
+- Blood pressure readings have ranged from 77/98 mm[Hg] to 84/97 mm[Hg].
+- The patient reports low pain severity (0-10 verbal numeric rating) with scores ranging from 1 to 3.
+- The patient's heart rate is around 68-98 beats/min, and respiratory rate is approximately 12-16 breaths/min.
+- The patient's cholesterol levels, including LDL, HDL, and triglycerides, are within normal range.
+- The patient has been immunized against influenza and zoster vaccine.
+
+**Psychological Assessment:**
+- The patient has been evaluated for psychological well-being with various assessments:
+  - Generalized Anxiety Disorder 7 item (GAD-7) scores fluctuate between 0 and 21, indicating varying levels of anxiety.
+  - Patient Health Questionnaire 2 item (PHQ-2) scores range from 0 to 4.
+  - Alcohol Use Disorder Identification Test - Consumption (AUDIT-C) scores vary from 0 to 3.
+  - Drug Abuse Screening Test-10 (DAST-10) scores range from 0 to 1.
+
+**Immunizations:**
+- The patient received the influenza vaccine in 2013, 2015, 2016, 2017, 2018, 2019, 2020, and 2021.
+- The patient also received the zoster vaccine in 2015 and 2016.
+- In 2021, the patient received the SARS-COV-2 (COVID-19) vaccine.
+
+**Diagnosis and Treatment:**
+- In 2015, the patient had a diagnosis of Acute Cholecystitis and Cholelithiasis. Further evaluation and management may be required.
+- In 2016, the patient underwent a comprehensive metabolic panel and CBC with differential panel.
+- In 2018 and 2021, the patient had a diagnosis of Viral Sinusitis and Otitis Media, respectively, requiring appropriate treatment.
+- Medication reviews have been due periodically, suggesting the need for ongoing medication management.
+
+**Recommendations and Course of Action:**
+- Given the history of obesity and fluctuating anxiety levels, the patient should be encouraged to maintain a healthy lifestyle through diet and exercise.
+- Psychological support and counseling should be considered to address the patient's anxiety and potential stress factors.
+- Regular follow-up appointments should be scheduled to monitor the patient's overall health, including cholesterol levels and BMI.
+- Continued immunizations for influenza and appropriate vaccines are recommended.
+- Medication reviews should be conducted as scheduled to ensure optimal medication management.
+
+This summary provides a comprehensive overview of the patient's medical history, current clinical status, and recommendations for ongoing care, enabling healthcare professionals to engage effectively with the patient and guide their treatment and well-being.

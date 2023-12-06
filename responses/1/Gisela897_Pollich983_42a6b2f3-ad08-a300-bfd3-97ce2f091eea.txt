@@ -1,0 +1,43 @@
+Patient 42a6b2f3-ad08-a300-bfd3-97ce2f091eea, Gisela897 Pollich983, is a 28-year-old female with a complex medical history. She was born on December 9, 1994, and currently resides at 165 Hettinger Green, Waterford charter, MI 00000. Her medical history includes several diagnoses and notable events over the years, which are summarized below.
+
+**Medical History:**
+- **1996-05-29:** Patient presented with unspecified symptoms.
+- **1996-06-12:** Follow-up visit.
+- **2005-12-30:** Another check-up.
+- **2012-11-17:** No significant findings except for unsatisfactory housing conditions, a certificate of high school equivalency, full-time employment, social isolation, and reported stress.
+- **2013-02-01:** Medication review was due. Patient reported part-time employment and being a victim of intimate partner abuse.
+- **2014-02-07:** The patient reported a sprain of the ankle and completed several questionnaires including HARK, PHQ-2, and DAST-10.
+- **2015-07-19 & 2015-11-02:** Patient presented with viral sinusitis.
+- **2015-11-09:** Follow-up visit.
+- **2016-10-27:** Patient reported a medication review was due, obesity (BMI over 30), full-time employment, stress, and unhealthy alcohol drinking behavior. Bloodwork showed elevated leukocytes.
+- **2017-02-10:** Completed immunizations for influenza, Td (tetanus), Hepatitis B, and meningococcal MCV4P. PHQ-2, GAD-7, and AUDIT-C scores were recorded.
+- **2017-10-22:** Follow-up visit.
+- **2018-10-17:** Diagnosed with acute viral pharyngitis. Elevated body temperature observed.
+- **2019-05-25:** Patient reported pain (score of 4), increased body weight, and elevated blood pressure. Scores for GAD-7, PHQ-2, and DAST-10 were noted.
+- **2019-06-07:** Completed immunization for influenza. PHQ-2, GAD-7, and DAST-10 scores were recorded.
+- **2019-10-12:** Limited social contact noted.
+- **2020-02-14:** Patient reported viral sinusitis and completed HARK, PHQ-2, and DAST-10 questionnaires.
+- **2020-06-15 & 2020-10-06:** Follow-up visits.
+- **2021-06-04:** Completed COVID-19 vaccinations.
+- **2021-10-01:** Patient reported being unemployed, elevated body weight, and high blood pressure. Elevated leukocytes were observed.
+- **2023-02-17:** Completed immunization for influenza. PHQ-2 scores were noted.
+
+**Current Clinical Status:**
+- Patient's height ranges from 167.8 cm to 167.9 cm.
+- Body weight has fluctuated between 85.2 kg and 95.6 kg, with a BMI consistently above 30.
+- Blood pressure has varied but has reached as high as 127/85 mm[Hg].
+- Heart rate ranges from 66/min to 95/min.
+- Respiratory rate varies between 12/min and 16/min.
+- Bloodwork results show fluctuations, with occasional elevated leukocytes and other parameters within normal ranges.
+- The patient has a history of anxiety, as indicated by GAD-7 scores, and has reported some level of depression and alcohol use.
+- The patient has experienced social isolation, stress, and unhealthy alcohol use in the past.
+
+**Recommendations:**
+1. Monitor and manage the patient's weight, blood pressure, and overall cardiovascular health, focusing on lifestyle modifications, including diet and exercise.
+2. Continue to assess and address the patient's mental health concerns, providing counseling and support as needed.
+3. Ensure that the patient receives regular check-ups, including medication reviews, to address any potential medication-related issues.
+4. Encourage social engagement and provide resources to combat social isolation.
+5. Consider further evaluation and intervention for the history of intimate partner abuse.
+6. Continue to monitor COVID-19 vaccination status and recommend boosters as appropriate.
+
+This summary provides an overview of Patient 42a6b2f3-ad08-a300-bfd3-97ce2f091eea's medical history, current clinical status, and recommendations for ongoing care. It is essential to engage with the patient to address their physical and mental health needs comprehensively.

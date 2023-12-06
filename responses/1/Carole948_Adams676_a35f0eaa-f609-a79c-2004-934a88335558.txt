@@ -1,0 +1,52 @@
+Patient: Carole948 Adams676
+Date of Birth: October 2, 1999
+Address: 861 Osinski Road Unit 10, Yukon, OK 73099
+
+**Medical History Summary:**
+
+Carole948 Adams676 is a 24-year-old female with a medical history characterized by recurrent episodes of viral sinusitis, streptococcal sore throat, acute viral pharyngitis, and generalized anxiety disorder. Her history also includes a diagnosis of stress, full-time employment, and stress-related symptoms. Additionally, she experienced a clavicle fracture in November 2019 and had a normal pregnancy at one point. Carole948 has been up-to-date with influenza and meningococcal vaccinations. She has not reported any tobacco use.
+
+**Current Clinical Information:**
+
+Carole948's most recent vital signs and clinical data are as follows:
+
+- **Height**: 169.3 cm
+- **Weight**: 63.6 kg
+- **Body Mass Index (BMI)**: 22.19 kg/m² (70.408th percentile per age and sex)
+- **Blood Pressure**: 81 mm Hg (systolic) / 122 mm Hg (diastolic)
+- **Heart Rate**: 70 beats per minute
+- **Respiratory Rate**: 14 breaths per minute
+
+**Mental Health Assessment:**
+
+- **Generalized Anxiety Disorder (GAD-7)**: Score of 3 (indicating mild anxiety symptoms)
+- **Patient Health Questionnaire-9 (PHQ-9)**: Score of 4 (indicating minimal depressive symptoms)
+- **Total score for Humiliation, Afraid, Rape, and Kick questionnaire (HARK)**: 0 (no reported signs of abuse)
+- **Total score for Drug Abuse Screening Test-10 (DAST-10)**: 0 (no reported signs of drug abuse)
+
+**Immunizations:**
+
+- Carole948 is up-to-date with influenza, meningococcal, and Hepatitis B vaccinations.
+- She received two doses of the mRNA-based SARS-COV-2 (COVID-19) vaccine.
+
+**Recommendations:**
+
+1. **Anxiety Management**: Continue monitoring and managing generalized anxiety disorder. Consider counseling or therapy options if necessary to address anxiety symptoms.
+
+2. **Mental Health Screening**: Continue regular mental health screenings to monitor depressive symptoms and assess the need for intervention.
+
+3. **Influenza Vaccination**: Ensure annual influenza vaccination to maintain immunity.
+
+4. **Medication Review**: Schedule a medication review to evaluate the necessity and effectiveness of any current medications.
+
+5. **Bone Health**: Assess the status of the clavicle fracture from November 2019 and provide appropriate care if needed.
+
+6. **Lifestyle Modification**: Encourage healthy lifestyle habits, including stress management techniques and regular physical activity.
+
+7. **Regular Follow-Up**: Schedule regular follow-up appointments to monitor Carole948's overall health and address any emerging medical or mental health concerns.
+
+8. **COVID-19 Vaccination**: Continue to stay updated with COVID-19 vaccination guidelines and receive booster doses as recommended.
+
+9. **Patient Education**: Educate the patient about the importance of routine healthcare visits and maintaining a healthy lifestyle.
+
+This comprehensive summary aims to guide Carole948 Adams676's ongoing care, addressing her medical and mental health needs while promoting overall well-being.

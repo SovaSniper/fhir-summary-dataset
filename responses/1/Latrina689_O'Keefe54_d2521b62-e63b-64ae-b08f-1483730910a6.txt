@@ -1,0 +1,37 @@
+Patient Summary for Latrina O'Keefe
+
+Patient Information:
+- Name: Latrina O'Keefe
+- Gender: Female
+- Date of Birth: July 10, 2015
+- Address: 449 Pacocha Plaza, Pinedale, WY 82941
+
+Medical History:
+Latrina O'Keefe is a female patient born on July 10, 2015. She has been regularly monitored and assessed for her growth and development since birth. Her medical history includes a series of observations, physical assessments, and immunizations recorded over the years. Notably, she has received a series of recommended immunizations, including Hepatitis B, Hib, rotavirus, IPV, DTaP, Pneumococcal conjugate PCV 13, varicella, MMR, Hep A, and seasonal influenza vaccines. She has been diagnosed with acute bronchitis in the past and otitis media.
+
+Treatment Course:
+- Latrina's growth parameters have been tracked, including body height, body weight, and head occipital-frontal circumference, with measurements showing steady progress in accordance with age and sex percentiles.
+- Pain severity, as reported on a 0-10 verbal numeric rating scale, has varied over time, ranging from 0 to 4, suggesting periodic discomfort or pain.
+- Blood pressure, heart rate, and respiratory rate have been within acceptable ranges for her age group throughout her medical history.
+- Latrina has received appropriate immunizations as per the recommended schedule for her age.
+
+Current Clinical Information:
+- The most recent observations, as of July 7, 2023, indicate a height of 127.4 cm, body weight of 27.3 kg, and a body mass index (BMI) within the 69.369th percentile for her age and sex.
+- Blood pressure is 77/93 mm[Hg], heart rate is 99 bpm, and respiratory rate is 15 breaths/min.
+- Latrina's most recent pain severity score is 2 on the 0-10 scale.
+- Immunization records show that she has received the recommended seasonal influenza vaccine for the year 2023.
+
+Course of Action:
+1. Growth Monitoring: Continue to monitor Latrina's growth parameters, including height, weight, and head circumference, to ensure she continues to follow an appropriate growth trajectory for her age and sex.
+
+2. Pain Management: Assess and manage any episodes of pain or discomfort reported by the patient. Consider appropriate pain relief measures when necessary.
+
+3. Immunization: Ensure Latrina receives age-appropriate immunizations according to the recommended schedule. Stay updated on the latest vaccination guidelines.
+
+4. Regular Check-ups: Schedule regular check-ups to monitor Latrina's overall health and development, including blood pressure, heart rate, and respiratory rate.
+
+5. Health Education: Provide health education to Latrina's caregivers, emphasizing the importance of maintaining a healthy lifestyle, nutrition, and hygiene practices.
+
+6. Follow-up: Schedule a follow-up appointment to review Latrina's progress and address any concerns or questions from her caregivers.
+
+It is essential to maintain regular communication with Latrina's caregivers to ensure her continued well-being and development as she grows.

@@ -1,0 +1,32 @@
+**Patient Summary for Antonio Monahan**
+
+*Demographics:*
+- **Name:** Antonio Monahan
+- **Gender:** Male
+- **DOB:** May 1, 2005
+- **Address:** 749 Zulauf Village Unit 42, Skowhegan, ME 04976
+
+*Medical History:*
+Antonio Monahan, a 17-year-old male, presents with a history of laceration of the hand in 2015, generalized anxiety disorder (GAD-7 scores fluctuating between 1 and 13), and engagement in risk activities. Notably, he has received various immunizations, including influenza, HPV, meningococcal, and the SARS-COV-2 (COVID-19) vaccine.
+
+*Treatment Course:*
+Over the years, Antonio's physical development has progressed. His height increased from 128.8 cm in 2013 to 170.4 cm in 2023, and his weight rose from 23.7 kg to 56.5 kg. Vital signs, such as blood pressure, heart rate, and respiratory rate, have remained generally within normal ranges. Antonio has been consistently compliant with his immunization schedule.
+
+*Clinical Information:*
+Antonio's recent clinical data (June 25, 2023) reveals a GAD-7 score of 4, a PHQ-2 score of 0, and stable vital signs. His BMI is 19.46 kg/m2, which falls within the 15.401st percentile for his age and sex. Antonio reports a pain severity score of 3.
+
+*Course of Action:*
+1. **Medication Review:** Given the current situation, a thorough review of Antonio's medications is recommended. Evaluate the effectiveness of his current anxiety management plan and make adjustments as needed.
+  
+2. **Psychological Support:** Considering Antonio's history of generalized anxiety disorder, ongoing psychological support and counseling should be emphasized. Collaborate with mental health professionals to address his fluctuating anxiety scores.
+
+3. **Health Education:** Provide targeted health education to Antonio regarding the importance of maintaining a healthy lifestyle, including regular physical activity and a balanced diet. Emphasize the significance of managing stress and engaging in positive coping mechanisms.
+
+4. **Immunization Update:** Ensure Antonio is up-to-date with all recommended vaccinations. Discuss any new vaccines or boosters that may be relevant based on his age and health status.
+
+5. **Risk Assessment:** Given Antonio's engagement in risk activities, conduct a thorough risk assessment, including discussions about the nature of these activities and potential harm. Collaborate with appropriate specialists if needed.
+
+6. **Follow-up:** Schedule regular follow-up appointments to monitor Antonio's progress, especially regarding anxiety symptoms, pain severity, and any changes in vital signs.
+
+*Conclusion:*
+Antonio Monahan's comprehensive care involves a holistic approach, addressing both physical and mental health aspects. A collaborative effort between medical and mental health professionals is essential to optimize his well-being. Regular monitoring, health education, and targeted interventions will contribute to Antonio's overall health and development.

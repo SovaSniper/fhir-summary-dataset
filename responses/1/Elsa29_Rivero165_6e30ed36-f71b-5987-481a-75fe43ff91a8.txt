@@ -1,0 +1,75 @@
+Patient Summary for Elsa Rivero:
+
+Patient Information:
+- Name: Elsa Rivero
+- Gender: Female
+- Date of Birth: January 3, 2010
+- Address: 768 Greenfelder Row Suite 74, El Paso, TX 79835
+
+Medical History:
+
+1. On January 3, 2010, Elsa was born. No significant medical conditions were reported at birth.
+
+2. On December 9, 2012, a medication review was due, but no specific diagnosis or medical issues were documented.
+
+3. On August 15, 2013, Elsa was diagnosed with Otitis Media (middle ear infection). She received appropriate treatment.
+
+4. On December 8, 2013, another medication review was due, with no specific diagnosis mentioned. Elsa's height was 104.6 cm, weight 16.1 kg, and vital signs were within normal ranges.
+
+5. On December 14, 2014, Elsa received several immunizations, including varicella, IPV, DTaP, MMR, and influenza, seasonal, injectable, preservative-free.
+
+6. On December 14, 2014, another episode of Otitis Media was diagnosed, and treatment was administered.
+
+7. On January 2, 2015, Elsa's medication was up for review, and she had recovered from her ear infection. Her height was 111.5 cm, weight 18.5 kg, and vital signs were normal.
+
+8. On December 20, 2015, Elsa received the influenza vaccine.
+
+9. On December 20, 2015, her height was 118.1 cm, weight 21.2 kg, and vital signs were stable.
+
+10. On December 25, 2016, Elsa received the influenza vaccine.
+
+11. On December 25, 2016, her height was 124 cm, weight 23.9 kg, and vital signs were normal.
+
+12. On December 31, 2017, Elsa received the influenza vaccine.
+
+13. On December 31, 2017, her height was 129.5 cm, weight 26.9 kg, and vital signs were within normal ranges.
+
+14. On January 6, 2019, Elsa received the influenza vaccine.
+
+15. On January 6, 2019, her height was 134.3 cm, weight 30.5 kg, and vital signs were stable.
+
+16. On January 12, 2020, Elsa received the influenza vaccine.
+
+17. On January 12, 2020, her height was 140 cm, weight 36.6 kg, and vital signs were normal. 
+
+18. On January 17, 2021, Elsa received multiple immunizations, including Tdap, influenza, HPV, and meningococcal MCV4P.
+
+19. On January 17, 2021, a CBC panel was conducted, and results were within normal ranges.
+
+20. On February 17, 2021, no specific medical issues were reported.
+
+21. On May 9, 2022, Elsa's height was 147.2 cm, weight 43.3 kg, and vital signs were stable. She was diagnosed with generalized anxiety disorder, with GAD-7 score of 4 and PHQ-Teen score of 18.
+
+22. On January 23, 2023, Elsa received the influenza and HPV vaccines.
+
+23. On January 23, 2023, she was diagnosed with generalized anxiety disorder, with GAD-7 score of 2 and PHQ-Teen score of 2.
+
+24. On March 6, 2023, Elsa's height was 153.3 cm, weight 51.1 kg, and vital signs were stable. She continued to be diagnosed with generalized anxiety disorder, with GAD-7 score of 2 and PHQ-Teen score of 2.
+
+Clinical Recommendations:
+
+1. Elsa has a history of otitis media and has received appropriate treatment. Continue to monitor for any ear-related issues and provide prompt care if symptoms reoccur.
+
+2. Elsa is up-to-date with her vaccinations, including influenza, HPV, and meningococcal MCV4P. Ensure she continues to receive recommended vaccinations as per her age and the vaccination schedule.
+
+3. Elsa has been diagnosed with generalized anxiety disorder. Continue to monitor her mental health and consider appropriate interventions or therapies as needed. Collaborate with a mental health professional for further evaluation and guidance.
+
+4. Elsa's growth parameters are generally within the normal range, but her BMI percentile has increased over time. Encourage a balanced diet and regular physical activity to maintain a healthy weight.
+
+5. Elsa has had fractures in the past. Ensure that she is taking appropriate precautions to prevent further injuries and consider any necessary interventions, such as physical therapy or orthopedic evaluation.
+
+6. Elsa received the COVID-19 vaccine. Continue to monitor her vaccination status and follow any updates or booster recommendations from health authorities.
+
+7. Schedule regular check-ups to monitor Elsa's overall health, growth, and development, and address any emerging medical or psychological concerns promptly.
+
+Please feel free to contact me if you need any additional information or if further evaluation or treatment is required for Elsa Rivero.

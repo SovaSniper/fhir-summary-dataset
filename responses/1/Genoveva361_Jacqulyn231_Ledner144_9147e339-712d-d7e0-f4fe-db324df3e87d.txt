@@ -1,0 +1,87 @@
+**Clinical Summary: Patient Ledner144 Genoveva361**
+
+*Demographic Information:*
+Patient ID: 9147e339-712d-d7e0-f4fe-db324df3e87d
+Name: Ledner144 Genoveva361
+Gender: Female
+Date of Birth: November 10, 1961
+Address: 267 Brown Passage, Unit 28, Maysville, OK 73095
+
+*Medical History:*
+1. **Stress and Education:**
+   - Patient has a history of stress, identified in various encounters over the years.
+   - Completed only primary school education.
+
+2. **Employment and Criminal Record:**
+   - Full-time employment noted in multiple visits.
+   - Criminal record reported in 2003.
+
+3. **Chronic Conditions:**
+   - Osteoarthritis of the knee diagnosed in 1993.
+   - Prediabetes reported in 2007.
+   - Essential hypertension diagnosed, and obesity (BMI > 30) noted.
+   - Metabolic syndrome X reported in 2013.
+
+4. **Mental Health:**
+   - Generalized anxiety disorder reported, with varying GAD-7 scores over time.
+   - Reports of violence in the environment noted.
+   - History of intimate partner abuse reported.
+
+5. **Substance Use:**
+   - Completed the Drug Abuse Screening Test-10 (DAST-10) with occasional positive scores.
+   - Alcohol Use Disorder Identification Test - Consumption (AUDIT-C) scores fluctuated.
+
+6. **Immunizations:**
+   - Received zoster and influenza vaccinations.
+
+7. **Other Findings:**
+   - Fracture of the forearm reported.
+   - Diagnosed with acute viral pharyngitis in 2021.
+   - Completed SARS-COV-2 (COVID-19) vaccinations.
+
+*Current Clinical Status:*
+1. **Physical Measurements:**
+   - BMI fluctuating around 30.
+   - Blood pressure ranges from 78/131 to 85/133 mm[Hg].
+
+2. **Laboratory Results:**
+   - Hemoglobin A1c levels varying between 5.88% and 6.39%.
+   - Lipid panel results showing fluctuating cholesterol levels.
+   - Normal kidney function, electrolyte balance, and blood glucose levels.
+
+3. **Mental Health Status:**
+   - GAD-7 scores range from 0 to 8.
+   - PHQ-2 scores fluctuate, indicating mild depressive symptoms.
+   - Positive reports of stress and violence in the environment.
+
+4. **Other Observations:**
+   - Patient currently not in the labor force.
+   - Recent encounter for acute viral pharyngitis.
+   - Noted reports of zero pain severity in the latest encounter.
+
+*Recommendations and Course of Action:*
+1. **Mental Health Support:**
+   - Consider referral to a mental health professional for ongoing support.
+   - Monitor GAD-7 and PHQ-2 scores regularly.
+
+2. **Health Education:**
+   - Reinforce education on stress management.
+   - Provide information on maintaining a healthy lifestyle, especially in light of chronic conditions.
+
+3. **Follow-up Investigations:**
+   - Monitor BMI, blood pressure, and hemoglobin A1c regularly.
+   - Schedule regular lipid panels to manage cholesterol levels.
+
+4. **Immunizations:**
+   - Encourage continued compliance with recommended vaccinations.
+
+5. **Social Support:**
+   - Assess the need for social services or support networks, especially given reports of violence and a history of abuse.
+
+6. **Medication Review:**
+   - Evaluate the need for medication adjustments, considering the fluctuating health indicators.
+
+7. **Rehabilitation:**
+   - Consider rehabilitation or physical therapy for osteoarthritis management.
+
+This clinical summary aims to guide ongoing care for Patient Ledner144 Genoveva361, focusing on a holistic approach to address both physical and mental health aspects. Regular follow-ups, patient education, and multidisciplinary support are essential for comprehensive care.

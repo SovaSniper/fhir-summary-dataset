@@ -1,0 +1,53 @@
+Patient Summary for Rodriguez71 Lynn917
+
+Patient Information:
+- Name: Rodriguez71 Lynn917
+- Gender: Male
+- Date of Birth: June 14, 2006
+- Address: 304 Pagac Parade, Fort Worth, TX 76148
+
+Medical History:
+- The patient's medical history includes multiple encounters dating back to June 14, 2006, with periodic condition assessments, medication reviews, and immunizations.
+
+Current Clinical Data (as of August 2, 2023):
+- Height: 185 cm
+- Weight: 72.2 kg
+- Body Mass Index (BMI): 21.11 kg/m2 (47.322 percentile for age and sex)
+- Blood Pressure: 78 mm[Hg] / 94 mm[Hg]
+- Heart Rate: 75 /min
+- Respiratory Rate: 13 /min
+- Leukocytes: 7.4439 10*3/uL
+- Erythrocytes: 4.3106 10*6/uL
+- Hemoglobin: 17.496 g/dL
+- Hematocrit: 37.467%
+- MCV: 93.49 fL
+- MCH: 31.617 pg
+- MCHC: 33.023 g/dL
+- Erythrocyte Distribution Width: 39.727 fL
+- Platelets: 322.39 10*3/uL
+- Platelet Distribution Width: 342.53 fL
+- Platelet Mean Volume: 9.8963 fL
+
+Clinical Assessments:
+- The patient has a history of generalized anxiety disorder (GAD-7) with varying severity scores over time. The latest GAD-7 score is 3.
+- The patient has received various immunizations, including influenza, HPV, and meningococcal vaccines, up to August 2, 2023.
+- The patient had acute viral pharyngitis in December 2017.
+- In January 2019, the patient had a risk activity involvement finding.
+- The patient had acute bronchitis in August 2018 and otitis media in January 2019.
+
+Recommendations:
+1. **Anxiety Management:** Given the recurrent generalized anxiety disorder, consider a referral to a mental health specialist for ongoing counseling and management. Monitor the patient's GAD-7 scores regularly.
+
+2. **Vaccination Updates:** Ensure the patient remains up-to-date with recommended vaccinations, especially considering the need for boosters or additional vaccines based on current guidelines.
+
+3. **Monitor Respiratory Health:** Given the history of bronchitis and otitis media, continue to monitor the patient's respiratory health. Provide guidance on preventive measures and symptom management.
+
+4. **Routine Check-ups:** Schedule regular check-ups to monitor the patient's growth, development, and overall health.
+
+5. **Medication Review:** Evaluate the need for any ongoing medications and ensure regular medication reviews as appropriate.
+
+6. **Lifestyle and Well-being:** Encourage a healthy lifestyle, including a balanced diet and regular physical activity, to maintain a healthy BMI.
+
+7. **Education and Counseling:** Provide patient and family education regarding anxiety management, healthy living, and the importance of regular healthcare visits.
+
+Please review the patient's medical history and consider the recommended actions to provide comprehensive and continued care for Rodriguez71 Lynn917.

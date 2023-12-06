@@ -1,0 +1,35 @@
+Patient Summary for Hane680 Adolph80 (DOB: 2014-04-29)
+
+Patient Information:
+- Patient Name: Hane680 Adolph80
+- Gender: Male
+- Date of Birth: April 29, 2014
+- Address: 568 Nikolaus Knoll Apt 41, Holladay, UT 84124
+
+Medical History:
+- The patient's medical history spans from birth to their current age of nine years.
+- The patient has received age-appropriate immunizations, including Hep B, adolescent or pediatric; Hib (PRP-OMP); rotavirus, monovalent; IPV; DTaP; Pneumococcal conjugate PCV 13; varicella; MMR; Hep A, ped/adol, 2 dose; and Influenza, seasonal, injectable, preservative-free vaccines.
+
+Clinical Observations:
+- The patient's height and weight have shown consistent growth over the years, with the most recent measurements indicating a height of 133.7 cm and a weight of 31.8 kg.
+- Pain severity, as reported by the patient on a 0-10 verbal numeric rating scale, has varied over time but generally remained low, with the most recent report being a score of 3.
+- Blood pressure measurements have remained within normal ranges, with the latest reading at 83 mm[Hg] (systolic) and 136 mm[Hg] (diastolic).
+- Heart rate and respiratory rate have been within the normal range for the patient's age, with the latest heart rate recorded at 97 /min and the respiratory rate at 14 /min.
+- The patient's hematological profile has shown stable values within normal limits, including leukocytes, erythrocytes, hemoglobin, hematocrit, MCV, MCH, MCHC, erythrocyte distribution width, platelets, platelet distribution width, and platelet mean volume.
+- The patient's head occipital-frontal circumference measurements have consistently followed the 52.66 percentile, with the most recent measurement at 48.12 cm.
+- The patient has not reported any tobacco smoking status throughout their medical history.
+
+Diagnosis and Treatment:
+- The patient's medical history includes a diagnosis of otitis media in 2014.
+- In 2015, the patient was diagnosed with acute viral pharyngitis.
+- The most recent diagnosis, in 2022, is acute viral pharyngitis.
+
+Recommendations and Course of Action:
+- The patient's overall health appears to be stable and within normal parameters for their age.
+- Continue with routine healthcare visits and immunizations as recommended by the healthcare provider.
+- Provide guidance to the patient and their caregiver on maintaining a healthy lifestyle, including nutrition, physical activity, and hygiene.
+- Monitor any symptoms of acute viral pharyngitis and provide appropriate treatment as needed.
+- Schedule regular follow-up appointments to assess growth and development, as well as to address any concerns or changes in the patient's health.
+- Considering the patient's history of homelessness, evaluate social determinants of health and consider referral to appropriate support services or organizations.
+
+This comprehensive clinical summary provides an overview of the patient's medical history, treatment course, and current health status, enabling healthcare providers to effectively engage with the patient and guide their ongoing care.

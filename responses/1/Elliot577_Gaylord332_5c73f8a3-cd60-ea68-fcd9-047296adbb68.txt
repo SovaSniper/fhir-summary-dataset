@@ -1,0 +1,34 @@
+Patient Summary:
+
+Patient ID: 5c73f8a3-cd60-ea68-fcd9-047296adbb68
+Name: Gaylord Elliot
+Gender: Male
+Date of Birth: November 16, 2017
+Address: 314 Walsh Flat Suite 9, Portland, OR 97230
+
+**Medical History:**
+The patient, Gaylord Elliot, has a comprehensive medical history spanning from birth to the present. Notable observations include normal growth and development, with height and weight within expected percentiles. The patient has received essential immunizations, including Hep B, adolescent or pediatric, Hib, rotavirus, IPV, DTaP, and Pneumococcal conjugate PCV 13. Additionally, the patient has a diagnosis of atopic dermatitis, with documented percentages of affected areas. Allergen-specific IgE antibody levels have been measured, revealing sensitivities to various allergens.
+
+**Treatment Course:**
+Over the years, the patient's medical status has been regularly monitored. There is a history of medication reviews, and the patient has reported pain severity on a numeric scale, ranging from 1 to 4. Notably, the patient has experienced laceration injuries, with the most recent incident on February 18, 2021, involving the foot. The patient has also been diagnosed with otitis media as of October 27, 2022.
+
+**Clinical Parameters:**
+Vital signs and laboratory results have been consistently within normal ranges. The most recent measurements include a body height of 109.7 cm, body weight of 16.6 kg, and a body mass index (BMI) within the expected range. Blood pressure, heart rate, and respiratory rate have remained stable. The patient's allergies have been assessed through IgE antibody testing, and the recorded levels indicate sensitivities to various allergens.
+
+**Advice and Course of Action:**
+1. Continue regular follow-ups to monitor growth, development, and overall health.
+2. Implement appropriate measures to manage and alleviate atopic dermatitis symptoms.
+3. Address and manage pain as reported by the patient.
+4. Provide care and follow-up for the laceration injuries, ensuring proper wound healing.
+5. Continue monitoring for otitis media and manage accordingly.
+6. Consider allergy management strategies based on the identified sensitivities.
+
+**Upcoming Actions:**
+1. Schedule a medication review to assess the ongoing need for any prescribed medications.
+2. Continue with scheduled immunizations and recommended vaccinations.
+3. Monitor and manage the atopic dermatitis condition with dermatological follow-ups.
+4. Arrange follow-up visits to assess and manage otitis media.
+5. Educate the parents or caregivers on proper wound care for lacerations.
+6. Regularly assess and address the patient's pain concerns, modifying treatment plans as needed.
+
+This summary is intended to guide ongoing care by providing a concise overview of the patient's medical history, treatment course, and relevant clinical information. Regular and proactive healthcare management is recommended to ensure the well-being of Patient Gaylord Elliot.

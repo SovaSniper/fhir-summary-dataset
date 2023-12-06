@@ -1,0 +1,31 @@
+Patient aca9adfe-4f42-caff-a6b6-382ed3e776d8, a female born on April 4, 2020, with a home address at 343 McGlynn Throughway, Kansas City, MO 64120, presents a comprehensive medical history for your review. The patient's medical condition and treatment course are summarized below:
+
+**Medical History:**
+- On April 4, 2020, the patient was born with a body height of 55.7 cm and a body weight of 4.7 kg. Pain severity was reported as 1 on a 0-10 verbal numeric rating scale.
+- Subsequent observations on May 9, 2020, indicated a growth in body height to 59.2 cm and a body weight of 5.7 kg, with a pain severity score of 1.
+- On May 16, 2020, the patient was diagnosed with viral sinusitis, which was likely associated with the reported pain severity of 3 on May 23, 2020.
+- Immunizations for Hepatitis B, adolescent or pediatric, were completed on April 4, 2020, and May 9, 2020.
+
+**Treatment Course:**
+- Throughout the patient's medical history, there was a consistent increase in body height, body weight, and head occipital-frontal circumference, indicating healthy growth.
+- Blood pressure, heart rate, and respiratory rate remained within normal ranges during each observation.
+- Immunizations, including Hib (PRP-OMP), rotavirus monovalent, IPV, DTaP, Pneumococcal conjugate PCV 13, and Hep B, were completed as scheduled.
+
+**Recent Developments:**
+- As of September 11, 2021, the patient's body height reached 90.7 cm, and her body weight was 14.9 kg. Pain severity was reported as 2.
+- Influenza immunization was completed on March 12, 2022.
+- On July 4, 2022, the patient was diagnosed with childhood asthma.
+
+**Current Status:**
+- The patient's recent observation on June 22, 2023, shows a body height of 95.4 cm, a body weight of 16.1 kg, and a pain severity score of 1.
+- The patient's respiratory rate and heart rate are within normal ranges.
+- Immunizations for Hepatitis A, ped/adol, 2 dose, were completed on September 10, 2022.
+
+**Recommendations:**
+- Continuation of routine pediatric care and growth monitoring.
+- Regular follow-up to manage childhood asthma.
+- Ensure up-to-date immunizations as per the recommended schedule.
+- Continue to assess and address pain or discomfort reported by the patient.
+- Consider monitoring and addressing any potential allergens based on IgE antibody levels.
+
+This summary provides an overview of the patient's medical history, growth, immunizations, and recent developments. It is important to continue monitoring and addressing the patient's health needs as she grows and develops.

@@ -1,0 +1,33 @@
+Patient Summary for Emil Schumm995
+
+**Patient Information:**
+- Name: Emil Schumm995
+- Gender: Male
+- Date of Birth: October 8, 2006
+- Address: 293 Balistreri Glen Apt 45, Mill Creek East, WA, 00000
+
+**Medical History:**
+Emil Schumm995 has been under observation since September 23, 2012. At the initial assessment, he had a height of 122.4 cm and a weight of 24.8 kg, yielding a BMI of 16.57 kg/m2. Pain severity was reported as 0 on the verbal numeric rating scale. Subsequent assessments in 2014, 2015, and 2016 showed gradual growth and stable health indicators.
+
+In 2017, there was an update in immunizations, including Tdap, influenza, HPV, and meningococcal vaccinations. Notably, there was a slight increase in pain severity reported during this year. In 2018, Emil continued to grow, with a height of 149.2 cm and a weight of 41.5 kg, yielding a BMI of 18.61 kg/m2. He showed signs of generalized anxiety, reflected in GAD-7 and PHQ-9 scores. 
+
+In 2019, he experienced a clavicle fracture. This was followed by a notable growth spurt in 2020, with a height of 157.3 cm and a weight of 46.3 kg, resulting in a BMI of 18.74 kg/m2. Additionally, his fall risk increased, as indicated by the Morse Fall Scale. In 2021, Emil received the SARS-COV-2 (COVID-19) vaccine.
+
+The most recent assessment in 2022 shows continued growth, with Emil measuring 166.8 cm tall and weighing 55.6 kg. His BMI is 19.97 kg/m2. Notably, there has been a reduction in pain severity, and he now reports no pain. There are also improvements in his anxiety scores (GAD-7 and PHQ-9). Immunizations were updated with influenza and meningococcal vaccinations.
+
+**Clinical Advice:**
+1. **Continued Growth Monitoring:** Given Emil's growth pattern, it is recommended to continue regular height and weight measurements to track his development.
+
+2. **Fracture Follow-Up:** Monitor Emil's clavicle fracture recovery, and consider any necessary physiotherapy or follow-up assessments.
+
+3. **Anxiety Management:** Given the presence of generalized anxiety, consider consultation with a mental health professional for appropriate intervention or therapy.
+
+4. **Fall Risk Management:** Due to increased fall risk, it is important to provide education on fall prevention and consider any necessary interventions or supports.
+
+5. **Immunization Schedule:** Ensure that Emil stays up-to-date with his immunizations per age-appropriate recommendations.
+
+6. **Medication Review:** Evaluate the need for any medications and conduct a comprehensive review to ensure optimal treatment.
+
+7. **Routine Check-ups:** Schedule regular check-ups to monitor Emil's overall health and address any emerging concerns promptly.
+
+This summary provides an overview of Emil Schumm995's medical history, treatment course, and relevant clinical information to guide ongoing care. Please refer to the detailed records for a comprehensive view of his health status.

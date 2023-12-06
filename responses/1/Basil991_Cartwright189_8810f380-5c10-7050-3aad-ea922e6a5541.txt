@@ -1,0 +1,113 @@
+Patient Summary for Basil Cartwright:
+
+Patient Information:
+- Name: Basil Cartwright
+- Gender: Male
+- Date of Birth: August 24, 1999
+- Address: 303 Ritchie Ramp, Badger, AK 99711
+
+Medical History and Treatment Course:
+Basil Cartwright, a male born on August 24, 1999, has a comprehensive medical history spanning several years. His medical records indicate regular medication reviews and various diagnoses over time.
+
+1. Initial Assessment (1999-08-24):
+   - No specific medical condition reported.
+
+2. Follow-Up (1999-11-30):
+   - No specific medical condition reported.
+
+3. Follow-Up (2000-02-01):
+   - No specific medical condition reported.
+
+4. Follow-Up (2000-05-02):
+   - No specific medical condition reported.
+
+5. Follow-Up (2000-08-01):
+   - No specific medical condition reported.
+
+6. Follow-Up (2001-07-31):
+   - No specific medical condition reported.
+
+7. Follow-Up (2003-01-28):
+   - No specific medical condition reported.
+
+8. Follow-Up (2003-07-29):
+   - No specific medical condition reported.
+
+9. Follow-Up (2006-08-15):
+   - No specific medical condition reported.
+
+10. Follow-Up (2009-09-01):
+    - No specific medical condition reported.
+
+11. Follow-Up (2010-09-07):
+    - No specific medical condition reported.
+
+12. Follow-Up (2011-09-13):
+    - No specific medical condition reported.
+    - Risk activity involvement.
+
+13. Follow-Up (2012-09-18):
+    - No specific medical condition reported.
+
+14. Follow-Up (2013-09-24):
+    - No specific medical condition reported.
+
+15. Follow-Up (2014-09-30):
+    - Patient Health Questionnaire-9: Modified for Teens score of 1 (mild depression).
+    - Influenza immunization completed.
+
+16. Follow-Up (2015-10-06):
+    - Patient Health Questionnaire-9: Modified for Teens score of 4 (mild depression).
+    - Influenza and meningococcal immunizations completed.
+
+17. Follow-Up (2016-10-11):
+    - Generalized anxiety disorder with a GAD-7 score of 2 (mild anxiety).
+    - Patient Health Questionnaire-9: Modified for Teens score of 22 (mild depression).
+    - Influenza immunization completed.
+
+18. Follow-Up (2017-10-17):
+    - Generalized anxiety disorder with a GAD-7 score of 2 (mild anxiety).
+    - Patient Health Questionnaire 2 item (PHQ-2) score of 0 (no depression).
+    - Influenza immunization completed.
+
+19. Follow-Up (2018-03-08):
+    - Laceration - injury reported.
+    - Victim of intimate partner abuse.
+
+20. Follow-Up (2018-10-23):
+    - Generalized anxiety disorder with a GAD-7 score of 1 (minimal anxiety).
+    - Patient Health Questionnaire 2 item (PHQ-2) score of 0 (no depression).
+    - Viral sinusitis reported.
+
+21. Follow-Up (2018-10-30):
+    - Acute viral pharyngitis reported.
+
+22. Follow-Up (2019-06-04):
+    - Completed SARS-COV-2 (COVID-19) vaccine.
+    
+23. Follow-Up (2021-04-20):
+    - Completed SARS-COV-2 (COVID-19) vaccine.
+    
+24. Follow-Up (2021-05-11):
+    - Part-time employment, limited social contact, stress, and unhealthy alcohol drinking behavior reported.
+    - Generalized anxiety disorder with a GAD-7 score of 3 (mild anxiety).
+    - Total score [AUDIT-C] of 12 (indicating some alcohol use).
+    - Completed Influenza, Td (adult), Hep B, and meningococcal immunizations.
+    
+25. Follow-Up (2021-10-26):
+    - Generalized anxiety disorder with a GAD-7 score of 3 (mild anxiety).
+    - Total score [HARK] of 0 (no history of humiliation, fear, rape, or kick).
+    - Total score [AUDIT-C] of 12 (indicating some alcohol use).
+    - Completed Influenza, Td (adult), Hep B, and meningococcal immunizations.
+    
+26. Follow-Up (2023-09-22):
+    - Viral sinusitis reported.
+
+Clinical Information and Advice:
+Basil Cartwright's medical history shows a pattern of mild depression and anxiety, as well as occasional physical injuries. He has received necessary immunizations, including those against COVID-19, influenza, Td, Hep B, and meningococcal diseases. His vital signs, such as blood pressure, heart rate, and respiratory rate, have been within normal ranges.
+
+Given Basil's history of anxiety and mild depression, it is advisable to continue monitoring his mental health and consider counseling or therapy options to address his emotional well-being. Additionally, regular follow-ups should be scheduled to manage his physical injuries and any other emerging health concerns.
+
+A comprehensive medication review and lifestyle assessment should be conducted to ensure the patient's overall health and well-being. Encourage Basil to maintain a healthy lifestyle, manage stress, and seek medical attention promptly for any new symptoms or injuries.
+
+Please schedule a follow-up appointment to discuss these recommendations and address any specific concerns Basil may have.

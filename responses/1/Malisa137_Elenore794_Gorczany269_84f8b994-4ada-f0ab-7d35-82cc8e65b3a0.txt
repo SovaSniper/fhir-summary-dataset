@@ -1,0 +1,52 @@
+Patient Summary for Malisa Gorczany
+
+Patient ID: 84f8b994-4ada-f0ab-7d35-82cc8e65b3a0
+Name: Malisa Gorczany
+Gender: Female
+Date of Birth: February 18, 1962
+Address: 245 Howe Skyway Unit 22, South Burlington, VT 05403
+
+Medical History:
+Malisa Gorczany has a significant medical history dating back to 1974, including the following conditions and events:
+
+1. Chronic Sinusitis: Diagnosed with chronic sinusitis.
+2. Prediabetes: Diagnosed with prediabetes in 1980.
+3. Anemia: Diagnosed with anemia in 1981.
+4. Employment: Maintained part-time and later full-time employment until 1999.
+5. Obesity: Had a body mass index (BMI) in the obesity range (30+) from 1993.
+6. Miscarriage: Experienced a miscarriage in the first trimester in 1999.
+7. Chronic Pain: Developed chronic pain, chronic low back pain, and fibromyalgia in 2010.
+8. Medication Review: Due for medication review in 2010.
+9. Pain Severity: Reported varying levels of pain severity, with scores ranging from 1.5 to 9.8 in 2014.
+10. Hemoglobin A1c: Maintained relatively stable hemoglobin A1c levels between 5.85% and 6.4%.
+11. Anxiety: Reported generalized anxiety disorder (GAD-7) scores between 2 and 19.
+12. Smoking Status: Tobacco smoking status reported.
+13. Immunizations: Received annual influenza vaccinations.
+
+Current Medical Status:
+Malisa's recent history includes:
+
+1. Polyp of Colon: Diagnosed with a colon polyp, with a size of 6.9 mm, and detected gastrointestinal bleeding.
+2. Streptococcal Sore Throat: Experienced streptococcal sore throat in 2022.
+3. Severe Anxiety: Reported severe anxiety (panic) with a GAD-7 score of 19 in 2023.
+4. Medication Review: Due for medication review in 2023.
+5. Immunizations: Received recent influenza and tetanus vaccinations.
+
+Clinical Assessment and Recommendations:
+Malisa Gorczany presents a complex medical history with ongoing health concerns. Given her chronic pain, fibromyalgia, and severe anxiety, it is crucial to address her physical and mental health holistically. Recommendations include:
+
+1. Pain Management: Continue to monitor and manage chronic pain, potentially with a multidisciplinary approach involving pain specialists, physical therapy, and counseling.
+
+2. Mental Health: Address severe anxiety through counseling, therapy, or medication, as deemed appropriate by a mental health professional.
+
+3. Medication Review: Schedule a comprehensive medication review to assess the effectiveness and safety of her current medications, especially in managing her chronic conditions.
+
+4. Lifestyle Modification: Encourage lifestyle modifications to address obesity and prediabetes, including dietary changes, exercise, and weight management.
+
+5. Colon Health: Follow up on the colon polyp diagnosis and bleeding, which may require further evaluation and surveillance.
+
+6. Smoking Cessation: Offer smoking cessation support and resources to assist with tobacco cessation.
+
+7. Regular Check-Ups: Continue annual influenza vaccinations and regular check-ups to monitor her overall health.
+
+Malisa Gorczany's ongoing care should involve close collaboration between her primary care physician, pain specialists, mental health professionals, and other specialists as needed to address her complex medical and psychological needs effectively.

@@ -1,0 +1,78 @@
+Patient Summary for Larkin917 Alva958 (DOB: 2004-10-19)
+
+Patient Information:
+- Patient Name: Larkin917 Alva958
+- Gender: Male
+- Date of Birth: October 19, 2004
+- Address: 823 Koch Vale, Rogers, AR 72712
+
+Medical History:
+
+1. Fracture of Bone (2012):
+   - On October 16, 2012, the patient had a history of a bone fracture.
+   - No ongoing issues or concerns were reported.
+
+2. Fracture of Rib (2013):
+   - On August 11, 2013, the patient experienced a rib fracture.
+   - No ongoing issues or concerns were reported.
+
+3. General Growth and Development:
+   - The patient's growth and development have been monitored over the years.
+   - Height and weight have consistently increased over time, with age-appropriate percentiles.
+   - Blood pressure and vital signs have generally remained within normal ranges.
+   
+4. Immunizations:
+   - The patient received regular immunizations, including influenza, HPV, meningococcal, and Tdap vaccinations.
+
+5. Mental Health:
+   - The patient has a history of anxiety and was diagnosed with Generalized Anxiety Disorder.
+   - PHQ-9 and GAD-7 scores have varied but remained relatively stable over time.
+   - The patient has received appropriate counseling and support.
+
+6. Otitis Media (2017):
+   - In 2017, the patient had a diagnosis of otitis media.
+   - No ongoing issues or concerns were reported.
+
+7. Viral Sinusitis (2017):
+   - In 2017, the patient had a diagnosis of viral sinusitis.
+   - No ongoing issues or concerns were reported.
+
+8. Acute Bronchitis (2020):
+   - In 2020, the patient was diagnosed with acute bronchitis.
+   - No ongoing issues or concerns were reported.
+
+9. Laceration of Forearm (2018):
+   - In 2018, the patient had a laceration of the forearm.
+   - No ongoing issues or concerns were reported.
+
+10. Medication Review:
+    - A medication review is due for the patient.
+
+11. COVID-19 Vaccination:
+    - The patient received the COVID-19 vaccine in 2021.
+
+12. Social and Lifestyle Factors:
+    - The patient's social and lifestyle factors include unsatisfactory housing, completion of high school equivalency, and unemployment.
+    - AUDIT-C and PHQ-2 scores indicate some alcohol use and mild depression symptoms.
+
+Clinical Advice and Course of Action:
+
+1. Continue to monitor the patient's growth and development regularly, including height, weight, and vital signs.
+
+2. Continue regular immunizations as recommended by guidelines.
+
+3. Provide ongoing support and counseling for the patient's anxiety and mental health concerns.
+
+4. Address any acute medical issues promptly, such as infections or injuries.
+
+5. Perform a thorough medication review to assess the patient's current medications and make any necessary adjustments.
+
+6. Address the patient's social and lifestyle factors, including housing, education, and employment, to ensure holistic care.
+
+7. Monitor and provide guidance on alcohol use and depression symptoms.
+
+8. Encourage the patient to maintain a healthy lifestyle, including regular exercise and a balanced diet.
+
+9. Schedule follow-up appointments to assess progress and address any new concerns.
+
+Please note that this summary is based on available information up to September 2021. It is important to conduct a comprehensive assessment and evaluation during the patient's next visit for more up-to-date information and personalized care.

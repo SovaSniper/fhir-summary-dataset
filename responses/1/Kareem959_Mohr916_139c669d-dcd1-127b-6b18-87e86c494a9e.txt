@@ -1,0 +1,44 @@
+Patient Summary for Kareem959 (Patient ID: 139c669d-dcd1-127b-6b18-87e86c494a9e)
+
+Patient Information:
+- Name: Kareem959
+- Gender: Male
+- Date of Birth: March 12, 2021
+- Address: 425 Koch Mall, Waimea, HI 96796
+
+Medical History:
+Kareem959's medical history begins with observations and assessments performed on March 12, 2021. At that time, he was 50.5 cm tall and weighed 3.4 kg. His weight-for-length percentile was 19.791%. The head occipital-frontal circumference was 34.24 cm. He exhibited no reported pain, and his vital signs were within the normal range.
+
+On April 16, 2021, his height had increased to 54.5 cm, and his weight had increased to 4.2 kg. The weight-for-length percentile was 9.4161%, and the head occipital-frontal circumference was 37.89 cm. Again, he had no reported pain, and his vital signs remained stable.
+
+Further assessments on June 18, 2021, showed Kareem959's height at 60 cm and weight at 5.6 kg, with a weight-for-length percentile of 19.002%. His head occipital-frontal circumference was 40.62 cm. Immunizations were completed on this date. His vital signs remained stable, and he reported a pain score of 4.
+
+On August 20, 2021, Kareem959's height had increased to 63.9 cm, and his weight was 6.8 kg, with a weight-for-length percentile of 32.712%. His head occipital-frontal circumference was 42.34 cm. Immunizations were completed once again. His vital signs remained within the normal range, and his pain score decreased to 3.
+
+Assessments on November 19, 2021, revealed a height of 68.6 cm, a weight of 8.1 kg, and a weight-for-length percentile of 37.519%. His head occipital-frontal circumference was 44.05 cm. Immunizations were completed, and he exhibited stable vital signs.
+
+Subsequent assessments on December 3, 2021, February 18, 2022, and May 20, 2022, showed continued growth, with Kareem959's height and weight increasing. Immunizations were completed on May 20, 2022. He reported varying levels of pain during these visits, with the highest score being 4.
+
+On August 19, 2022, Kareem959's height reached 83.8 cm, and his weight was 11.3 kg, with a weight-for-length percentile of 28.438%. His head occipital-frontal circumference was 47.49 cm. Immunizations were completed on this date. He reported a pain score of 1.
+
+Medical Conditions and Injuries:
+- On February 17, 2023, Kareem959 was diagnosed with an injury of the neck, specifically a whiplash injury.
+- On February 27, 2023, he was transferred to a skilled nursing facility.
+- On February 27, 2023, he was also diagnosed with acute bronchitis.
+- On May 4, 2023, Kareem959's height was 85.3 cm, and his weight was 11.7 kg, with a weight-for-length percentile of 36.121%. He exhibited stable vital signs and no reported pain.
+- On May 12, 2023, his height, weight, and vital signs remained consistent, with a pain score of 1.
+
+Allergies:
+Kareem959 has been tested for various allergies, with IgE antibody levels within normal ranges for multiple allergens.
+
+Current Medication:
+There is no information available regarding Kareem959's current medication.
+
+Recommendations:
+1. Continue monitoring Kareem959's growth and development.
+2. Monitor and manage his pain as needed, especially following the diagnosis of whiplash injury.
+3. Continue immunizations according to the recommended schedule.
+4. Keep an eye on any potential allergies, and consult with an allergist if necessary.
+5. Review medications and update as needed.
+
+Please note that this summary is based on available data as of September 2021, and further assessments and interventions may have occurred since then. It is important for healthcare providers to continue regular check-ups and provide appropriate care based on the most current information.

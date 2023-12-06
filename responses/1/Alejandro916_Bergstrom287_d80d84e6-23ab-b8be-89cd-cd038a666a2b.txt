@@ -1,0 +1,31 @@
+Patient d80d84e6-23ab-b8be-89cd-cd038a666a2b, Mr. Alejandro Bergstrom287, a 19-year-old male, residing at 580 Dare Heights, Norman, OK 74857, was born on July 29, 2003. This clinical summary provides a comprehensive overview of his medical history, treatment course, and relevant clinical information for effective care management.
+
+**Medical History:**
+- April 22, 2014: Mr. Bergstrom287 was diagnosed with Streptococcal sore throat, with a recorded body temperature of 37.92°C.
+- August 12, 2014: Immunizations for Tdap, HPV (quadrivalent), and meningococcal MCV4P were administered.
+- August 18, 2015: Immunizations for Influenza and HPV (quadrivalent) were completed.
+- August 23, 2016: Immunizations for Influenza and HPV (quadrivalent) were updated.
+- August 29, 2017: Mr. Bergstrom287's Generalized Anxiety Disorder (GAD-7) score was noted, and immunizations for Influenza and HPV (quadrivalent) were administered.
+- September 10, 2019: Immunizations for Influenza and meningococcal MCV4P were updated.
+- September 15, 2020: Mr. Bergstrom287 presented with Acute Bronchitis.
+- September 14, 2021: Immunization for SARS-COV-2 (COVID-19) was administered.
+- September 21, 2021: GAD-7, PHQ-2, and AUDIT-C scores were recorded.
+- September 28, 2021: Mr. Bergstrom287 sustained a neck injury and was transferred to a skilled nursing facility.
+- September 27, 2022: Immunization for Influenza was updated, and the HARK questionnaire was administered.
+
+**Current Clinical Information:**
+- Mr. Bergstrom287's recent vital signs include a height of 174.1 cm, body weight of 77.4 kg, blood pressure ranging from 91/117 mm[Hg] to 93/109 mm[Hg], heart rate of 76/min, and respiratory rate of 14/min.
+- He reported a pain severity score ranging from 0 to 10, with the most recent score being 2.
+- His BMI has ranged from 18.43 kg/m² to 26.93 kg/m², with the latest percentile indicating 79.93% for his age and sex.
+- Immunizations for Influenza and SARS-COV-2 (COVID-19) were administered in 2021 and 2022, respectively.
+- Mr. Bergstrom287's mental health has been assessed periodically, with the most recent GAD-7 score at 4, PHQ-2 score at 2, and AUDIT-C score at 1.
+
+**Advice and Course of Action:**
+1. **Medication Review**: Mr. Bergstrom287 is due for a medication review, considering his ongoing medication needs and recent diagnoses.
+2. **Immunizations**: Continue to monitor and update immunizations as per the recommended schedule.
+3. **Mental Health**: Given the history of Generalized Anxiety Disorder, maintain regular mental health assessments and consider appropriate interventions if necessary.
+4. **Neck Injury**: Continue monitoring Mr. Bergstrom287's neck injury and provide necessary care and rehabilitation.
+5. **Lifestyle Factors**: Note the patient's housing, education, employment, and stress levels, and address any relevant concerns.
+6. **Pain Management**: Monitor and manage pain as needed, ensuring Mr. Bergstrom287's comfort and well-being.
+
+This summary serves as a foundation for ongoing care and management. Collaborate with Mr. Bergstrom287 to address his health concerns, provide guidance, and make informed decisions about his healthcare plan.

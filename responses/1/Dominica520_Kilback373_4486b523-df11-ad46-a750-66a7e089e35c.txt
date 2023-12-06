@@ -1,0 +1,30 @@
+Patient 4486b523-df11-ad46-a750-66a7e089e35c, Dominica520, is a female born on March 20, 2002, residing at 323 Watsica Mission Suite 60, Trenton, TN 38382. The patient's medical history reveals a series of diagnoses, observations, and treatment courses spanning several years.
+
+Diagnosis and Medical History:
+1. Perennial Allergic Rhinitis: Diagnosed on May 3, 2003.
+2. Generalized Anxiety Disorder: Initially observed on May 20, 2015, and consistently reported throughout the medical history.
+3. Acute Viral Pharyngitis: Diagnosed on October 11, 2015.
+4. Acute Bronchitis: Diagnosed on October 21, 2015, and again on February 10, 2016.
+5. Viral Sinusitis: Diagnosed on December 30, 2015.
+6. Normal Pregnancy: Noted in the medical history.
+7. Preeclampsia: Diagnosed on November 21, 2018, during pregnancy.
+8. Medication Review Due: Situation noted at various times in the patient's history.
+9. Risk Activity Involvement: Noted at various times.
+
+Observations:
+- The patient's vital signs, including height, weight, BMI, blood pressure, heart rate, and respiratory rate, have been consistently monitored.
+- Various scores from assessment tools like the Patient Health Questionnaire-9 (PHQ-9), Patient Health Questionnaire-9: Modified for Teens (PHQ.Teen), and Generalized Anxiety Disorder 7 item (GAD-7) have been recorded.
+- Immunizations for influenza and HPV have been completed in 2014 and 2015.
+
+Recent Updates:
+- The patient received the SARS-COV-2 (COVID-19) vaccine in 2021.
+- Medication 807283, Mirena 52 MG Intrauterine System, is currently active.
+
+Advice and Course of Action:
+1. Continue monitoring the patient's vital signs regularly.
+2. Given the history of generalized anxiety disorder, consider ongoing mental health support and treatment options as needed.
+3. Ensure the patient is up-to-date with recommended immunizations.
+4. Discuss medication reviews when due to address any potential medication-related concerns.
+5. Monitor the patient's overall health and well-being closely, considering the history of various medical conditions.
+
+In summary, Patient 4486b523-df11-ad46-a750-66a7e089e35c has a complex medical history with a focus on allergic rhinitis, anxiety disorders, and various acute respiratory conditions. A holistic approach to care, including mental health support, immunizations, and regular check-ups, is recommended to ensure her well-being.

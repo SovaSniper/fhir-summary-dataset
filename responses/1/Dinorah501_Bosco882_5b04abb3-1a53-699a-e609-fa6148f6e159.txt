@@ -1,0 +1,41 @@
+Patient Summary for Bosco882 Dinorah501
+
+Patient Information:
+- Name: Bosco882 Dinorah501
+- Gender: Female
+- Date of Birth: December 17, 2002
+- Address: 782 Waelchi Fork, Ranchester, WY 82839
+
+Medical History:
+- December 25, 2012: The patient had a height of 133 cm, no reported pain, a weight of 36.1 kg, and a BMI of 20.41 kg/m2. Blood pressure was 73/151 mm[Hg], heart rate was 68/min, and respiratory rate was 14/min. Blood work showed normal values for leukocytes, erythrocytes, hemoglobin, hematocrit, MCV, MCH, MCHC, erythrocyte distribution width, platelets, and platelet parameters. The patient had completed several immunizations.
+- January 6, 2015: The patient's height increased to 139.9 cm, with a reported pain score of 3. Weight was 44.5 kg, BMI was 22.76 kg/m2, and blood pressure was 77/149 mm[Hg]. Heart rate was 88/min, respiratory rate was 14/min, and the patient was diagnosed with generalized anxiety disorder. Immunizations were up to date.
+- August 10, 2015: Height increased to 146.5 cm, reported pain score of 2, weight of 50.3 kg, and BMI of 23.45 kg/m2. Blood pressure was 72/142 mm[Hg], heart rate was 66/min, and respiratory rate was 13/min. The patient continued to have generalized anxiety disorder, and immunizations were updated.
+- January 12, 2016: Height was 150.4 cm, pain score of 2, weight of 56.8 kg, and BMI of 25.09 kg/m2. Blood pressure was 74/136 mm[Hg], heart rate was 71/min, and respiratory rate was 15/min. The patient's generalized anxiety disorder persisted, and immunizations were updated.
+- January 17, 2017: The patient had a height of 151.9 cm, reported pain score of 1, weight of 60.5 kg, and BMI of 26.21 kg/m2. Blood pressure was 74/142 mm[Hg], heart rate was 87/min, and respiratory rate was 12/min. The patient's anxiety symptoms improved. Immunizations were updated.
+- January 23, 2018: Height increased to 152.6 cm, pain score of 2, weight of 64.9 kg, and BMI of 27.89 kg/m2. Blood pressure was 74/153 mm[Hg], heart rate was 77/min, and respiratory rate was 13/min. Blood work showed normal values, and the patient received the Liletta intrauterine system.
+- January 29, 2019: Height reached 152.9 cm, pain score of 4, weight of 64.2 kg, and BMI of 27.47 kg/m2. Blood pressure was 78/137 mm[Hg], heart rate was 63/min, and respiratory rate was 16/min. The patient's anxiety symptoms persisted, and she was diagnosed with a concussion.
+- October 4, 2019, to May 18, 2021: The patient had multiple appointments with varying heights, pain scores, weights, and BMI. She continued to struggle with anxiety and received immunizations.
+- February 9, 2022: The patient's height was 153.2 cm, pain score of 2, weight of 70.7 kg, and BMI of 30.13 kg/m2. Blood pressure was 73/139 mm[Hg], heart rate was 81/min, and respiratory rate was 14/min. She had generalized anxiety disorder, and the Patient Health Questionnaire 2 item (PHQ-2) and Alcohol Use Disorder Identification Test (AUDIT-C) scores were elevated.
+- February 15, 2022, to May 17, 2022: The patient had a series of appointments with varying heights and pain scores. Her anxiety symptoms persisted.
+- June 5, 2022: The patient's records indicate normal pregnancy.
+- July 5, 2022, to March 21, 2023: The patient had multiple appointments with varying heights, pain scores, weights, and BMI. She continued to experience generalized anxiety disorder and received immunizations.
+- April 20, 2023: The patient received a SARS-COV-2 (COVID-19) vaccine.
+
+Clinical Information and Advice:
+- The patient's medical history shows a persistent pattern of generalized anxiety disorder. It is essential to continue monitoring her mental health, providing appropriate therapy or medication as needed.
+- Regular immunizations have been administered, ensuring her protection against various diseases.
+- The patient has experienced a concussion, and any related symptoms should be carefully monitored and managed.
+- The patient's BMI has increased over the years, and it is advisable to discuss healthy lifestyle choices and weight management strategies with her.
+- The recent pregnancy should be closely monitored, and the patient should receive appropriate prenatal care.
+- The patient's use of alcohol should be assessed and monitored, given the elevated AUDIT-C score.
+
+Course of Action:
+1. Continue regular mental health assessments and treatment for generalized anxiety disorder. Consider referral to a mental health specialist if necessary.
+2. Monitor the patient's weight and BMI, and provide guidance on maintaining a healthy lifestyle, including diet and exercise.
+3. Ensure the patient receives recommended immunizations according to the latest guidelines.
+4. Monitor the patient's pregnancy and provide appropriate prenatal care.
+5. Assess the patient's alcohol use and provide counseling or support if indicated.
+6. Continue to monitor and manage any concussion-related symptoms.
+7. Schedule regular follow-up appointments to track the patient's overall health and well-being.
+
+Please note that this summary provides a comprehensive overview of the patient's medical history and current status, but individualized treatment plans should be developed in consultation with the patient and based on the latest medical guidelines and assessments.

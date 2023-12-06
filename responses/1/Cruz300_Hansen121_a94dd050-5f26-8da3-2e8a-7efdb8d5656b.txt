@@ -1,0 +1,41 @@
+Patient Summary for Hansen121 Cruz300:
+
+Patient Information:
+- Name: Hansen121 Cruz300
+- Gender: Male
+- Date of Birth: June 10, 1968
+- Address: 839 Collier Mews Apt 80, Billings, MT 59101
+
+Medical History:
+- The patient's medical history dates back to 1968, and he has had several medical evaluations and diagnoses over the years.
+- Notable conditions include chronic sinusitis, obesity (BMI >30), generalized anxiety disorder (GAD), and a recent diagnosis of concussion injury of the brain.
+- The patient has a history of stress, which has been a recurring finding in various medical notes.
+- There are also indications of intimate partner abuse and reports of violence in the environment.
+
+Treatment Course:
+- The patient's medical treatment includes medications, immunizations, and periodic reviews.
+- Medication reviews have been periodically scheduled, and the patient is due for a review.
+- Immunizations have been administered, including influenza and zoster vaccines, as well as the COVID-19 vaccine.
+- The patient has undergone various diagnostic tests, including lipid panels, CBC panels, and assessments for alcohol and drug use.
+- The patient's pain severity has been reported, with scores ranging from 0 to 4 over the years.
+
+Clinical Information:
+- The patient's current BMI is 28.61 kg/m², indicating overweight status.
+- Blood pressure readings have varied but are within the normal range during recent observations.
+- The patient has reported symptoms of anxiety and has received scores on the GAD-7 questionnaire.
+- There is a history of intimate partner abuse, and the patient's safety and well-being should be closely monitored.
+
+Course of Action:
+1. Medication Review: Schedule a comprehensive medication review for the patient to assess the efficacy and safety of current medications. Address any concerns or side effects.
+
+2. Psychological Support: Given the history of anxiety and exposure to abuse, consider referring the patient to a mental health professional for counseling and support.
+
+3. Lifestyle Modification: Encourage the patient to adopt a healthier lifestyle, including weight management through diet and exercise, stress management techniques, and smoking cessation if applicable.
+
+4. Safety Assessment: Assess the patient's safety in the context of intimate partner abuse, and provide resources for assistance and protection if necessary.
+
+5. Regular Follow-Up: Schedule regular follow-up appointments to monitor the patient's progress, manage chronic conditions, and ensure overall well-being.
+
+6. Pain Management: Address the patient's reported pain and explore appropriate pain management options.
+
+This summary provides an overview of the patient's medical history, current status, and recommended actions to guide their ongoing care. It is essential to prioritize the patient's physical and mental health, considering their complex medical and psychosocial history.

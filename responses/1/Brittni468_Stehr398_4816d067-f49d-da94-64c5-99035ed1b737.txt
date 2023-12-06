@@ -1,0 +1,90 @@
+Patient 4816d067-f49d-da94-64c5-99035ed1b737, a female born on May 14, 2014, residing at 122 O'Kon Grove, Temple Hills, MD 20748, presents a comprehensive medical history for review. The patient's medical journey is summarized as follows:
+
+**Initial Assessment (May 14, 2014):**
+- Body Height: 51.6 cm
+- Pain Severity (0-10 Verbal Numeric Rating): Reported 3
+- Body Weight: 2.8 kg
+- Weight-for-Length: 0.011714%
+- Head Occipital-frontal Circumference: 34.73 cm
+- Blood Pressure: 82/119 mm[Hg]
+- Heart Rate: 95/min
+- Respiratory Rate: 13/min
+- Immunization Status: Completed Hep B, adolescent or pediatric
+
+**Diagnosis Report (May 14, 2014):**
+- CBC Panel - Blood by Automated Count
+
+**Subsequent Assessments:**
+The patient's growth and development progress as follows:
+
+- **June 18, 2014:**
+  - Body Height: 55.2 cm
+  - Pain Severity: Reported 3
+  - Body Weight: 3.4 kg
+  - Head Occipital-frontal Circumference: 38 cm
+  - Blood Pressure: 87/119 mm[Hg]
+  - Heart Rate: 69/min
+  - Respiratory Rate: 15/min
+  - Immunization Status: Completed Hep B, adolescent or pediatric
+
+- **August 20, 2014:**
+  - Body Height: 60.3 cm
+  - Pain Severity: Reported 3
+  - Body Weight: 4.5 kg
+  - Head Occipital-frontal Circumference: 40.49 cm
+  - Blood Pressure: 83/129 mm[Hg]
+  - Heart Rate: 74/min
+  - Respiratory Rate: 13/min
+  - Immunization Status: Completed Hib (PRP-OMP), rotavirus, monovalent, IPV, DTaP, Pneumococcal conjugate PCV 13
+
+- **September 16, 2014:**
+  - Body Height: 64.3 cm
+  - Pain Severity: Reported 2
+  - Body Weight: 5.5 kg
+  - Head Occipital-frontal Circumference: 42.1 cm
+  - Blood Pressure: 83/120 mm[Hg]
+  - Heart Rate: 62/min
+  - Respiratory Rate: 14/min
+  - Immunization Status: Completed Hib (PRP-OMP), rotavirus, monovalent, IPV, DTaP, Pneumococcal conjugate PCV 13
+
+- **October 22, 2014:**
+  - Body Height: 69.1 cm
+  - Pain Severity: Reported 1
+  - Body Weight: 6.7 kg
+  - Head Occipital-frontal Circumference: 43.75 cm
+  - Blood Pressure: 85/134 mm[Hg]
+  - Heart Rate: 84/min
+  - Respiratory Rate: 15/min
+  - Immunization Status: Completed IPV, Influenza, seasonal, injectable, preservative-free, DTaP, Pneumococcal conjugate PCV 13, Hep B, adolescent or pediatric
+
+**Diagnoses and Conditions:**
+- Acute Viral Pharyngitis (2014)
+- Acute Bronchitis (2015)
+- Viral Sinusitis (2015)
+- Otitis Media (2016, 2017, 2018)
+- Sprain of Ankle (2017)
+- Fracture of Clavicle (2022)
+
+**Immunizations and Allergies:**
+The patient has received age-appropriate immunizations and shows no reported allergies to common allergens.
+
+**Current Assessment (May 17, 2023):**
+- Body Height: 132.8 cm
+- Pain Severity: Reported 4
+- Body Weight: 26.8 kg
+- Blood Pressure: 88/127 mm[Hg]
+- Heart Rate: 97/min
+- Respiratory Rate: 13/min
+- Immunization Status: Completed Influenza, seasonal, injectable, preservative-free
+
+**Course of Action:**
+1. Continue routine check-ups to monitor growth and development.
+2. Schedule a comprehensive pain assessment to address the patient's reported pain severity.
+3. Consider a review of medications and their impact on pain management.
+4. Ensure adherence to recommended immunization schedules.
+5. Maintain vigilance for any signs of recurrent otitis media or sinusitis.
+6. Monitor any ongoing issues related to the clavicle fracture.
+7. Educate the patient and caregivers on injury prevention.
+8. Address any emerging health concerns in a timely manner.
+
+This summary provides an overview of the patient's medical history, growth, immunization status, and recent assessments, guiding healthcare providers in delivering effective care and monitoring the patient's well-being. Regular follow-up appointments are crucial to ensure the patient's continued health and development.
